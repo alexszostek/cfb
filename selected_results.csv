@@ -1,0 +1,858 @@
+Week,AwayTeamName,AwayTeamID,HomeTeamName,HomeTeamID,PointSpread,OverUnder,DateTimeUTC,NeutralVenue,Conference_away,Conference_home
+1,Towson Tigers,127,Maryland Terrapins,92,,,2023-08-30T19:30:00,False,,Big Ten - East
+1,Central Michigan Chippewas,185,Michigan State Spartans,97,-9.6,34.1,2023-08-29T23:00:00,False,Mid-American - West,Big Ten - East
+1,East Carolina Pirates,9,Michigan Wolverines,95,-23.7,35.4,2023-08-30T16:00:00,False,American Athletic,Big Ten - East
+1,Nebraska Cornhuskers,99,Minnesota Golden Gophers,104,-4.8,31.3,2023-08-29T00:00:00,False,Big Ten - West,Big Ten - West
+1,South Dakota Coyotes,321,Missouri Tigers,280,,,2023-08-29T00:00:00,False,,SEC - East
+1,Mercer Bears,284,Ole Miss Rebels,274,,,2023-08-30T18:00:00,False,,SEC - West
+1,South Carolina Gamecocks,267,North Carolina Tar Heels,21,-1.7,43.0,2023-08-30T23:30:00,True,SEC - East,Atlantic Coast
+1,Northwestern Wildcats,100,Rutgers Scarlet Knights,103,-4.8,28.2,2023-08-31T16:00:00,False,Big Ten - West,Big Ten - East
+1,Western Illinois Leathernecks,322,New Mexico State Aggies,344,,,2023-08-31T01:00:00,False,,Conference USA
+1,UMass Minutemen,55,Auburn Tigers,279,-27.5,37.2,2023-08-30T19:30:00,False,FBS Independents,SEC - West
+1,West Virginia Mountaineers,107,Penn State Nittany Lions,101,-14.1,35.8,2023-08-30T23:30:00,False,Big 12,Big Ten - East
+1,Maine Black Bears,17,Florida International Panthers,140,,,2023-08-30T22:30:00,False,,Conference USA
+1,Utah State Aggies,220,Iowa Hawkeyes,91,-16.2,29.6,2023-08-30T16:00:00,False,Mountain West,Big Ten - West
+1,Bowling Green Falcons,181,Liberty Flames,84,-8.6,35.4,2023-08-30T16:00:00,False,Mid-American - East,Conference USA
+1,Florida International Panthers,140,Louisiana Tech Bulldogs,137,-6.9,40.6,2023-08-24T01:00:00,False,Conference USA,Conference USA
+1,Hawaii Rainbow Warriors,115,Vanderbilt Commodores,273,-12.4,37.8,2023-08-23T23:30:00,False,Mountain West,SEC - East
+1,Alabama A&M Bulldogs,309,Vanderbilt Commodores,273,,,2023-08-30T23:00:00,False,,SEC - East
+1,Army Black Knights,263,UL Monroe Warhawks,326,3.6,33.4,2023-08-30T23:00:00,False,FBS Independents,Sun Belt - West
+1,New Mexico Lobos,214,Texas A&M Aggies,270,-25.8,33.0,2023-08-30T23:00:00,False,Mountain West,SEC - West
+1,Fresno State Bulldogs,213,Purdue Boilermakers,94,-3.1,34.7,2023-08-30T16:00:00,False,Mountain West,Big Ten - West
+1,Sam Houston Bearkats,295,BYU Cougars,336,-15.5,34.7,2023-08-31T02:15:00,False,Conference USA,Big 12
+1,Florida Gators,271,Utah Utes,248,-4.8,31.6,2023-08-29T00:00:00,False,SEC - East,Pac-12
+1,Louisiana Tech Bulldogs,137,SMU Mustangs,1,-12.7,45.1,2023-08-30T16:00:00,False,Conference USA,American Athletic
+1,Tennessee Volunteers,277,Virginia Cavaliers,22,19.6,40.2,2023-08-30T16:00:00,True,SEC - East,Atlantic Coast
+1,Incarnate Word Cardinals,294,UTEP Miners,139,,,2023-08-31T01:00:00,False,,Conference USA
+1,Buffalo Bulls,179,Wisconsin Badgers,96,-18.2,38.2,2023-08-30T19:30:00,False,Mid-American - East,Big Ten - West
+1,Middle Tennessee Blue Raiders,135,Alabama Crimson Tide,275,-26.8,37.8,2023-08-30T23:30:00,False,Conference USA,SEC - West
+1,SE Louisiana Lions,300,Mississippi State Bulldogs,278,,,2023-08-30T20:00:00,False,,SEC - West
+1,Toledo Rockets,183,Illinois Fighting Illini,102,-6.2,34.7,2023-08-30T23:30:00,False,Mid-American - West,Big Ten - West
+1,NC State Wolfpack,33,UConn Huskies,3,10.3,33.0,2023-08-28T23:30:00,False,Atlantic Coast,FBS Independents
+1,LSU Tigers,269,Florida State Seminoles,29,1.2,38.5,2023-08-31T23:30:00,True,SEC - West,Atlantic Coast
+1,UTEP Miners,139,Jacksonville State Gamecocks,238,0.7,36.1,2023-08-23T21:30:00,False,Conference USA,Conference USA
+1,UT Martin Skyhawks,241,Georgia Bulldogs,272,,,2023-08-30T22:00:00,False,,SEC - East
+1,Western Carolina Catamounts,287,Arkansas Razorbacks,276,,,2023-08-30T20:00:00,False,,SEC - West
+1,Ohio State Buckeyes,98,Indiana Hoosiers,93,19.6,41.3,2023-08-30T19:30:00,False,Big Ten - East,Big Ten - East
+1,Ball State Cardinals,184,Kentucky Wildcats,268,-17.9,33.4,2023-08-30T16:00:00,False,Mid-American - West,SEC - East
+1,South Florida Bulls,11,Western Kentucky Hilltoppers,144,-9.3,48.5,2023-08-30T19:30:00,False,American Athletic,Conference USA
+1,Northern Arizona Lumberjacks,79,Arizona Wildcats,247,,,2023-08-31T02:00:00,False,,Pac-12
+1,Oregon State Beavers,252,San Jose State Spartans,222,11.4,37.5,2023-08-31T19:30:00,False,Pac-12,Mountain West
+1,Portland State Vikings,76,Oregon Ducks,245,,,2023-08-30T19:00:00,False,,Pac-12
+1,California Golden Bears,251,North Texas Mean Green,141,3.8,39.6,2023-08-30T20:00:00,False,Pac-12,American Athletic
+1,Coastal Carolina Chanticleers,81,UCLA Bruins,253,-11.0,44.4,2023-08-31T02:30:00,False,Sun Belt - East,Pac-12
+1,Colorado Buffaloes,250,TCU Horned Frogs,114,-14.1,40.9,2023-08-30T16:00:00,False,Pac-12,Big 12
+1,Boise State Broncos,215,Washington Huskies,249,-10.0,40.6,2023-08-30T19:30:00,False,Mountain West,Pac-12
+1,San Jose State Spartans,222,USC Trojans,246,-21.0,44.0,2023-08-24T00:00:00,False,Mountain West,Pac-12
+1,Nevada Wolf Pack,216,USC Trojans,246,-26.5,43.7,2023-08-30T22:30:00,False,Mountain West,Pac-12
+1,Washington State Cougars,256,Colorado State Rams,217,5.7,39.9,2023-08-30T23:00:00,False,Pac-12,Mountain West
+1,Stanford Cardinal,254,Hawaii Rainbow Warriors,115,3.3,40.2,2023-08-30T03:00:00,False,Pac-12,Mountain West
+1,Southern Utah Thunderbirds,78,Arizona State Sun Devils,255,,,2023-08-29T02:00:00,False,,Pac-12
+1,UMass Minutemen,55,New Mexico State Aggies,344,-5.2,30.6,2023-08-23T23:00:00,False,FBS Independents,Conference USA
+1,Navy Midshipmen,258,Notre Dame Fighting Irish,25,-14.1,35.4,2023-08-23T18:30:00,True,American Athletic,FBS Independents
+1,Tennessee State Tigers,235,Notre Dame Fighting Irish,25,,,2023-08-30T19:30:00,False,,FBS Independents
+1,Northern Illinois Huskies,186,Boston College Eagles,35,-6.2,35.8,2023-08-30T16:00:00,False,Mid-American - West,Atlantic Coast
+1,Clemson Tigers,27,Duke Blue Devils,26,6.2,37.8,2023-09-02T00:00:00,False,Atlantic Coast,Atlantic Coast
+1,Elon Phoenix,130,Wake Forest Demon Deacons,34,,,2023-08-28T23:00:00,False,,Atlantic Coast
+1,Colgate Raiders,261,Syracuse Orange,30,,,2023-08-30T20:00:00,False,,Atlantic Coast
+1,Wofford Terriers,285,Pittsburgh Panthers,28,,,2023-08-30T19:30:00,False,,Atlantic Coast
+1,Miami (OH) RedHawks,182,Miami Hurricanes,23,-12.4,32.0,2023-08-29T23:00:00,False,Mid-American - East,Atlantic Coast
+1,Old Dominion Monarchs,138,Virginia Tech Hokies,31,-9.6,34.4,2023-08-31T00:00:00,False,Sun Belt - East,Atlantic Coast
+1,Louisville Cardinals,24,Georgia Tech Yellow Jackets,32,4.0,35.1,2023-08-29T23:30:00,True,Atlantic Coast,Atlantic Coast
+1,Central Arkansas Bears,298,Oklahoma State Cowboys,113,,,2023-08-30T23:00:00,False,,Big 12
+1,Arkansas State Red Wolves,327,Oklahoma Sooners,105,-23.0,41.6,2023-08-30T16:00:00,False,Sun Belt - West,Big 12
+1,Kent State Golden Flashes,178,UCF Knights,8,-23.7,40.2,2023-08-28T23:00:00,False,Mid-American - East,Big 12
+1,Eastern Kentucky Colonels,237,Cincinnati Bearcats,4,,,2023-08-30T19:30:00,False,,Big 12
+1,Missouri State Bears,208,Kansas Jayhawks,106,,,2023-08-30T00:00:00,False,,Big 12
+1,Southeast Missouri State Redhawks,243,Kansas State Wildcats,112,,,2023-08-30T23:00:00,False,,Big 12
+1,Texas State Bobcats,332,Baylor Bears,108,-17.5,40.2,2023-08-30T23:00:00,False,Sun Belt - West,Big 12
+1,UTSA Roadrunners,147,Houston Cougars,6,0.0,42.0,2023-08-30T23:00:00,False,American Athletic,Big 12
+1,Rice Owls,146,Texas Longhorns,109,-24.1,40.9,2023-08-30T19:30:00,False,American Athletic,Big 12
+1,Texas Tech Red Raiders,111,Wyoming Cowboys,219,6.6,37.2,2023-08-30T23:30:00,False,Big 12,Mountain West
+1,Northern Iowa Panthers,206,Iowa State Cyclones,110,,,2023-08-30T18:00:00,False,,Big 12
+1,Arkansas-Pine Bluff Golden Lions,310,Tulsa Golden Hurricane,5,,,2023-08-29T00:00:00,False,,American Athletic
+1,Akron Zips,177,Temple Owls,2,-7.2,37.5,2023-08-30T18:00:00,False,Mid-American - East,American Athletic
+1,Monmouth Hawks,166,Florida Atlantic Owls,145,,,2023-08-30T22:00:00,False,,American Athletic
+1,Bethune-Cookman Wildcats,192,Memphis Tigers,7,,,2023-08-30T23:00:00,False,,American Athletic
+1,South Carolina State Bulldogs,190,Charlotte 49ers,142,,,2023-08-30T22:00:00,False,,American Athletic
+1,South Alabama Jaguars,330,Tulane Green Wave,10,-4.8,38.2,2023-08-31T00:00:00,False,Sun Belt - West,American Athletic
+1,North Carolina A&T Aggies,196,UAB Blazers,134,,,2023-08-29T00:00:00,False,,American Athletic
+1,Gardner-Webb Bulldogs,83,Appalachian State Mountaineers,331,,,2023-08-30T19:30:00,False,,Sun Belt - East
+1,Rhode Island Rams,50,Georgia State Panthers,328,,,2023-08-28T23:00:00,False,,Sun Belt - East
+1,Bucknell Bison,257,James Madison Dukes,126,,,2023-08-30T22:00:00,False,,Sun Belt - East
+1,Alcorn State Braves,307,Southern Miss Golden Eagles,143,,,2023-08-30T23:00:00,False,,Sun Belt - West
+1,Stephen F. Austin Lumberjacks,291,Troy Trojans,333,,,2023-08-30T23:00:00,False,,Sun Belt - West
+1,Albany Great Danes,13,Marshall Thundering Herd,136,,,2023-08-30T22:00:00,False,,Sun Belt - East
+1,The Citadel Bulldogs,288,Georgia Southern Eagles,329,,,2023-08-30T22:00:00,False,,Sun Belt - East
+1,Northwestern State Demons,301,Louisiana Ragin Cajuns,324,,,2023-08-30T23:30:00,False,,Sun Belt - West
+1,Long Island University Sharks,229,Ohio Bobcats,180,,,2023-08-30T16:00:00,False,,Mid-American - East
+1,Ohio Bobcats,180,San Diego State Aztecs,212,-2.1,34.4,2023-08-23T23:00:00,False,Mid-American - East,Mountain West
+1,Howard Bison,195,Eastern Michigan Eagles,187,,,2023-08-29T22:30:00,False,,Mid-American - West
+1,St. Francis (PA) Red Flash,225,Western Michigan Broncos,188,,,2023-08-28T23:00:00,False,,Mid-American - West
+1,Robert Morris Colonials,230,Air Force Falcons,221,,,2023-08-30T17:00:00,False,,Mountain West
+1,Idaho State Bengals,72,San Diego State Aztecs,212,,,2023-08-31T02:30:00,False,,Mountain West
+1,Bryant Bulldogs,231,UNLV Rebels,218,,,2023-08-30T20:00:00,False,,Mountain West
+1,East Tennessee State Buccaneers,282,Jacksonville State Gamecocks,238,,,2023-08-30T18:00:00,False,,Conference USA
+2,Charlotte 49ers,142,Maryland Terrapins,92,,,2023-09-12T23:30:00,False,American Athletic,Big Ten - East
+2,Richmond Spiders,52,Michigan State Spartans,97,,,2023-09-12T19:30:00,False,,Big Ten - East
+2,UNLV Rebels,218,Michigan Wolverines,95,,,2023-09-12T19:30:00,False,Mountain West,Big Ten - East
+2,Eastern Michigan Eagles,187,Minnesota Golden Gophers,104,,,2023-09-12T23:30:00,False,Mid-American - West,Big Ten - West
+2,Middle Tennessee Blue Raiders,135,Missouri Tigers,280,,,2023-09-12T23:00:00,False,Conference USA,SEC - East
+2,Vanderbilt Commodores,273,Wake Forest Demon Deacons,34,,,2023-09-12T15:00:00,False,SEC - East,Atlantic Coast
+2,Temple Owls,2,Rutgers Scarlet Knights,103,,,2023-09-12T23:30:00,False,American Athletic,Big Ten - East
+2,Youngstown State Penguins,155,Ohio State Buckeyes,98,,,2023-09-12T16:00:00,False,,Big Ten - East
+2,Delaware Blue Hens,133,Penn State Nittany Lions,101,,,2023-09-12T16:00:00,False,,Big Ten - East
+2,North Texas Mean Green,141,Florida International Panthers,140,,,2023-09-12T22:30:00,False,American Athletic,Conference USA
+2,UConn Huskies,3,Georgia State Panthers,328,,,2023-09-12T23:00:00,False,FBS Independents,Sun Belt - East
+2,Illinois Fighting Illini,102,Kansas Jayhawks,106,,,2023-09-11T23:30:00,False,Big Ten - West,Big 12
+2,New Mexico State Aggies,344,Liberty Flames,84,,,2023-09-12T22:00:00,False,Conference USA,Conference USA
+2,Northwestern State Demons,301,Louisiana Tech Bulldogs,137,,,2023-09-12T23:00:00,False,,Conference USA
+2,Texas A&M Aggies,270,Miami Hurricanes,23,10.3,,2023-09-12T19:30:00,False,SEC - West,Atlantic Coast
+2,Auburn Tigers,279,California Golden Bears,251,,,2023-09-13T02:30:00,False,SEC - West,Pac-12
+2,Air Force Falcons,221,Sam Houston Bearkats,295,,,2023-09-13T00:00:00,True,Mountain West,Conference USA
+2,Furman Paladins,283,South Carolina Gamecocks,267,,,2023-09-12T23:30:00,False,,SEC - East
+2,Purdue Boilermakers,94,Virginia Tech Hokies,31,,,2023-09-12T16:00:00,False,Big Ten - West,Atlantic Coast
+2,Austin Peay Governors,242,Tennessee Volunteers,277,,,2023-09-12T21:00:00,False,,SEC - East
+2,Wisconsin Badgers,96,Washington State Cougars,256,,,2023-09-12T23:30:00,False,Big Ten - West,Pac-12
+2,Ole Miss Rebels,274,Tulane Green Wave,10,,,2023-09-12T19:30:00,False,SEC - West,American Athletic
+2,Jacksonville State Gamecocks,238,Coastal Carolina Chanticleers,81,,,2023-09-12T23:00:00,False,Conference USA,Sun Belt - East
+2,Texas Longhorns,109,Alabama Crimson Tide,275,-9.6,,2023-09-12T23:00:00,False,Big 12,SEC - West
+2,Arizona Wildcats,247,Mississippi State Bulldogs,278,,,2023-09-12T23:30:00,False,Pac-12,SEC - West
+2,Delaware State Hornets,201,Army Black Knights,263,,,2023-09-12T16:00:00,False,,FBS Independents
+2,Nebraska Cornhuskers,99,Colorado Buffaloes,250,14.0,,2023-09-12T16:00:00,False,Big Ten - West,Pac-12
+2,McNeese Cowboys,299,Florida Gators,271,,,2023-09-12T23:30:00,False,,SEC - East
+2,Ball State Cardinals,184,Georgia Bulldogs,272,,,2023-09-12T16:00:00,False,Mid-American - West,SEC - East
+2,Iowa Hawkeyes,91,Iowa State Cyclones,110,,,2023-09-12T19:30:00,False,Big Ten - West,Big 12
+2,UTEP Miners,139,Northwestern Wildcats,100,,,2023-09-12T19:30:00,False,Conference USA,Big Ten - West
+2,Kent State Golden Flashes,178,Arkansas Razorbacks,276,,,2023-09-12T20:00:00,False,Mid-American - East,SEC - West
+2,Indiana State Sycamores,207,Indiana Hoosiers,93,,,2023-09-11T23:00:00,False,,Big Ten - East
+2,Eastern Kentucky Colonels,237,Kentucky Wildcats,268,,,2023-09-12T19:00:00,False,,SEC - East
+2,Houston Christian Huskies,293,Western Kentucky Hilltoppers,144,,,2023-09-12T23:00:00,False,,Conference USA
+2,Grambling Tigers,312,LSU Tigers,269,,,2023-09-12T23:30:00,False,,SEC - West
+2,UC Davis Aggies,118,Oregon State Beavers,252,,,2023-09-13T01:00:00,False,,Pac-12
+2,UCLA Bruins,253,San Diego State Aztecs,212,,,2023-09-12T23:30:00,False,Pac-12,Mountain West
+2,Utah Utes,248,Baylor Bears,108,,,2023-09-12T16:00:00,False,Pac-12,Big 12
+2,Tulsa Golden Hurricane,5,Washington Huskies,249,,,2023-09-12T21:00:00,False,American Athletic,Pac-12
+2,Oregon Ducks,245,Texas Tech Red Raiders,111,,,2023-09-12T23:00:00,False,Pac-12,Big 12
+2,Stanford Cardinal,254,USC Trojans,246,,,2023-09-13T02:30:00,False,Pac-12,Pac-12
+2,Oklahoma State Cowboys,113,Arizona State Sun Devils,255,,,2023-09-13T02:30:00,False,Big 12,Pac-12
+2,Notre Dame Fighting Irish,25,NC State Wolfpack,33,,,2023-09-12T16:00:00,False,FBS Independents,Atlantic Coast
+2,Holy Cross Crusaders,264,Boston College Eagles,35,,,2023-09-12T16:00:00,False,,Atlantic Coast
+2,Lafayette Leopards,266,Duke Blue Devils,26,,,2023-09-12T22:00:00,False,,Atlantic Coast
+2,Appalachian State Mountaineers,331,North Carolina Tar Heels,21,,,2023-09-12T21:15:00,False,Sun Belt - East,Atlantic Coast
+2,Western Michigan Broncos,188,Syracuse Orange,30,,,2023-09-12T19:30:00,False,Mid-American - West,Atlantic Coast
+2,Cincinnati Bearcats,4,Pittsburgh Panthers,28,,,2023-09-12T22:30:00,False,Big 12,Atlantic Coast
+2,Charleston Southern Buccaneers,88,Clemson Tigers,27,,,2023-09-12T18:15:00,False,,Atlantic Coast
+2,James Madison Dukes,126,Virginia Cavaliers,22,,,2023-09-12T16:00:00,False,Sun Belt - East,Atlantic Coast
+2,Southern Miss Golden Eagles,143,Florida State Seminoles,29,,,2023-09-13T00:30:00,False,Sun Belt - West,Atlantic Coast
+2,South Carolina State Bulldogs,190,Georgia Tech Yellow Jackets,32,,,2023-09-12T17:00:00,False,,Atlantic Coast
+2,Murray State Racers,240,Louisville Cardinals,24,,,2023-09-10T23:30:00,False,,Atlantic Coast
+2,SMU Mustangs,1,Oklahoma Sooners,105,,,2023-09-12T22:00:00,False,American Athletic,Big 12
+2,Troy Trojans,333,Kansas State Wildcats,112,,,2023-09-12T16:00:00,False,Sun Belt - West,Big 12
+2,Houston Cougars,6,Rice Owls,146,,,2023-09-12T23:00:00,False,Big 12,American Athletic
+2,Southern Utah Thunderbirds,78,BYU Cougars,336,,,2023-09-12T19:00:00,False,,Big 12
+2,Nicholls Colonels,302,TCU Horned Frogs,114,,,2023-09-13T00:00:00,False,,Big 12
+2,Duquesne Dukes,51,West Virginia Mountaineers,107,,,2023-09-12T22:00:00,False,,Big 12
+2,UCF Knights,8,Boise State Broncos,215,,,2023-09-12T23:00:00,False,Big 12,Mountain West
+2,Miami (OH) RedHawks,182,UMass Minutemen,55,,,2023-09-12T19:30:00,False,Mid-American - East,FBS Independents
+2,Marshall Thundering Herd,136,East Carolina Pirates,9,,,2023-09-12T20:00:00,False,Sun Belt - East,American Athletic
+2,Memphis Tigers,7,Arkansas State Red Wolves,327,,,2023-09-12T23:00:00,False,American Athletic,Sun Belt - West
+2,Ohio Bobcats,180,Florida Atlantic Owls,145,,,2023-09-12T22:00:00,False,Mid-American - East,American Athletic
+2,Wagner Seahawks,223,Navy Midshipmen,258,,,2023-09-12T19:30:00,False,,American Athletic
+2,Texas State Bobcats,332,UTSA Roadrunners,147,,,2023-09-12T19:30:00,False,Sun Belt - West,American Athletic
+2,UAB Blazers,134,Georgia Southern Eagles,329,,,2023-09-12T22:00:00,False,American Athletic,Sun Belt - East
+2,Florida A&M Rattlers,198,South Florida Bulls,11,,,2023-09-12T23:00:00,False,,American Athletic
+2,Lamar Cardinals,303,UL Monroe Warhawks,326,,,2023-09-13T00:00:00,False,,Sun Belt - West
+2,Louisiana Ragin Cajuns,324,Old Dominion Monarchs,138,,,2023-09-12T22:00:00,False,Sun Belt - West,Sun Belt - East
+2,SE Louisiana Lions,300,South Alabama Jaguars,330,,,2023-09-12T21:00:00,False,,Sun Belt - West
+2,Eastern Illinois Panthers,239,Bowling Green Falcons,181,,,2023-09-12T18:00:00,False,,Mid-American - East
+2,Morgan State Bears,199,Akron Zips,177,,,2023-09-12T22:00:00,False,,Mid-American - East
+2,Fordham Rams,53,Buffalo Bulls,179,,,2023-09-12T22:00:00,False,,Mid-American - East
+2,New Hampshire Wildcats,14,Central Michigan Chippewas,185,,,2023-09-12T17:30:00,False,,Mid-American - West
+2,Southern Illinois Salukis,205,Northern Illinois Huskies,186,,,2023-09-12T19:30:00,False,,Mid-American - West
+2,Texas Southern Tigers,304,Toledo Rockets,183,,,2023-09-12T19:30:00,False,,Mid-American - West
+2,Tennessee Tech Golden Eagles,234,New Mexico Lobos,214,,,2023-09-13T00:00:00,False,,Mountain West
+2,Cal Poly Mustangs,122,San Jose State Spartans,222,,,2023-09-12T20:00:00,False,,Mountain West
+2,Idaho Vandals,73,Nevada Wolf Pack,216,,,2023-09-12T23:00:00,False,,Mountain West
+2,Portland State Vikings,76,Wyoming Cowboys,219,,,2023-09-12T20:00:00,False,,Mountain West
+2,Eastern Washington Eagles,70,Fresno State Bulldogs,213,,,,False,,Mountain West
+2,Idaho State Bengals,72,Utah State Aggies,220,,,2023-09-13T00:00:00,False,,Mountain West
+2,Albany Great Danes,13,Hawaii Rainbow Warriors,115,,,2023-09-13T03:59:00,False,,Mountain West
+3,UTEP Miners,139,Arizona Wildcats,247,,,2023-09-15T03:00:00,False,Conference USA,Pac-12
+3,Virginia Cavaliers,22,Maryland Terrapins,92,,,2023-09-13T23:00:00,False,Atlantic Coast,Big Ten - East
+3,Washington Huskies,249,Michigan State Spartans,97,7.1,,2023-09-14T21:00:00,False,Pac-12,Big Ten - East
+3,Bowling Green Falcons,181,Michigan Wolverines,95,,,2023-09-14T23:30:00,False,Mid-American - East,Big Ten - East
+3,Kansas State Wildcats,112,Missouri Tigers,280,,,2023-09-14T16:00:00,False,Big 12,SEC - East
+3,Georgia Tech Yellow Jackets,32,Ole Miss Rebels,274,,,2023-09-14T23:30:00,False,Atlantic Coast,SEC - West
+3,Northwestern Wildcats,100,Duke Blue Devils,26,,,2023-09-14T19:30:00,False,Big Ten - West,Atlantic Coast
+3,Minnesota Golden Gophers,104,North Carolina Tar Heels,21,,,2023-09-14T19:30:00,False,Big Ten - West,Atlantic Coast
+3,Northern Illinois Huskies,186,Nebraska Cornhuskers,99,,,2023-09-14T23:00:00,False,Mid-American - West,Big Ten - West
+3,Virginia Tech Hokies,31,Rutgers Scarlet Knights,103,,,2023-09-14T19:30:00,False,Atlantic Coast,Big Ten - East
+3,New Mexico State Aggies,344,New Mexico Lobos,214,,,2023-09-15T00:00:00,False,Conference USA,Mountain West
+3,Western Kentucky Hilltoppers,144,Ohio State Buckeyes,98,,,2023-09-14T20:00:00,False,Conference USA,Big Ten - East
+3,Samford Bulldogs,289,Auburn Tigers,279,,,2023-09-14T23:00:00,False,,SEC - West
+3,Liberty Flames,84,Buffalo Bulls,179,,,2023-09-14T16:00:00,False,Conference USA,Mid-American - East
+3,Western Michigan Broncos,188,Iowa Hawkeyes,91,,,2023-09-14T19:30:00,False,Mid-American - West,Big Ten - West
+3,North Texas Mean Green,141,Louisiana Tech Bulldogs,137,,,2023-09-14T23:00:00,False,American Athletic,Conference USA
+3,Murray State Racers,240,Middle Tennessee Blue Raiders,135,,,2023-09-14T23:00:00,False,,Conference USA
+3,Vanderbilt Commodores,273,UNLV Rebels,218,,,2023-09-14T23:00:00,False,SEC - East,Mountain West
+3,UL Monroe Warhawks,326,Texas A&M Aggies,270,,,2023-09-14T20:00:00,False,Sun Belt - West,SEC - West
+3,Syracuse Orange,30,Purdue Boilermakers,94,,,2023-09-14T23:30:00,False,Atlantic Coast,Big Ten - West
+3,Army Black Knights,263,UTSA Roadrunners,147,,,2023-09-13T23:00:00,False,FBS Independents,American Athletic
+3,Georgia Southern Eagles,329,Wisconsin Badgers,96,,,2023-09-14T16:00:00,False,Sun Belt - East,Big Ten - West
+3,LSU Tigers,269,Mississippi State Bulldogs,278,,,2023-09-14T16:00:00,False,SEC - West,SEC - West
+3,Penn State Nittany Lions,101,Illinois Fighting Illini,102,,,2023-09-14T16:00:00,False,Big Ten - East,Big Ten - West
+3,Florida International Panthers,140,UConn Huskies,3,,,2023-09-14T19:30:00,False,Conference USA,FBS Independents
+3,Tennessee Volunteers,277,Florida Gators,271,4.3,,2023-09-14T23:00:00,False,SEC - East,SEC - East
+3,Alabama Crimson Tide,275,South Florida Bulls,11,,,2023-09-14T19:30:00,False,SEC - West,American Athletic
+3,South Carolina Gamecocks,267,Georgia Bulldogs,272,,,2023-09-14T19:30:00,False,SEC - East,SEC - East
+3,BYU Cougars,336,Arkansas Razorbacks,276,,,2023-09-14T23:30:00,False,Big 12,SEC - West
+3,Akron Zips,177,Kentucky Wildcats,268,,,2023-09-14T23:30:00,False,Mid-American - East,SEC - East
+3,Indiana Hoosiers,93,Louisville Cardinals,24,,,2023-09-14T16:00:00,True,Big Ten - East,Atlantic Coast
+3,San Diego State Aztecs,212,Oregon State Beavers,252,,,2023-09-14T19:30:00,False,Mountain West,Pac-12
+3,Sacramento State Hornets,77,Stanford Cardinal,254,,,2023-09-15T00:00:00,False,,Pac-12
+3,Hawaii Rainbow Warriors,115,Oregon Ducks,245,,,2023-09-15T00:00:00,False,Mountain West,Pac-12
+3,Idaho Vandals,73,California Golden Bears,251,,,2023-09-14T20:00:00,False,,Pac-12
+3,Weber State Wildcats,69,Utah Utes,248,,,2023-09-14T18:00:00,False,,Pac-12
+3,North Carolina Central Eagles,197,UCLA Bruins,253,,,2023-09-14T21:00:00,False,,Pac-12
+3,Northern Colorado Bears,75,Washington State Cougars,256,,,2023-09-14T21:00:00,False,,Pac-12
+3,Colorado State Rams,217,Colorado Buffaloes,250,,,2023-09-15T02:00:00,False,Mountain West,Pac-12
+3,Fresno State Bulldogs,213,Arizona State Sun Devils,255,,,2023-09-15T02:30:00,False,Mountain West,Pac-12
+3,Central Michigan Chippewas,185,Notre Dame Fighting Irish,25,,,2023-09-14T18:30:00,False,Mid-American - West,FBS Independents
+3,Florida State Seminoles,29,Boston College Eagles,35,,,2023-09-14T16:00:00,False,Atlantic Coast,Atlantic Coast
+3,VMI Keydets,290,NC State Wolfpack,33,,,2023-09-14T18:00:00,False,,Atlantic Coast
+3,Florida Atlantic Owls,145,Clemson Tigers,27,,,2023-09-15T00:00:00,False,American Athletic,Atlantic Coast
+3,Bethune-Cookman Wildcats,192,Miami Hurricanes,23,,,2023-09-12T23:30:00,False,,Atlantic Coast
+3,Pittsburgh Panthers,28,West Virginia Mountaineers,107,0.6,,2023-09-14T23:30:00,False,Atlantic Coast,Big 12
+3,Wake Forest Demon Deacons,34,Old Dominion Monarchs,138,,,2023-09-14T16:00:00,False,Atlantic Coast,Sun Belt - East
+3,Iowa State Cyclones,110,Ohio Bobcats,180,,,2023-09-14T16:00:00,False,Big 12,Mid-American - East
+3,South Alabama Jaguars,330,Oklahoma State Cowboys,113,,,2023-09-14T23:00:00,False,Sun Belt - West,Big 12
+3,Oklahoma Sooners,105,Tulsa Golden Hurricane,5,,,2023-09-14T19:30:00,False,Big 12,American Athletic
+3,Villanova Wildcats,58,UCF Knights,8,,,2023-09-14T22:30:00,False,,Big 12
+3,Miami (OH) RedHawks,182,Cincinnati Bearcats,4,,,2023-09-14T23:00:00,False,Mid-American - East,Big 12
+3,Long Island University Sharks,229,Baylor Bears,108,,,2023-09-14T16:00:00,False,,Big 12
+3,Kansas Jayhawks,106,Nevada Wolf Pack,216,,,2023-09-15T02:30:00,False,Big 12,Mountain West
+3,TCU Horned Frogs,114,Houston Cougars,6,,,2023-09-15T00:00:00,False,Big 12,Big 12
+3,Wyoming Cowboys,219,Texas Longhorns,109,,,2023-09-15T00:00:00,False,Mountain West,Big 12
+3,Tarleton Texans,1024,Texas Tech Red Raiders,111,,,2023-09-14T23:00:00,False,,Big 12
+3,UMass Minutemen,55,Eastern Michigan Eagles,187,,,2023-09-14T18:00:00,False,FBS Independents,Mid-American - West
+3,East Carolina Pirates,9,Appalachian State Mountaineers,331,,,2023-09-14T19:30:00,False,American Athletic,Sun Belt - East
+3,Norfolk State Spartans,191,Temple Owls,2,,,2023-09-14T18:00:00,False,,American Athletic
+3,Navy Midshipmen,258,Memphis Tigers,7,,,2023-09-12T23:30:00,False,American Athletic,American Athletic
+3,Georgia State Panthers,328,Charlotte 49ers,142,,,2023-09-14T22:00:00,False,Sun Belt - East,American Athletic
+3,Prairie View A&M Panthers,313,SMU Mustangs,1,,,2023-09-14T23:00:00,False,,American Athletic
+3,Tulane Green Wave,10,Southern Miss Golden Eagles,143,,,2023-09-14T20:00:00,False,American Athletic,Sun Belt - West
+3,Louisiana Ragin Cajuns,324,UAB Blazers,134,,,2023-09-14T23:00:00,False,Sun Belt - West,American Athletic
+3,Texas Southern Tigers,304,Rice Owls,146,,,2023-09-14T23:00:00,False,,American Athletic
+3,Stony Brook Seawolves,12,Arkansas State Red Wolves,327,,,2023-09-14T23:00:00,False,,Sun Belt - West
+3,James Madison Dukes,126,Troy Trojans,333,,,2023-09-14T23:00:00,False,Sun Belt - East,Sun Belt - West
+3,Duquesne Dukes,51,Coastal Carolina Chanticleers,81,,,2023-09-14T23:00:00,False,,Sun Belt - East
+3,Jackson State Tigers,306,Texas State Bobcats,332,,,2023-09-14T23:00:00,False,,Sun Belt - West
+3,Indiana State Sycamores,207,Ball State Cardinals,184,,,2023-09-14T18:00:00,False,,Mid-American - West
+3,Central Connecticut Blue Devils,232,Kent State Golden Flashes,178,,,2023-09-14T16:00:00,False,,Mid-American - East
+3,San Jose State Spartans,222,Toledo Rockets,183,,,2023-09-14T23:00:00,False,Mountain West,Mid-American - West
+3,Utah State Aggies,220,Air Force Falcons,221,,,2023-09-14T00:00:00,False,Mountain West,Mountain West
+3,North Dakota Fighting Hawks,71,Boise State Broncos,215,,,2023-09-14T16:00:00,False,,Mountain West
+4,Maryland Terrapins,92,Michigan State Spartans,97,,,2023-09-24T19:30:00,False,Big Ten - East,Big Ten - East
+4,Rutgers Scarlet Knights,103,Michigan Wolverines,95,,,2023-09-24T16:00:00,False,Big Ten - East,Big Ten - East
+4,Louisiana Tech Bulldogs,137,Nebraska Cornhuskers,99,,,,False,Conference USA,Big Ten - West
+4,Army Black Knights,263,Syracuse Orange,30,,,,False,FBS Independents,Atlantic Coast
+4,Iowa Hawkeyes,91,Penn State Nittany Lions,101,,,2023-09-24T23:30:00,False,Big Ten - West,Big Ten - East
+4,Missouri Tigers,280,Memphis Tigers,7,,,,True,SEC - East,American Athletic
+4,Kentucky Wildcats,268,Vanderbilt Commodores,273,,,,False,SEC - East,SEC - East
+4,Colorado State Rams,217,Middle Tennessee Blue Raiders,135,,,2023-09-24T23:00:00,False,Mountain West,Conference USA
+4,Auburn Tigers,279,Texas A&M Aggies,270,,,,False,SEC - West,SEC - West
+4,Sam Houston Bearkats,295,Houston Cougars,6,,,2023-09-24T23:00:00,False,Conference USA,Big 12
+4,Wisconsin Badgers,96,Purdue Boilermakers,94,,,2023-09-23T23:00:00,False,Big Ten - West,Big Ten - West
+4,Mississippi State Bulldogs,278,South Carolina Gamecocks,267,,,,False,SEC - West,SEC - East
+4,UTSA Roadrunners,147,Tennessee Volunteers,277,,,,False,American Athletic,SEC - East
+4,UNLV Rebels,218,UTEP Miners,139,,,2023-09-25T01:00:00,False,Mountain West,Conference USA
+4,Western Kentucky Hilltoppers,144,Troy Trojans,333,,,2023-09-24T23:00:00,False,Conference USA,Sun Belt - West
+4,Ole Miss Rebels,274,Alabama Crimson Tide,275,,,,False,SEC - West,SEC - West
+4,Florida Atlantic Owls,145,Illinois Fighting Illini,102,,,,False,American Athletic,Big Ten - West
+4,Duke Blue Devils,26,UConn Huskies,3,,,2023-09-24T19:30:00,False,Atlantic Coast,FBS Independents
+4,Eastern Michigan Eagles,187,Jacksonville State Gamecocks,238,,,2023-09-24T21:00:00,False,Mid-American - West,Conference USA
+4,Charlotte 49ers,142,Florida Gators,271,,,2023-09-24T23:00:00,False,American Athletic,SEC - East
+4,UAB Blazers,134,Georgia Bulldogs,272,,,,False,American Athletic,SEC - East
+4,New Mexico State Aggies,344,Hawaii Rainbow Warriors,115,,,2023-09-25T03:59:00,False,Conference USA,Mountain West
+4,Minnesota Golden Gophers,104,Northwestern Wildcats,100,,,,False,Big Ten - West,Big Ten - West
+4,Akron Zips,177,Indiana Hoosiers,93,,,,False,Mid-American - East,Big Ten - East
+4,Arkansas Razorbacks,276,LSU Tigers,269,,,,False,SEC - West,SEC - West
+4,Liberty Flames,84,Florida International Panthers,140,,,2023-09-24T22:30:00,False,Conference USA,Conference USA
+4,Ohio State Buckeyes,98,Notre Dame Fighting Irish,25,10.2,69.8,2023-09-24T23:30:00,False,Big Ten - East,FBS Independents
+4,Arizona Wildcats,247,Stanford Cardinal,254,,,,False,Pac-12,Pac-12
+4,Colorado Buffaloes,250,Oregon Ducks,245,,,,False,Pac-12,Pac-12
+4,UCLA Bruins,253,Utah Utes,248,,,,False,Pac-12,Pac-12
+4,California Golden Bears,251,Washington Huskies,249,,,,False,Pac-12,Pac-12
+4,Oregon State Beavers,252,Washington State Cougars,256,,,,False,Pac-12,Pac-12
+4,USC Trojans,246,Arizona State Sun Devils,255,18.4,69.8,,False,Pac-12,Pac-12
+4,Georgia Tech Yellow Jackets,32,Wake Forest Demon Deacons,34,,,,False,Atlantic Coast,Atlantic Coast
+4,Miami Hurricanes,23,Temple Owls,2,,,,False,Atlantic Coast,American Athletic
+4,North Carolina Tar Heels,21,Pittsburgh Panthers,28,,,,False,Atlantic Coast,Atlantic Coast
+4,Florida State Seminoles,29,Clemson Tigers,27,-3.8,,,False,Atlantic Coast,Atlantic Coast
+4,NC State Wolfpack,33,Virginia Cavaliers,22,,,2023-09-23T23:30:00,False,Atlantic Coast,Atlantic Coast
+4,Virginia Tech Hokies,31,Marshall Thundering Herd,136,,,,False,Atlantic Coast,Sun Belt - East
+4,Boston College Eagles,35,Louisville Cardinals,24,,,,False,Atlantic Coast,Atlantic Coast
+4,Oklahoma Sooners,105,Cincinnati Bearcats,4,,,,False,Big 12,Big 12
+4,BYU Cougars,336,Kansas Jayhawks,106,,,,False,Big 12,Big 12
+4,UCF Knights,8,Kansas State Wildcats,112,,,,False,Big 12,Big 12
+4,Texas Longhorns,109,Baylor Bears,108,,,,False,Big 12,Big 12
+4,SMU Mustangs,1,TCU Horned Frogs,114,,,,False,American Athletic,Big 12
+4,Texas Tech Red Raiders,111,West Virginia Mountaineers,107,,,,False,Big 12,Big 12
+4,Oklahoma State Cowboys,113,Iowa State Cyclones,110,,,,False,Big 12,Big 12
+4,New Mexico Lobos,214,UMass Minutemen,55,,,,False,Mountain West,FBS Independents
+4,Gardner-Webb Bulldogs,83,East Carolina Pirates,9,,,2023-09-24T22:00:00,False,,American Athletic
+4,Tulsa Golden Hurricane,5,Northern Illinois Huskies,186,,,,False,American Athletic,Mid-American - West
+4,Nicholls Colonels,302,Tulane Green Wave,10,,,,False,,American Athletic
+4,Rice Owls,146,South Florida Bulls,11,,,,False,American Athletic,American Athletic
+4,Southern Miss Golden Eagles,143,Arkansas State Red Wolves,327,,,,False,Sun Belt - West,Sun Belt - West
+4,Georgia Southern Eagles,329,Ball State Cardinals,184,,,,False,Sun Belt - East,Mid-American - West
+4,Appalachian State Mountaineers,331,Wyoming Cowboys,219,,,2023-09-24T23:00:00,False,Sun Belt - East,Mountain West
+4,Texas A&M Commerce Lions,392,Old Dominion Monarchs,138,,,2023-09-24T19:30:00,False,,Sun Belt - East
+4,Buffalo Bulls,179,Louisiana Ragin Cajuns,324,,,,False,Mid-American - East,Sun Belt - West
+4,Georgia State Panthers,328,Coastal Carolina Chanticleers,81,,,2023-09-22T23:30:00,False,Sun Belt - East,Sun Belt - East
+4,Nevada Wolf Pack,216,Texas State Bobcats,332,,,2023-09-24T23:00:00,False,Mountain West,Sun Belt - West
+4,James Madison Dukes,126,Utah State Aggies,220,,,2023-09-25T00:00:00,False,Sun Belt - East,Mountain West
+4,Central Michigan Chippewas,185,South Alabama Jaguars,330,,,,False,Mid-American - West,Sun Belt - West
+4,Ohio Bobcats,180,Bowling Green Falcons,181,,,2023-09-24T19:30:00,False,Mid-American - East,Mid-American - East
+4,Delaware State Hornets,201,Miami (OH) RedHawks,182,,,2023-09-24T19:30:00,False,,Mid-American - East
+4,Western Michigan Broncos,188,Toledo Rockets,183,,,,False,Mid-American - West,Mid-American - West
+4,Kent State Golden Flashes,178,Fresno State Bulldogs,213,,,2023-09-25T02:30:00,False,Mid-American - East,Mountain West
+4,Boise State Broncos,215,San Diego State Aztecs,212,,,2023-09-24T02:30:00,False,Mountain West,Mountain West
+4,Air Force Falcons,221,San Jose State Spartans,222,,,2023-09-24T02:30:00,False,Mountain West,Mountain West
+5,Indiana Hoosiers,93,Maryland Terrapins,92,,,,False,Big Ten - East,Big Ten - East
+5,Louisiana Ragin Cajuns,324,Minnesota Golden Gophers,104,,,2023-09-27T16:00:00,False,Sun Belt - West,Big Ten - West
+5,LSU Tigers,269,Ole Miss Rebels,274,,,,False,SEC - West,SEC - West
+5,Michigan Wolverines,95,Nebraska Cornhuskers,99,,,,False,Big Ten - East,Big Ten - West
+5,Wagner Seahawks,223,Rutgers Scarlet Knights,103,,,,False,,Big Ten - East
+5,Georgia Bulldogs,272,Auburn Tigers,279,,,,False,SEC - East,SEC - West
+5,Michigan State Spartans,97,Iowa Hawkeyes,91,,,,False,Big Ten - East,Big Ten - West
+5,Missouri Tigers,280,Vanderbilt Commodores,273,,,,False,SEC - East,SEC - East
+5,Illinois Fighting Illini,102,Purdue Boilermakers,94,,,,False,Big Ten - West,Big Ten - West
+5,South Carolina Gamecocks,267,Tennessee Volunteers,277,,,,False,SEC - East,SEC - East
+5,Louisiana Tech Bulldogs,137,UTEP Miners,139,,,2023-09-27T01:00:00,False,Conference USA,Conference USA
+5,Alabama Crimson Tide,275,Mississippi State Bulldogs,278,,,,False,SEC - West,SEC - West
+5,Utah State Aggies,220,UConn Huskies,3,,,2023-09-27T16:00:00,False,Mountain West,FBS Independents
+5,Penn State Nittany Lions,101,Northwestern Wildcats,100,,,,False,Big Ten - East,Big Ten - West
+5,Texas A&M Aggies,270,Arkansas Razorbacks,276,,,,True,SEC - West,SEC - West
+5,Florida Gators,271,Kentucky Wildcats,268,,,,False,SEC - East,SEC - East
+5,Middle Tennessee Blue Raiders,135,Western Kentucky Hilltoppers,144,,,2023-09-25T23:30:00,False,Conference USA,Conference USA
+5,Washington Huskies,249,Arizona Wildcats,247,,,,False,Pac-12,Pac-12
+5,Utah Utes,248,Oregon State Beavers,252,,,2023-09-27T01:00:00,False,Pac-12,Pac-12
+5,Oregon Ducks,245,Stanford Cardinal,254,,,,False,Pac-12,Pac-12
+5,Arizona State Sun Devils,255,California Golden Bears,251,,,,False,Pac-12,Pac-12
+5,USC Trojans,246,Colorado Buffaloes,250,,,,False,Pac-12,Pac-12
+5,Notre Dame Fighting Irish,25,Duke Blue Devils,26,,,,False,FBS Independents,Atlantic Coast
+5,Virginia Cavaliers,22,Boston College Eagles,35,,,,False,Atlantic Coast,Atlantic Coast
+5,Louisville Cardinals,24,NC State Wolfpack,33,,,2023-09-26T23:00:00,False,Atlantic Coast,Atlantic Coast
+5,Clemson Tigers,27,Syracuse Orange,30,,,,False,Atlantic Coast,Atlantic Coast
+5,Pittsburgh Panthers,28,Virginia Tech Hokies,31,,,,False,Atlantic Coast,Atlantic Coast
+5,Bowling Green Falcons,181,Georgia Tech Yellow Jackets,32,,,,False,Mid-American - East,Atlantic Coast
+5,Iowa State Cyclones,110,Oklahoma Sooners,105,,,,False,Big 12,Big 12
+5,Baylor Bears,108,UCF Knights,8,,,,False,Big 12,Big 12
+5,Kansas Jayhawks,106,Texas Longhorns,109,-11.1,,,False,Big 12,Big 12
+5,Cincinnati Bearcats,4,BYU Cougars,336,,,2023-09-27T02:15:00,False,Big 12,Big 12
+5,West Virginia Mountaineers,107,TCU Horned Frogs,114,,,,False,Big 12,Big 12
+5,Houston Cougars,6,Texas Tech Red Raiders,111,,,,False,Big 12,Big 12
+5,Arkansas State Red Wolves,327,UMass Minutemen,55,,,,False,Sun Belt - West,FBS Independents
+5,Temple Owls,2,Tulsa Golden Hurricane,5,,,2023-09-25T23:30:00,False,American Athletic,American Athletic
+5,Boise State Broncos,215,Memphis Tigers,7,,,,False,Mountain West,American Athletic
+5,East Carolina Pirates,9,Rice Owls,146,,,,False,American Athletic,American Athletic
+5,South Florida Bulls,11,Navy Midshipmen,258,,,2023-09-27T19:30:00,False,American Athletic,American Athletic
+5,Abilene Christian Wildcats,296,North Texas Mean Green,141,,,,False,,American Athletic
+5,Charlotte 49ers,142,SMU Mustangs,1,,,,False,American Athletic,American Athletic
+5,UAB Blazers,134,Tulane Green Wave,10,,,,False,American Athletic,American Athletic
+5,Troy Trojans,333,Georgia State Panthers,328,,,,False,Sun Belt - West,Sun Belt - East
+5,Appalachian State Mountaineers,331,UL Monroe Warhawks,326,,,,False,Sun Belt - East,Sun Belt - West
+5,South Alabama Jaguars,330,James Madison Dukes,126,,,,False,Sun Belt - West,Sun Belt - East
+5,Texas State Bobcats,332,Southern Miss Golden Eagles,143,,,,False,Sun Belt - West,Sun Belt - West
+5,Old Dominion Monarchs,138,Marshall Thundering Herd,136,,,,False,Sun Belt - East,Sun Belt - East
+5,Coastal Carolina Chanticleers,81,Georgia Southern Eagles,329,,,2023-09-27T22:00:00,False,Sun Belt - East,Sun Belt - East
+5,Buffalo Bulls,179,Akron Zips,177,,,,False,Mid-American - East,Mid-American - East
+5,Eastern Michigan Eagles,187,Central Michigan Chippewas,185,,,,False,Mid-American - West,Mid-American - West
+5,Miami (OH) RedHawks,182,Kent State Golden Flashes,178,,,,False,Mid-American - East,Mid-American - East
+5,Northern Illinois Huskies,186,Toledo Rockets,183,,,2023-09-27T19:30:00,False,Mid-American - West,Mid-American - West
+5,Ball State Cardinals,184,Western Michigan Broncos,188,,,,False,Mid-American - West,Mid-American - West
+5,San Diego State Aztecs,212,Air Force Falcons,221,,,2023-09-28T00:00:00,False,Mountain West,Mountain West
+5,Hawaii Rainbow Warriors,115,UNLV Rebels,218,,,2023-09-27T20:00:00,False,Mountain West,Mountain West
+5,New Mexico Lobos,214,Wyoming Cowboys,219,,,2023-09-27T20:00:00,False,Mountain West,Mountain West
+5,Nevada Wolf Pack,216,Fresno State Bulldogs,213,,,,False,Mountain West,Mountain West
+5,Utah Tech Trailblazers,750,Colorado State Rams,217,,,2023-09-27T23:00:00,False,,Mountain West
+5,Jacksonville State Gamecocks,238,Sam Houston Bearkats,295,,,2023-09-26T00:00:00,False,Conference USA,Conference USA
+6,Michigan Wolverines,95,Minnesota Golden Gophers,104,,,,False,Big Ten - East,Big Ten - West
+6,LSU Tigers,269,Missouri Tigers,280,,,,False,SEC - West,SEC - East
+6,Arkansas Razorbacks,276,Ole Miss Rebels,274,,,,False,SEC - West,SEC - West
+6,Florida International Panthers,140,New Mexico State Aggies,344,,,2023-10-07T01:00:00,False,Conference USA,Conference USA
+6,Maryland Terrapins,92,Ohio State Buckeyes,98,,,,False,Big Ten - East,Big Ten - East
+6,Purdue Boilermakers,94,Iowa Hawkeyes,91,,,,False,Big Ten - West,Big Ten - West
+6,Sam Houston Bearkats,295,Liberty Flames,84,,,2023-10-07T23:00:00,False,Conference USA,Conference USA
+6,Western Kentucky Hilltoppers,144,Louisiana Tech Bulldogs,137,,,2023-10-08T00:00:00,False,Conference USA,Conference USA
+6,Jacksonville State Gamecocks,238,Middle Tennessee Blue Raiders,135,,,2023-10-07T00:00:00,False,Conference USA,Conference USA
+6,UConn Huskies,3,Rice Owls,146,,,,False,FBS Independents,American Athletic
+6,Alabama Crimson Tide,275,Texas A&M Aggies,270,10.0,,,False,SEC - West,SEC - West
+6,Rutgers Scarlet Knights,103,Wisconsin Badgers,96,,,,False,Big Ten - East,Big Ten - West
+6,Western Michigan Broncos,188,Mississippi State Bulldogs,278,,,,False,Mid-American - West,SEC - West
+6,Boston College Eagles,35,Army Black Knights,263,,,2023-10-09T16:00:00,False,Atlantic Coast,FBS Independents
+6,Nebraska Cornhuskers,99,Illinois Fighting Illini,102,,,2023-10-09T00:00:00,False,Big Ten - West,Big Ten - West
+6,Vanderbilt Commodores,273,Florida Gators,271,,,,False,SEC - East,SEC - East
+6,Kentucky Wildcats,268,Georgia Bulldogs,272,-32.1,,,False,SEC - East,SEC - East
+6,Howard Bison,195,Northwestern Wildcats,100,,,2023-10-09T19:00:00,False,,Big Ten - West
+6,Oregon State Beavers,252,California Golden Bears,251,,,,False,Pac-12,Pac-12
+6,Washington State Cougars,256,UCLA Bruins,253,,,,False,Pac-12,Pac-12
+6,Arizona Wildcats,247,USC Trojans,246,,,,False,Pac-12,Pac-12
+6,Colorado Buffaloes,250,Arizona State Sun Devils,255,,,,False,Pac-12,Pac-12
+6,Notre Dame Fighting Irish,25,Louisville Cardinals,24,,,,False,FBS Independents,Atlantic Coast
+6,Marshall Thundering Herd,136,NC State Wolfpack,33,,,,False,Sun Belt - East,Atlantic Coast
+6,Syracuse Orange,30,North Carolina Tar Heels,21,,,,False,Atlantic Coast,Atlantic Coast
+6,Wake Forest Demon Deacons,34,Clemson Tigers,27,,,,False,Atlantic Coast,Atlantic Coast
+6,Georgia Tech Yellow Jackets,32,Miami Hurricanes,23,,,,False,Atlantic Coast,Atlantic Coast
+6,William & Mary Tribe,125,Virginia Cavaliers,22,,,,False,,Atlantic Coast
+6,Virginia Tech Hokies,31,Florida State Seminoles,29,,,,False,Atlantic Coast,Atlantic Coast
+6,Kansas State Wildcats,112,Oklahoma State Cowboys,113,,,2023-10-08T23:30:00,False,Big 12,Big 12
+6,Texas Longhorns,109,Oklahoma Sooners,105,11.6,,,True,Big 12,Big 12
+6,UCF Knights,8,Kansas Jayhawks,106,,,,False,Big 12,Big 12
+6,Texas Tech Red Raiders,111,Baylor Bears,108,,,,False,Big 12,Big 12
+6,TCU Horned Frogs,114,Iowa State Cyclones,110,,,,False,Big 12,Big 12
+6,Toledo Rockets,183,UMass Minutemen,55,,,,False,Mid-American - West,FBS Independents
+6,UTSA Roadrunners,147,Temple Owls,2,,,,False,American Athletic,American Athletic
+6,Tulsa Golden Hurricane,5,Florida Atlantic Owls,145,,,,False,American Athletic,American Athletic
+6,North Texas Mean Green,141,Navy Midshipmen,258,,,2023-10-09T19:30:00,False,American Athletic,American Athletic
+6,South Florida Bulls,11,UAB Blazers,134,,,,False,American Athletic,American Athletic
+6,South Alabama Jaguars,330,UL Monroe Warhawks,326,,,,False,Sun Belt - West,Sun Belt - West
+6,Old Dominion Monarchs,138,Southern Miss Golden Eagles,143,,,,False,Sun Belt - East,Sun Belt - West
+6,Arkansas State Red Wolves,327,Troy Trojans,333,,,,False,Sun Belt - West,Sun Belt - West
+6,Texas State Bobcats,332,Louisiana Ragin Cajuns,324,,,,False,Sun Belt - West,Sun Belt - West
+6,Bowling Green Falcons,181,Miami (OH) RedHawks,182,,,2023-10-09T19:30:00,False,Mid-American - East,Mid-American - East
+6,Kent State Golden Flashes,178,Ohio Bobcats,180,,,2023-10-09T19:30:00,False,Mid-American - East,Mid-American - East
+6,Northern Illinois Huskies,186,Akron Zips,177,,,2023-10-09T19:30:00,False,Mid-American - West,Mid-American - East
+6,Central Michigan Chippewas,185,Buffalo Bulls,179,,,,False,Mid-American - West,Mid-American - East
+6,Ball State Cardinals,184,Eastern Michigan Eagles,187,,,,False,Mid-American - West,Mid-American - West
+6,Fresno State Bulldogs,213,Wyoming Cowboys,219,,,,False,Mountain West,Mountain West
+6,Colorado State Rams,217,Utah State Aggies,220,,,,False,Mountain West,Mountain West
+6,San Jose State Spartans,222,Boise State Broncos,215,,,2023-10-10T00:00:00,False,Mountain West,Mountain West
+7,Illinois Fighting Illini,102,Maryland Terrapins,92,,,,False,Big Ten - West,Big Ten - East
+7,Indiana Hoosiers,93,Michigan Wolverines,95,,,,False,Big Ten - East,Big Ten - East
+7,Michigan State Spartans,97,Rutgers Scarlet Knights,103,,,2023-10-11T16:00:00,False,Big Ten - East,Big Ten - East
+7,Sam Houston Bearkats,295,New Mexico State Aggies,344,,,2023-10-09T01:00:00,False,Conference USA,Conference USA
+7,UMass Minutemen,55,Penn State Nittany Lions,101,,,2023-10-11T19:30:00,False,FBS Independents,Big Ten - East
+7,UTEP Miners,139,Florida International Panthers,140,,,2023-10-08T23:30:00,False,Conference USA,Conference USA
+7,Georgia Bulldogs,272,Vanderbilt Commodores,273,,,,False,SEC - East,SEC - East
+7,Louisiana Tech Bulldogs,137,Middle Tennessee Blue Raiders,135,,,2023-10-07T23:00:00,False,Conference USA,Conference USA
+7,Ohio State Buckeyes,98,Purdue Boilermakers,94,,,,False,Big Ten - East,Big Ten - West
+7,Florida Gators,271,South Carolina Gamecocks,267,,,,False,SEC - East,SEC - East
+7,Texas A&M Aggies,270,Tennessee Volunteers,277,,,,False,SEC - West,SEC - East
+7,Iowa Hawkeyes,91,Wisconsin Badgers,96,,,,False,Big Ten - West,Big Ten - West
+7,Arkansas Razorbacks,276,Alabama Crimson Tide,275,,,,False,SEC - West,SEC - West
+7,Troy Trojans,333,Army Black Knights,263,,,2023-10-11T19:30:00,False,Sun Belt - West,FBS Independents
+7,Liberty Flames,84,Jacksonville State Gamecocks,238,,,2023-10-07T23:30:00,False,Conference USA,Conference USA
+7,Missouri Tigers,280,Kentucky Wildcats,268,,,,False,SEC - East,SEC - East
+7,Auburn Tigers,279,LSU Tigers,269,,,,False,SEC - West,SEC - West
+7,Arizona Wildcats,247,Washington State Cougars,256,,,,False,Pac-12,Pac-12
+7,UCLA Bruins,253,Oregon State Beavers,252,,,,False,Pac-12,Pac-12
+7,California Golden Bears,251,Utah Utes,248,,,,False,Pac-12,Pac-12
+7,Oregon Ducks,245,Washington Huskies,249,,,,False,Pac-12,Pac-12
+7,Stanford Cardinal,254,Colorado Buffaloes,250,,,2023-10-11T02:00:00,False,Pac-12,Pac-12
+7,USC Trojans,246,Notre Dame Fighting Irish,25,1.0,,2023-10-11T23:30:00,False,Pac-12,FBS Independents
+7,NC State Wolfpack,33,Duke Blue Devils,26,,,,False,Atlantic Coast,Atlantic Coast
+7,Miami Hurricanes,23,North Carolina Tar Heels,21,,,,False,Atlantic Coast,Atlantic Coast
+7,Louisville Cardinals,24,Pittsburgh Panthers,28,,,,False,Atlantic Coast,Atlantic Coast
+7,Wake Forest Demon Deacons,34,Virginia Tech Hokies,31,,,,False,Atlantic Coast,Atlantic Coast
+7,Syracuse Orange,30,Florida State Seminoles,29,,,,False,Atlantic Coast,Atlantic Coast
+7,Kansas Jayhawks,106,Oklahoma State Cowboys,113,,,,False,Big 12,Big 12
+7,Iowa State Cyclones,110,Cincinnati Bearcats,4,,,,False,Big 12,Big 12
+7,West Virginia Mountaineers,107,Houston Cougars,6,,,2023-10-09T23:00:00,False,Big 12,Big 12
+7,BYU Cougars,336,TCU Horned Frogs,114,,,,False,Big 12,Big 12
+7,Kansas State Wildcats,112,Texas Tech Red Raiders,111,,,,False,Big 12,Big 12
+7,SMU Mustangs,1,East Carolina Pirates,9,,,2023-10-09T23:30:00,False,American Athletic,American Athletic
+7,Tulane Green Wave,10,Memphis Tigers,7,,,2023-10-10T23:00:00,False,American Athletic,American Athletic
+7,Navy Midshipmen,258,Charlotte 49ers,142,,,,False,American Athletic,American Athletic
+7,Temple Owls,2,North Texas Mean Green,141,,,,False,American Athletic,American Athletic
+7,UAB Blazers,134,UTSA Roadrunners,147,,,,False,American Athletic,American Athletic
+7,Florida Atlantic Owls,145,South Florida Bulls,11,,,,False,American Athletic,American Athletic
+7,Coastal Carolina Chanticleers,81,Appalachian State Mountaineers,331,,,2023-10-07T23:30:00,False,Sun Belt - East,Sun Belt - East
+7,Marshall Thundering Herd,136,Georgia State Panthers,328,,,,False,Sun Belt - East,Sun Belt - East
+7,Georgia Southern Eagles,329,James Madison Dukes,126,,,,False,Sun Belt - East,Sun Belt - East
+7,UL Monroe Warhawks,326,Texas State Bobcats,332,,,,False,Sun Belt - West,Sun Belt - West
+7,Toledo Rockets,183,Ball State Cardinals,184,,,,False,Mid-American - West,Mid-American - West
+7,Bowling Green Falcons,181,Buffalo Bulls,179,,,2023-10-11T19:30:00,False,Mid-American - East,Mid-American - East
+7,Akron Zips,177,Central Michigan Chippewas,185,,,2023-10-11T19:30:00,False,Mid-American - East,Mid-American - West
+7,Kent State Golden Flashes,178,Eastern Michigan Eagles,187,,,,False,Mid-American - East,Mid-American - West
+7,Ohio Bobcats,180,Northern Illinois Huskies,186,,,2023-10-11T19:30:00,False,Mid-American - East,Mid-American - West
+7,Miami (OH) RedHawks,182,Western Michigan Broncos,188,,,2023-10-11T19:30:00,False,Mid-American - East,Mid-American - West
+7,San Jose State Spartans,222,New Mexico Lobos,214,,,,False,Mountain West,Mountain West
+7,Wyoming Cowboys,219,Air Force Falcons,221,,,2023-10-11T23:00:00,False,Mountain West,Mountain West
+7,UNLV Rebels,218,Nevada Wolf Pack,216,,,2023-10-11T21:00:00,False,Mountain West,Mountain West
+7,Fresno State Bulldogs,213,Utah State Aggies,220,,,2023-10-11T00:00:00,False,Mountain West,Mountain West
+7,Boise State Broncos,215,Colorado State Rams,217,,,,False,Mountain West,Mountain West
+7,San Diego State Aztecs,212,Hawaii Rainbow Warriors,115,,,2023-10-12T03:00:00,False,Mountain West,Mountain West
+8,Michigan Wolverines,95,Michigan State Spartans,97,22.2,,,False,Big Ten - East,Big Ten - East
+8,South Carolina Gamecocks,267,Missouri Tigers,280,,,,False,SEC - East,SEC - East
+8,Northwestern Wildcats,100,Nebraska Cornhuskers,99,,,,False,Big Ten - West,Big Ten - West
+8,Penn State Nittany Lions,101,Ohio State Buckeyes,98,-11.4,,,False,Big Ten - East,Big Ten - East
+8,Ole Miss Rebels,274,Auburn Tigers,279,,,,False,SEC - West,SEC - West
+8,Minnesota Golden Gophers,104,Iowa Hawkeyes,91,,,,False,Big Ten - West,Big Ten - West
+8,Middle Tennessee Blue Raiders,135,Liberty Flames,84,,,2023-10-17T23:00:00,False,Conference USA,Conference USA
+8,Florida International Panthers,140,Sam Houston Bearkats,295,,,2023-10-18T23:00:00,False,Conference USA,Conference USA
+8,New Mexico State Aggies,344,UTEP Miners,139,,,2023-10-19T01:00:00,False,Conference USA,Conference USA
+8,Tennessee Volunteers,277,Alabama Crimson Tide,275,-10.8,,,False,SEC - East,SEC - West
+8,Wisconsin Badgers,96,Illinois Fighting Illini,102,,,,False,Big Ten - West,Big Ten - West
+8,South Florida Bulls,11,UConn Huskies,3,,,2023-10-21T19:30:00,False,American Athletic,FBS Independents
+8,Western Kentucky Hilltoppers,144,Jacksonville State Gamecocks,238,,,2023-10-17T23:30:00,False,Conference USA,Conference USA
+8,Mississippi State Bulldogs,278,Arkansas Razorbacks,276,,,,False,SEC - West,SEC - West
+8,Rutgers Scarlet Knights,103,Indiana Hoosiers,93,,,2023-10-21T16:00:00,False,Big Ten - East,Big Ten - East
+8,Army Black Knights,263,LSU Tigers,269,,,,False,FBS Independents,SEC - West
+8,UCLA Bruins,253,Stanford Cardinal,254,,,,False,Pac-12,Pac-12
+8,Washington State Cougars,256,Oregon Ducks,245,,,,False,Pac-12,Pac-12
+8,Arizona State Sun Devils,255,Washington Huskies,249,,,,False,Pac-12,Pac-12
+8,Utah Utes,248,USC Trojans,246,,,,False,Pac-12,Pac-12
+8,Virginia Cavaliers,22,North Carolina Tar Heels,21,,,,False,Atlantic Coast,Atlantic Coast
+8,Pittsburgh Panthers,28,Wake Forest Demon Deacons,34,,,,False,Atlantic Coast,Atlantic Coast
+8,Clemson Tigers,27,Miami Hurricanes,23,,,,False,Atlantic Coast,Atlantic Coast
+8,Duke Blue Devils,26,Florida State Seminoles,29,,,,False,Atlantic Coast,Atlantic Coast
+8,Boston College Eagles,35,Georgia Tech Yellow Jackets,32,,,,False,Atlantic Coast,Atlantic Coast
+8,UCF Knights,8,Oklahoma Sooners,105,,,,False,Big 12,Big 12
+8,Baylor Bears,108,Cincinnati Bearcats,4,,,,False,Big 12,Big 12
+8,TCU Horned Frogs,114,Kansas State Wildcats,112,,,,False,Big 12,Big 12
+8,Texas Longhorns,109,Houston Cougars,6,,,,False,Big 12,Big 12
+8,Texas Tech Red Raiders,111,BYU Cougars,336,,,,False,Big 12,Big 12
+8,Oklahoma State Cowboys,113,West Virginia Mountaineers,107,,,,False,Big 12,Big 12
+8,Charlotte 49ers,142,East Carolina Pirates,9,,,,False,American Athletic,American Athletic
+8,Rice Owls,146,Tulsa Golden Hurricane,5,,,2023-10-19T23:00:00,False,American Athletic,American Athletic
+8,SMU Mustangs,1,Temple Owls,2,,,2023-10-20T23:00:00,False,American Athletic,American Athletic
+8,UTSA Roadrunners,147,Florida Atlantic Owls,145,,,,False,American Athletic,American Athletic
+8,Air Force Falcons,221,Navy Midshipmen,258,,,2023-10-21T16:00:00,False,Mountain West,American Athletic
+8,North Texas Mean Green,141,Tulane Green Wave,10,,,,False,American Athletic,American Athletic
+8,Memphis Tigers,7,UAB Blazers,134,,,,False,American Athletic,American Athletic
+8,Coastal Carolina Chanticleers,81,Arkansas State Red Wolves,327,,,,False,Sun Belt - East,Sun Belt - West
+8,James Madison Dukes,126,Marshall Thundering Herd,136,,,2023-10-19T23:00:00,False,Sun Belt - East,Sun Belt - East
+8,UL Monroe Warhawks,326,Georgia Southern Eagles,329,,,,False,Sun Belt - West,Sun Belt - East
+8,Appalachian State Mountaineers,331,Old Dominion Monarchs,138,,,,False,Sun Belt - East,Sun Belt - East
+8,Georgia State Panthers,328,Louisiana Ragin Cajuns,324,,,,False,Sun Belt - East,Sun Belt - West
+8,Southern Miss Golden Eagles,143,South Alabama Jaguars,330,,,2023-10-17T23:30:00,False,Sun Belt - West,Sun Belt - West
+8,Akron Zips,177,Bowling Green Falcons,181,,,,False,Mid-American - East,Mid-American - East
+8,Toledo Rockets,183,Miami (OH) RedHawks,182,,,,False,Mid-American - West,Mid-American - East
+8,Western Michigan Broncos,188,Ohio Bobcats,180,,,,False,Mid-American - West,Mid-American - East
+8,Central Michigan Chippewas,185,Ball State Cardinals,184,,,,False,Mid-American - West,Mid-American - West
+8,Buffalo Bulls,179,Kent State Golden Flashes,178,,,2023-10-21T19:30:00,False,Mid-American - East,Mid-American - East
+8,Eastern Michigan Eagles,187,Northern Illinois Huskies,186,,,,False,Mid-American - West,Mid-American - West
+8,Hawaii Rainbow Warriors,115,New Mexico Lobos,214,,,,False,Mountain West,Mountain West
+8,Nevada Wolf Pack,216,San Diego State Aztecs,212,,,,False,Mountain West,Mountain West
+8,Utah State Aggies,220,San Jose State Spartans,222,,,2023-10-21T23:00:00,False,Mountain West,Mountain West
+8,Colorado State Rams,217,UNLV Rebels,218,,,2023-10-21T23:00:00,False,Mountain West,Mountain West
+9,UConn Huskies,3,Boston College Eagles,35,,,,False,FBS Independents,Atlantic Coast
+9,Michigan State Spartans,97,Minnesota Golden Gophers,104,,,,False,Big Ten - East,Big Ten - West
+9,Vanderbilt Commodores,273,Ole Miss Rebels,274,,,,False,SEC - East,SEC - West
+9,Purdue Boilermakers,94,Nebraska Cornhuskers,99,,,,False,Big Ten - West,Big Ten - West
+9,Mississippi State Bulldogs,278,Auburn Tigers,279,,,,False,SEC - West,SEC - West
+9,Indiana Hoosiers,93,Penn State Nittany Lions,101,,,,False,Big Ten - East,Big Ten - East
+9,Jacksonville State Gamecocks,238,Florida International Panthers,140,,,2023-10-21T23:00:00,False,Conference USA,Conference USA
+9,New Mexico State Aggies,344,Louisiana Tech Bulldogs,137,,,2023-10-20T23:00:00,False,Conference USA,Conference USA
+9,South Carolina Gamecocks,267,Texas A&M Aggies,270,,,,False,SEC - East,SEC - West
+9,UTEP Miners,139,Sam Houston Bearkats,295,,,2023-10-22T00:00:00,False,Conference USA,Conference USA
+9,Ohio State Buckeyes,98,Wisconsin Badgers,96,,,,False,Big Ten - East,Big Ten - West
+9,UMass Minutemen,55,Army Black Knights,263,,,2023-10-24T16:00:00,False,FBS Independents,FBS Independents
+9,Georgia Bulldogs,272,Florida Gators,271,3.6,25.1,2023-10-24T19:30:00,True,SEC - East,SEC - East
+9,Maryland Terrapins,92,Northwestern Wildcats,100,,,,False,Big Ten - East,Big Ten - West
+9,Tennessee Volunteers,277,Kentucky Wildcats,268,,,,False,SEC - East,SEC - East
+9,Liberty Flames,84,Western Kentucky Hilltoppers,144,,,2023-10-20T23:30:00,False,Conference USA,Conference USA
+9,Oregon State Beavers,252,Arizona Wildcats,247,,,,False,Pac-12,Pac-12
+9,Washington Huskies,249,Stanford Cardinal,254,,,,False,Pac-12,Pac-12
+9,USC Trojans,246,California Golden Bears,251,,,,False,Pac-12,Pac-12
+9,Oregon Ducks,245,Utah Utes,248,,,,False,Pac-12,Pac-12
+9,Colorado Buffaloes,250,UCLA Bruins,253,,,,False,Pac-12,Pac-12
+9,Washington State Cougars,256,Arizona State Sun Devils,255,,,,False,Pac-12,Pac-12
+9,Pittsburgh Panthers,28,Notre Dame Fighting Irish,25,,,2023-10-24T19:30:00,False,Atlantic Coast,FBS Independents
+9,Clemson Tigers,27,NC State Wolfpack,33,,,,False,Atlantic Coast,Atlantic Coast
+9,Florida State Seminoles,29,Wake Forest Demon Deacons,34,,,,False,Atlantic Coast,Atlantic Coast
+9,Virginia Cavaliers,22,Miami Hurricanes,23,,,,False,Atlantic Coast,Atlantic Coast
+9,Syracuse Orange,30,Virginia Tech Hokies,31,,,2023-10-22T23:30:00,False,Atlantic Coast,Atlantic Coast
+9,North Carolina Tar Heels,21,Georgia Tech Yellow Jackets,32,,,,False,Atlantic Coast,Atlantic Coast
+9,Duke Blue Devils,26,Louisville Cardinals,24,,,,False,Atlantic Coast,Atlantic Coast
+9,Cincinnati Bearcats,4,Oklahoma State Cowboys,113,,,,False,Big 12,Big 12
+9,West Virginia Mountaineers,107,UCF Knights,8,,,,False,Big 12,Big 12
+9,Oklahoma Sooners,105,Kansas Jayhawks,106,,,,False,Big 12,Big 12
+9,Houston Cougars,6,Kansas State Wildcats,112,,,,False,Big 12,Big 12
+9,Iowa State Cyclones,110,Baylor Bears,108,,,,False,Big 12,Big 12
+9,BYU Cougars,336,Texas Longhorns,109,,,,False,Big 12,Big 12
+9,Tulane Green Wave,10,Rice Owls,146,,,,False,American Athletic,American Athletic
+9,Florida Atlantic Owls,145,Charlotte 49ers,142,,,2023-10-23T23:30:00,False,American Athletic,American Athletic
+9,Memphis Tigers,7,North Texas Mean Green,141,,,,False,American Athletic,American Athletic
+9,Tulsa Golden Hurricane,5,SMU Mustangs,1,,,,False,American Athletic,American Athletic
+9,East Carolina Pirates,9,UTSA Roadrunners,147,,,,False,American Athletic,American Athletic
+9,Southern Miss Golden Eagles,143,Appalachian State Mountaineers,331,,,,False,Sun Belt - West,Sun Belt - East
+9,Arkansas State Red Wolves,327,UL Monroe Warhawks,326,,,,False,Sun Belt - West,Sun Belt - West
+9,Old Dominion Monarchs,138,James Madison Dukes,126,,,,False,Sun Belt - East,Sun Belt - East
+9,Marshall Thundering Herd,136,Coastal Carolina Chanticleers,81,,,,False,Sun Belt - East,Sun Belt - East
+9,Troy Trojans,333,Texas State Bobcats,332,,,,False,Sun Belt - West,Sun Belt - West
+9,Louisiana Ragin Cajuns,324,South Alabama Jaguars,330,,,,False,Sun Belt - West,Sun Belt - West
+9,Georgia State Panthers,328,Georgia Southern Eagles,329,,,2023-10-22T23:30:00,False,Sun Belt - East,Sun Belt - East
+9,Miami (OH) RedHawks,182,Ohio Bobcats,180,,,,False,Mid-American - East,Mid-American - East
+9,Western Michigan Broncos,188,Eastern Michigan Eagles,187,,,,False,Mid-American - West,Mid-American - West
+9,New Mexico Lobos,214,Nevada Wolf Pack,216,,,2023-10-25T02:30:00,False,Mountain West,Mountain West
+9,UNLV Rebels,218,Fresno State Bulldogs,213,,,,False,Mountain West,Mountain West
+9,Air Force Falcons,221,Colorado State Rams,217,,,2023-10-24T23:00:00,False,Mountain West,Mountain West
+9,San Jose State Spartans,222,Hawaii Rainbow Warriors,115,,,,False,Mountain West,Mountain West
+9,Wyoming Cowboys,219,Boise State Broncos,215,,,,False,Mountain West,Mountain West
+10,Penn State Nittany Lions,101,Maryland Terrapins,92,,,,False,Big Ten - East,Big Ten - East
+10,Nebraska Cornhuskers,99,Michigan State Spartans,97,,,,False,Big Ten - West,Big Ten - East
+10,Purdue Boilermakers,94,Michigan Wolverines,95,,,,False,Big Ten - West,Big Ten - East
+10,Illinois Fighting Illini,102,Minnesota Golden Gophers,104,,,,False,Big Ten - West,Big Ten - West
+10,Texas A&M Aggies,270,Ole Miss Rebels,274,,,,False,SEC - West,SEC - West
+10,Ohio State Buckeyes,98,Rutgers Scarlet Knights,103,,,,False,Big Ten - East,Big Ten - East
+10,Middle Tennessee Blue Raiders,135,New Mexico State Aggies,344,,,2023-11-02T22:00:00,False,Conference USA,Conference USA
+10,Army Black Knights,263,Air Force Falcons,221,,,2023-11-02T18:30:00,True,FBS Independents,Mountain West
+10,Louisiana Tech Bulldogs,137,Liberty Flames,84,,,2023-11-02T22:00:00,False,Conference USA,Conference USA
+10,Auburn Tigers,279,Vanderbilt Commodores,273,,,,False,SEC - West,SEC - East
+10,Jacksonville State Gamecocks,238,South Carolina Gamecocks,267,,,,False,Conference USA,SEC - East
+10,UConn Huskies,3,Tennessee Volunteers,277,,,,False,FBS Independents,SEC - East
+10,Western Kentucky Hilltoppers,144,UTEP Miners,139,,,2023-11-03T01:00:00,False,Conference USA,Conference USA
+10,LSU Tigers,269,Alabama Crimson Tide,275,-5.2,,,False,SEC - West,SEC - West
+10,Kentucky Wildcats,268,Mississippi State Bulldogs,278,,,,False,SEC - East,SEC - West
+10,Arkansas Razorbacks,276,Florida Gators,271,,,,False,SEC - West,SEC - East
+10,Missouri Tigers,280,Georgia Bulldogs,272,,,,False,SEC - East,SEC - East
+10,Iowa Hawkeyes,91,Northwestern Wildcats,100,,,,True,Big Ten - West,Big Ten - West
+10,Wisconsin Badgers,96,Indiana Hoosiers,93,,,,False,Big Ten - West,Big Ten - East
+10,Merrimack College Warriors,817,UMass Minutemen,55,,,,False,,FBS Independents
+10,UCLA Bruins,253,Arizona Wildcats,247,,,,False,Pac-12,Pac-12
+10,California Golden Bears,251,Oregon Ducks,245,,,,False,Pac-12,Pac-12
+10,Arizona State Sun Devils,255,Utah Utes,248,,,,False,Pac-12,Pac-12
+10,Stanford Cardinal,254,Washington State Cougars,256,,,,False,Pac-12,Pac-12
+10,Washington Huskies,249,USC Trojans,246,,,,False,Pac-12,Pac-12
+10,Oregon State Beavers,252,Colorado Buffaloes,250,,,,False,Pac-12,Pac-12
+10,Notre Dame Fighting Irish,25,Clemson Tigers,27,,,,False,FBS Independents,Atlantic Coast
+10,Wake Forest Demon Deacons,34,Duke Blue Devils,26,,,2023-10-31T23:30:00,False,Atlantic Coast,Atlantic Coast
+10,Miami Hurricanes,23,NC State Wolfpack,33,,,,False,Atlantic Coast,Atlantic Coast
+10,Campbell Fighting Camels,90,North Carolina Tar Heels,21,,,,False,,Atlantic Coast
+10,Boston College Eagles,35,Syracuse Orange,30,,,2023-11-01T23:30:00,False,Atlantic Coast,Atlantic Coast
+10,Florida State Seminoles,29,Pittsburgh Panthers,28,,,,False,Atlantic Coast,Atlantic Coast
+10,Georgia Tech Yellow Jackets,32,Virginia Cavaliers,22,,,,False,Atlantic Coast,Atlantic Coast
+10,Virginia Tech Hokies,31,Louisville Cardinals,24,,,,False,Atlantic Coast,Atlantic Coast
+10,Oklahoma Sooners,105,Oklahoma State Cowboys,113,,,,False,Big 12,Big 12
+10,UCF Knights,8,Cincinnati Bearcats,4,,,,False,Big 12,Big 12
+10,Houston Cougars,6,Baylor Bears,108,,,,False,Big 12,Big 12
+10,Kansas State Wildcats,112,Texas Longhorns,109,,,,False,Big 12,Big 12
+10,TCU Horned Frogs,114,Texas Tech Red Raiders,111,,,2023-10-31T23:00:00,False,Big 12,Big 12
+10,BYU Cougars,336,West Virginia Mountaineers,107,,,,False,Big 12,Big 12
+10,Kansas Jayhawks,106,Iowa State Cyclones,110,,,,False,Big 12,Big 12
+10,Charlotte 49ers,142,Tulsa Golden Hurricane,5,,,,False,American Athletic,American Athletic
+10,Tulane Green Wave,10,East Carolina Pirates,9,,,,False,American Athletic,American Athletic
+10,Navy Midshipmen,258,Temple Owls,2,,,,False,American Athletic,American Athletic
+10,South Florida Bulls,11,Memphis Tigers,7,,,,False,American Athletic,American Athletic
+10,SMU Mustangs,1,Rice Owls,146,,,,False,American Athletic,American Athletic
+10,UTSA Roadrunners,147,North Texas Mean Green,141,,,,False,American Athletic,American Athletic
+10,Florida Atlantic Owls,145,UAB Blazers,134,,,,False,American Athletic,American Athletic
+10,Marshall Thundering Herd,136,Appalachian State Mountaineers,331,,,,False,Sun Belt - East,Sun Belt - East
+10,Louisiana Ragin Cajuns,324,Arkansas State Red Wolves,327,,,,False,Sun Belt - West,Sun Belt - West
+10,James Madison Dukes,126,Georgia State Panthers,328,,,,False,Sun Belt - East,Sun Belt - East
+10,UL Monroe Warhawks,326,Southern Miss Golden Eagles,143,,,,False,Sun Belt - West,Sun Belt - West
+10,South Alabama Jaguars,330,Troy Trojans,333,,,2023-10-31T23:30:00,False,Sun Belt - West,Sun Belt - West
+10,Coastal Carolina Chanticleers,81,Old Dominion Monarchs,138,,,,False,Sun Belt - East,Sun Belt - East
+10,Georgia Southern Eagles,329,Texas State Bobcats,332,,,,False,Sun Belt - East,Sun Belt - West
+10,Ball State Cardinals,184,Bowling Green Falcons,181,,,,False,Mid-American - West,Mid-American - East
+10,Kent State Golden Flashes,178,Akron Zips,177,,,,False,Mid-American - East,Mid-American - East
+10,Northern Illinois Huskies,186,Central Michigan Chippewas,185,,,,False,Mid-American - West,Mid-American - West
+10,Buffalo Bulls,179,Toledo Rockets,183,,,,False,Mid-American - East,Mid-American - West
+10,UNLV Rebels,218,New Mexico Lobos,214,,,,False,Mountain West,Mountain West
+10,Utah State Aggies,220,San Diego State Aztecs,212,,,,False,Mountain West,Mountain West
+10,Hawaii Rainbow Warriors,115,Nevada Wolf Pack,216,,,,False,Mountain West,Mountain West
+10,Colorado State Rams,217,Wyoming Cowboys,219,,,2023-11-02T00:00:00,False,Mountain West,Mountain West
+10,Boise State Broncos,215,Fresno State Bulldogs,213,,,2023-11-03T02:00:00,False,Mountain West,Mountain West
+10,Kennesaw State Owls,42,Sam Houston Bearkats,295,,,,False,,Conference USA
+11,Tennessee Volunteers,277,Missouri Tigers,280,,,,False,SEC - East,SEC - East
+11,Maryland Terrapins,92,Nebraska Cornhuskers,99,,,,False,Big Ten - East,Big Ten - West
+11,Michigan State Spartans,97,Ohio State Buckeyes,98,-7.6,,2023-11-07T00:30:00,False,Big Ten - East,Big Ten - East
+11,Michigan Wolverines,95,Penn State Nittany Lions,101,0.2,,2023-11-06T17:00:00,False,Big Ten - East,Big Ten - East
+11,Rutgers Scarlet Knights,103,Iowa Hawkeyes,91,,,,False,Big Ten - East,Big Ten - West
+11,Old Dominion Monarchs,138,Liberty Flames,84,,,2023-11-06T18:00:00,False,Sun Belt - East,Conference USA
+11,Sam Houston Bearkats,295,Louisiana Tech Bulldogs,137,,,2023-11-06T20:00:00,False,Conference USA,Conference USA
+11,Florida International Panthers,140,Middle Tennessee Blue Raiders,135,,,2023-11-06T20:30:00,False,Conference USA,Conference USA
+11,Mississippi State Bulldogs,278,Texas A&M Aggies,270,,,,False,SEC - West,SEC - West
+11,Minnesota Golden Gophers,104,Purdue Boilermakers,94,,,,False,Big Ten - West,Big Ten - West
+11,UConn Huskies,3,James Madison Dukes,126,,,,False,FBS Independents,Sun Belt - East
+11,Vanderbilt Commodores,273,South Carolina Gamecocks,267,,,,False,SEC - East,SEC - East
+11,Northwestern Wildcats,100,Wisconsin Badgers,96,,,,False,Big Ten - West,Big Ten - West
+11,Holy Cross Crusaders,264,Army Black Knights,263,,,2023-11-06T17:00:00,False,,FBS Independents
+11,Indiana Hoosiers,93,Illinois Fighting Illini,102,,,,False,Big Ten - East,Big Ten - West
+11,Ole Miss Rebels,274,Georgia Bulldogs,272,,,,False,SEC - West,SEC - East
+11,Auburn Tigers,279,Arkansas Razorbacks,276,,,,False,SEC - West,SEC - West
+11,Alabama Crimson Tide,275,Kentucky Wildcats,268,,,,False,SEC - West,SEC - East
+11,New Mexico State Aggies,344,Western Kentucky Hilltoppers,144,,,2023-11-06T20:30:00,False,Conference USA,Conference USA
+11,Florida Gators,271,LSU Tigers,269,,,,False,SEC - East,SEC - West
+11,Stanford Cardinal,254,Oregon State Beavers,252,,,,False,Pac-12,Pac-12
+11,USC Trojans,246,Oregon Ducks,245,,,,False,Pac-12,Pac-12
+11,Washington State Cougars,256,California Golden Bears,251,,,,False,Pac-12,Pac-12
+11,Arizona State Sun Devils,255,UCLA Bruins,253,,,,False,Pac-12,Pac-12
+11,Utah Utes,248,Washington Huskies,249,,,,False,Pac-12,Pac-12
+11,Arizona Wildcats,247,Colorado Buffaloes,250,,,,False,Pac-12,Pac-12
+11,Virginia Tech Hokies,31,Boston College Eagles,35,,,,False,Atlantic Coast,Atlantic Coast
+11,Duke Blue Devils,26,North Carolina Tar Heels,21,,,,False,Atlantic Coast,Atlantic Coast
+11,NC State Wolfpack,33,Wake Forest Demon Deacons,34,,,,False,Atlantic Coast,Atlantic Coast
+11,Pittsburgh Panthers,28,Syracuse Orange,30,,,,True,Atlantic Coast,Atlantic Coast
+11,Georgia Tech Yellow Jackets,32,Clemson Tigers,27,,,,False,Atlantic Coast,Atlantic Coast
+11,Miami Hurricanes,23,Florida State Seminoles,29,,,,False,Atlantic Coast,Atlantic Coast
+11,Virginia Cavaliers,22,Louisville Cardinals,24,,,2023-11-05T00:30:00,False,Atlantic Coast,Atlantic Coast
+11,West Virginia Mountaineers,107,Oklahoma Sooners,105,,,,False,Big 12,Big 12
+11,Oklahoma State Cowboys,113,UCF Knights,8,,,,False,Big 12,Big 12
+11,Texas Tech Red Raiders,111,Kansas Jayhawks,106,,,,False,Big 12,Big 12
+11,Baylor Bears,108,Kansas State Wildcats,112,,,,False,Big 12,Big 12
+11,Cincinnati Bearcats,4,Houston Cougars,6,,,,False,Big 12,Big 12
+11,Iowa State Cyclones,110,BYU Cougars,336,,,,False,Big 12,Big 12
+11,Texas Longhorns,109,TCU Horned Frogs,114,,,,False,Big 12,Big 12
+11,East Carolina Pirates,9,Florida Atlantic Owls,145,,,,False,American Athletic,American Athletic
+11,UAB Blazers,134,Navy Midshipmen,258,,,2023-11-06T20:30:00,False,American Athletic,American Athletic
+11,Memphis Tigers,7,Charlotte 49ers,142,,,,False,American Athletic,American Athletic
+11,North Texas Mean Green,141,SMU Mustangs,1,,,2023-11-06T02:00:00,False,American Athletic,American Athletic
+11,Rice Owls,146,UTSA Roadrunners,147,,,,False,American Athletic,American Athletic
+11,Tulsa Golden Hurricane,5,Tulane Green Wave,10,,,,False,American Athletic,American Athletic
+11,Temple Owls,2,South Florida Bulls,11,,,,False,American Athletic,American Athletic
+11,Appalachian State Mountaineers,331,Georgia State Panthers,328,,,,False,Sun Belt - East,Sun Belt - East
+11,Troy Trojans,333,UL Monroe Warhawks,326,,,,False,Sun Belt - West,Sun Belt - West
+11,Georgia Southern Eagles,329,Marshall Thundering Herd,136,,,,False,Sun Belt - East,Sun Belt - East
+11,Southern Miss Golden Eagles,143,Louisiana Ragin Cajuns,324,,,2023-11-05T00:30:00,False,Sun Belt - West,Sun Belt - West
+11,Texas State Bobcats,332,Coastal Carolina Chanticleers,81,,,,False,Sun Belt - West,Sun Belt - East
+11,Arkansas State Red Wolves,327,South Alabama Jaguars,330,,,,False,Sun Belt - West,Sun Belt - West
+11,Akron Zips,177,Miami (OH) RedHawks,182,,,,False,Mid-American - East,Mid-American - East
+11,Ohio Bobcats,180,Buffalo Bulls,179,,,,False,Mid-American - East,Mid-American - East
+11,Bowling Green Falcons,181,Kent State Golden Flashes,178,,,,False,Mid-American - East,Mid-American - East
+11,Ball State Cardinals,184,Northern Illinois Huskies,186,,,,False,Mid-American - West,Mid-American - West
+11,Eastern Michigan Eagles,187,Toledo Rockets,183,,,,False,Mid-American - West,Mid-American - West
+11,Central Michigan Chippewas,185,Western Michigan Broncos,188,,,2023-11-03T00:30:00,False,Mid-American - West,Mid-American - West
+11,Fresno State Bulldogs,213,San Jose State Spartans,222,,,2023-11-07T03:30:00,False,Mountain West,Mountain West
+11,Wyoming Cowboys,219,UNLV Rebels,218,,,2023-11-06T03:45:00,False,Mountain West,Mountain West
+11,Nevada Wolf Pack,216,Utah State Aggies,220,,,,False,Mountain West,Mountain West
+11,San Diego State Aztecs,212,Colorado State Rams,217,,,2023-11-07T00:00:00,False,Mountain West,Mountain West
+11,Air Force Falcons,221,Hawaii Rainbow Warriors,115,,,,False,Mountain West,Mountain West
+11,New Mexico Lobos,214,Boise State Broncos,215,,,,False,Mountain West,Mountain West
+12,Michigan Wolverines,95,Maryland Terrapins,92,,,,False,Big Ten - East,Big Ten - East
+12,Florida Gators,271,Missouri Tigers,280,,,,False,SEC - East,SEC - East
+12,UL Monroe Warhawks,326,Ole Miss Rebels,274,,,,False,Sun Belt - West,SEC - West
+12,Minnesota Golden Gophers,104,Ohio State Buckeyes,98,,,,False,Big Ten - West,Big Ten - East
+12,New Mexico State Aggies,344,Auburn Tigers,279,,,,False,Conference USA,SEC - West
+12,Rutgers Scarlet Knights,103,Penn State Nittany Lions,101,,,,False,Big Ten - East,Big Ten - East
+12,Illinois Fighting Illini,102,Iowa Hawkeyes,91,,,,False,Big Ten - West,Big Ten - West
+12,UMass Minutemen,55,Liberty Flames,84,,,2023-11-18T18:00:00,False,FBS Independents,Conference USA
+12,UTEP Miners,139,Middle Tennessee Blue Raiders,135,,,2023-11-18T19:00:00,False,Conference USA,Conference USA
+12,Abilene Christian Wildcats,296,Texas A&M Aggies,270,,,2023-11-18T17:00:00,False,,SEC - West
+12,Kentucky Wildcats,268,South Carolina Gamecocks,267,,,,False,SEC - East,SEC - East
+12,Georgia Bulldogs,272,Tennessee Volunteers,277,8.1,,,False,SEC - East,SEC - East
+12,Nebraska Cornhuskers,99,Wisconsin Badgers,96,,,,False,Big Ten - West,Big Ten - West
+12,Chattanooga Mocs,281,Alabama Crimson Tide,275,,,2023-11-18T17:00:00,False,,SEC - West
+12,Southern Miss Golden Eagles,143,Mississippi State Bulldogs,278,,,2023-11-18T17:00:00,False,Sun Belt - West,SEC - West
+12,Coastal Carolina Chanticleers,81,Army Black Knights,263,,,2023-11-18T17:00:00,False,Sun Belt - East,FBS Independents
+12,Sacred Heart Pioneers,227,UConn Huskies,3,,,2023-11-18T17:00:00,False,,FBS Independents
+12,Louisiana Tech Bulldogs,137,Jacksonville State Gamecocks,238,,,2023-11-18T19:00:00,False,Conference USA,Conference USA
+12,Purdue Boilermakers,94,Northwestern Wildcats,100,,,,False,Big Ten - West,Big Ten - West
+12,Florida International Panthers,140,Arkansas Razorbacks,276,,,,False,Conference USA,SEC - West
+12,Michigan State Spartans,97,Indiana Hoosiers,93,,,,False,Big Ten - East,Big Ten - East
+12,Sam Houston Bearkats,295,Western Kentucky Hilltoppers,144,,,2023-11-18T20:30:00,False,Conference USA,Conference USA
+12,Georgia State Panthers,328,LSU Tigers,269,,,,False,Sun Belt - East,SEC - West
+12,Utah Utes,248,Arizona Wildcats,247,,,,False,Pac-12,Pac-12
+12,Washington Huskies,249,Oregon State Beavers,252,,,,False,Pac-12,Pac-12
+12,California Golden Bears,251,Stanford Cardinal,254,,,,False,Pac-12,Pac-12
+12,Colorado Buffaloes,250,Washington State Cougars,256,,,2023-11-18T03:30:00,False,Pac-12,Pac-12
+12,UCLA Bruins,253,USC Trojans,246,,,,False,Pac-12,Pac-12
+12,Oregon Ducks,245,Arizona State Sun Devils,255,,,,False,Pac-12,Pac-12
+12,Wake Forest Demon Deacons,34,Notre Dame Fighting Irish,25,,,2023-11-18T20:30:00,False,Atlantic Coast,FBS Independents
+12,Boston College Eagles,35,Pittsburgh Panthers,28,,,2023-11-17T00:00:00,False,Atlantic Coast,Atlantic Coast
+12,North Carolina Tar Heels,21,Clemson Tigers,27,,,,False,Atlantic Coast,Atlantic Coast
+12,Louisville Cardinals,24,Miami Hurricanes,23,,,,False,Atlantic Coast,Atlantic Coast
+12,Duke Blue Devils,26,Virginia Cavaliers,22,,,,False,Atlantic Coast,Atlantic Coast
+12,NC State Wolfpack,33,Virginia Tech Hokies,31,,,,False,Atlantic Coast,Atlantic Coast
+12,North Alabama Lions,396,Florida State Seminoles,29,,,,False,,Atlantic Coast
+12,Syracuse Orange,30,Georgia Tech Yellow Jackets,32,,,,False,Atlantic Coast,Atlantic Coast
+12,Kansas State Wildcats,112,Kansas Jayhawks,106,7.0,,,False,Big 12,Big 12
+12,Oklahoma State Cowboys,113,Houston Cougars,6,,,,False,Big 12,Big 12
+12,Oklahoma Sooners,105,BYU Cougars,336,,,,False,Big 12,Big 12
+12,Baylor Bears,108,TCU Horned Frogs,114,,,,False,Big 12,Big 12
+12,UCF Knights,8,Texas Tech Red Raiders,111,,,,False,Big 12,Big 12
+12,Cincinnati Bearcats,4,West Virginia Mountaineers,107,,,,False,Big 12,Big 12
+12,Texas Longhorns,109,Iowa State Cyclones,110,,,,False,Big 12,Big 12
+12,North Texas Mean Green,141,Tulsa Golden Hurricane,5,,,,False,American Athletic,American Athletic
+12,Tulane Green Wave,10,Florida Atlantic Owls,145,,,,False,American Athletic,American Athletic
+12,SMU Mustangs,1,Memphis Tigers,7,,,,False,American Athletic,American Athletic
+12,East Carolina Pirates,9,Navy Midshipmen,258,,,,False,American Athletic,American Athletic
+12,Rice Owls,146,Charlotte 49ers,142,,,,False,American Athletic,American Athletic
+12,South Florida Bulls,11,UTSA Roadrunners,147,,,2023-11-18T02:00:00,False,American Athletic,American Athletic
+12,Temple Owls,2,UAB Blazers,134,,,,False,American Athletic,American Athletic
+12,Texas State Bobcats,332,Arkansas State Red Wolves,327,,,,False,Sun Belt - West,Sun Belt - West
+12,Appalachian State Mountaineers,331,James Madison Dukes,126,,,,False,Sun Belt - East,Sun Belt - East
+12,Louisiana Ragin Cajuns,324,Troy Trojans,333,,,,False,Sun Belt - West,Sun Belt - West
+12,Old Dominion Monarchs,138,Georgia Southern Eagles,329,,,,False,Sun Belt - East,Sun Belt - East
+12,Marshall Thundering Herd,136,South Alabama Jaguars,330,,,,False,Sun Belt - East,Sun Belt - West
+12,Toledo Rockets,183,Bowling Green Falcons,181,,,2023-11-15T00:00:00,False,Mid-American - West,Mid-American - East
+12,Buffalo Bulls,179,Miami (OH) RedHawks,182,,,2023-11-16T00:00:00,False,Mid-American - East,Mid-American - East
+12,Central Michigan Chippewas,185,Ohio Bobcats,180,,,2023-11-16T00:00:00,False,Mid-American - West,Mid-American - East
+12,Kent State Golden Flashes,178,Ball State Cardinals,184,,,,False,Mid-American - East,Mid-American - West
+12,Akron Zips,177,Eastern Michigan Eagles,187,,,2023-11-15T00:00:00,False,Mid-American - East,Mid-American - West
+12,Western Michigan Broncos,188,Northern Illinois Huskies,186,,,2023-11-15T00:00:00,False,Mid-American - West,Mid-American - West
+12,UNLV Rebels,218,Air Force Falcons,221,,,2023-11-18T20:30:00,False,Mountain West,Mountain West
+12,San Diego State Aztecs,212,San Jose State Spartans,222,,,2023-11-19T03:30:00,False,Mountain West,Mountain West
+12,Hawaii Rainbow Warriors,115,Wyoming Cowboys,219,,,,False,Mountain West,Mountain West
+12,New Mexico Lobos,214,Fresno State Bulldogs,213,,,,False,Mountain West,Mountain West
+12,Boise State Broncos,215,Utah State Aggies,220,,,2023-11-19T00:00:00,False,Mountain West,Mountain West
+12,Nevada Wolf Pack,216,Colorado State Rams,217,,,2023-11-18T20:00:00,False,Mountain West,Mountain West
+13,UConn Huskies,3,UMass Minutemen,55,,,,False,FBS Independents,FBS Independents
+13,Penn State Nittany Lions,101,Michigan State Spartans,97,,,2023-11-26T00:30:00,False,Big Ten - East,Big Ten - East
+13,Ohio State Buckeyes,98,Michigan Wolverines,95,-2.9,,2023-11-26T17:00:00,False,Big Ten - East,Big Ten - East
+13,Wisconsin Badgers,96,Minnesota Golden Gophers,104,,,,False,Big Ten - West,Big Ten - West
+13,Iowa Hawkeyes,91,Nebraska Cornhuskers,99,,,2023-11-25T17:00:00,False,Big Ten - West,Big Ten - West
+13,Maryland Terrapins,92,Rutgers Scarlet Knights,103,,,,False,Big Ten - East,Big Ten - East
+13,Jacksonville State Gamecocks,238,New Mexico State Aggies,344,,,2023-11-26T21:00:00,False,Conference USA,Conference USA
+13,Alabama Crimson Tide,275,Auburn Tigers,279,,,,False,SEC - West,SEC - West
+13,Western Kentucky Hilltoppers,144,Florida International Panthers,140,,,2023-11-26T20:00:00,False,Conference USA,Conference USA
+13,Indiana Hoosiers,93,Purdue Boilermakers,94,,,,False,Big Ten - East,Big Ten - West
+13,Middle Tennessee Blue Raiders,135,Sam Houston Bearkats,295,,,2023-11-26T17:00:00,False,Conference USA,Conference USA
+13,Clemson Tigers,27,South Carolina Gamecocks,267,,,,False,Atlantic Coast,SEC - East
+13,Vanderbilt Commodores,273,Tennessee Volunteers,277,,,,False,SEC - East,SEC - East
+13,Liberty Flames,84,UTEP Miners,139,,,2023-11-26T20:30:00,False,Conference USA,Conference USA
+13,Ole Miss Rebels,274,Mississippi State Bulldogs,278,3.3,,2023-11-25T00:30:00,False,SEC - West,SEC - West
+13,Northwestern Wildcats,100,Illinois Fighting Illini,102,,,,False,Big Ten - West,Big Ten - West
+13,Florida State Seminoles,29,Florida Gators,271,,,,False,Atlantic Coast,SEC - East
+13,Georgia Bulldogs,272,Georgia Tech Yellow Jackets,32,,,,False,SEC - East,Atlantic Coast
+13,Missouri Tigers,280,Arkansas Razorbacks,276,,,2023-11-25T21:00:00,False,SEC - East,SEC - West
+13,Kentucky Wildcats,268,Louisville Cardinals,24,,,,False,SEC - East,Atlantic Coast
+13,Texas A&M Aggies,270,LSU Tigers,269,,,,False,SEC - West,SEC - West
+13,Notre Dame Fighting Irish,25,Stanford Cardinal,254,,,,False,FBS Independents,Pac-12
+13,Oregon State Beavers,252,Oregon Ducks,245,-8.7,,2023-11-26T01:30:00,False,Pac-12,Pac-12
+13,Colorado Buffaloes,250,Utah Utes,248,,,,False,Pac-12,Pac-12
+13,California Golden Bears,251,UCLA Bruins,253,,,,False,Pac-12,Pac-12
+13,Washington State Cougars,256,Washington Huskies,249,,,,False,Pac-12,Pac-12
+13,Arizona Wildcats,247,Arizona State Sun Devils,255,,,,False,Pac-12,Pac-12
+13,Miami Hurricanes,23,Boston College Eagles,35,,,2023-11-25T17:00:00,False,Atlantic Coast,Atlantic Coast
+13,Pittsburgh Panthers,28,Duke Blue Devils,26,,,,False,Atlantic Coast,Atlantic Coast
+13,North Carolina Tar Heels,21,NC State Wolfpack,33,,,,False,Atlantic Coast,Atlantic Coast
+13,Wake Forest Demon Deacons,34,Syracuse Orange,30,,,,False,Atlantic Coast,Atlantic Coast
+13,Virginia Tech Hokies,31,Virginia Cavaliers,22,,,,False,Atlantic Coast,Atlantic Coast
+13,BYU Cougars,336,Oklahoma State Cowboys,113,,,,False,Big 12,Big 12
+13,TCU Horned Frogs,114,Oklahoma Sooners,105,,,2023-11-25T17:00:00,False,Big 12,Big 12
+13,Houston Cougars,6,UCF Knights,8,,,,False,Big 12,Big 12
+13,Kansas Jayhawks,106,Cincinnati Bearcats,4,,,,False,Big 12,Big 12
+13,Iowa State Cyclones,110,Kansas State Wildcats,112,,,,False,Big 12,Big 12
+13,West Virginia Mountaineers,107,Baylor Bears,108,,,,False,Big 12,Big 12
+13,Texas Tech Red Raiders,111,Texas Longhorns,109,,,2023-11-26T00:30:00,False,Big 12,Big 12
+13,Tulsa Golden Hurricane,5,East Carolina Pirates,9,,,,False,American Athletic,American Athletic
+13,Memphis Tigers,7,Temple Owls,2,,,,False,American Athletic,American Athletic
+13,Florida Atlantic Owls,145,Rice Owls,146,,,,False,American Athletic,American Athletic
+13,UAB Blazers,134,North Texas Mean Green,141,,,,False,American Athletic,American Athletic
+13,Navy Midshipmen,258,SMU Mustangs,1,,,,False,American Athletic,American Athletic
+13,UTSA Roadrunners,147,Tulane Green Wave,10,,,,False,American Athletic,American Athletic
+13,Charlotte 49ers,142,South Florida Bulls,11,,,,False,American Athletic,American Athletic
+13,Georgia Southern Eagles,329,Appalachian State Mountaineers,331,,,,False,Sun Belt - East,Sun Belt - East
+13,Troy Trojans,333,Southern Miss Golden Eagles,143,,,,False,Sun Belt - West,Sun Belt - West
+13,Arkansas State Red Wolves,327,Marshall Thundering Herd,136,,,,False,Sun Belt - West,Sun Belt - East
+13,Georgia State Panthers,328,Old Dominion Monarchs,138,,,,False,Sun Belt - East,Sun Belt - East
+13,UL Monroe Warhawks,326,Louisiana Ragin Cajuns,324,,,,False,Sun Belt - West,Sun Belt - West
+13,James Madison Dukes,126,Coastal Carolina Chanticleers,81,,,,False,Sun Belt - East,Sun Belt - East
+13,South Alabama Jaguars,330,Texas State Bobcats,332,,,,False,Sun Belt - West,Sun Belt - West
+13,Ohio Bobcats,180,Akron Zips,177,,,2023-11-25T17:00:00,False,Mid-American - East,Mid-American - East
+13,Miami (OH) RedHawks,182,Ball State Cardinals,184,,,,False,Mid-American - East,Mid-American - West
+13,Eastern Michigan Eagles,187,Buffalo Bulls,179,,,,False,Mid-American - West,Mid-American - East
+13,Toledo Rockets,183,Central Michigan Chippewas,185,,,2023-11-25T17:00:00,False,Mid-American - West,Mid-American - West
+13,Northern Illinois Huskies,186,Kent State Golden Flashes,178,,,,False,Mid-American - West,Mid-American - East
+13,Bowling Green Falcons,181,Western Michigan Broncos,188,,,,False,Mid-American - East,Mid-American - West
+13,Utah State Aggies,220,New Mexico Lobos,214,,,2023-11-25T20:30:00,False,Mountain West,Mountain West
+13,Fresno State Bulldogs,213,San Diego State Aztecs,212,,,,False,Mountain West,Mountain West
+13,San Jose State Spartans,222,UNLV Rebels,218,,,2023-11-26T20:00:00,False,Mountain West,Mountain West
+13,Wyoming Cowboys,219,Nevada Wolf Pack,216,,,2023-11-27T02:00:00,False,Mountain West,Mountain West
+13,Colorado State Rams,217,Hawaii Rainbow Warriors,115,,,,False,Mountain West,Mountain West
+13,Air Force Falcons,221,Boise State Broncos,215,,,2023-11-25T21:00:00,False,Mountain West,Mountain West
