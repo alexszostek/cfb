@@ -24,7 +24,7 @@ def query_cosmos_to_dataframe(container, query):
 
 # Query for schedule results
 schedule_container = database.get_container_client(SCHEDULE_CONTAINER_NAME)
-schedule_query = "SELECT c.Week, c.AwayTeamName, c.AwayTeamID, c.HomeTeamName, c.HomeTeamID, c.PointSpread, c.OverUnder, c.DateTimeUTC, c.NeutralVenue FROM c"
+schedule_query = "SELECT c.Week, c.AwayTeamName, c.AwayTeamID, c.HomeTeamName, c.HomeTeamID, c.PointSpread, c.OverUnder, c.DateTime, c.NeutralVenue FROM c"
 df_schedule = query_cosmos_to_dataframe(schedule_container, schedule_query)
 
 # Query for teams results
@@ -41,17 +41,17 @@ df_team_home.columns = [f"{col}_home" for col in df_team_home.columns]
 
 # Merge and select columns for away teams
 merged_df = pd.merge(df_schedule, df_team_away, left_on="AwayTeamID", right_on="TeamID_away", how="left")
-selected_columns_df = merged_df[["Week", "AwayTeamName", "AwayTeamID", "HomeTeamName", "HomeTeamID", "PointSpread", "OverUnder", "DateTimeUTC", "NeutralVenue", "Conference_away"]]
+selected_columns_df = merged_df[["Week", "AwayTeamName", "AwayTeamID", "HomeTeamName", "HomeTeamID", "PointSpread", "OverUnder", "DateTime", "NeutralVenue", "Conference_away"]]
 
-# Convert "DateTimeUTC" to EST timezone
-selected_columns_df['DateTimeEST'] = pd.to_datetime(selected_columns_df['DateTimeUTC']).dt.tz_localize('UTC').dt.tz_convert('US/Eastern')
+# # Convert "DateTimeUTC" to EST timezone
+# selected_columns_df['DateTimeEST'] = pd.to_datetime(selected_columns_df['DateTimeUTC']).dt.tz_localize('UTC').dt.tz_convert('US/Eastern')
 
-# Format "DateTimeEST" column as "YYYY-MM-DD HH:MM PM/AM"
-selected_columns_df['FormattedDateTimeEST'] = selected_columns_df['DateTimeEST'].dt.strftime('%Y-%m-%d %I:%M %p')
+# # Format "DateTimeEST" column as "YYYY-MM-DD HH:MM PM/AM"
+# selected_columns_df['FormattedDateTimeEST'] = selected_columns_df['DateTimeEST'].dt.strftime('%Y-%m-%d %I:%M %p')
 
 # Merge and select columns for home teams
 selected_columns_df = pd.merge(selected_columns_df, df_team_home, left_on="HomeTeamID", right_on="TeamID_home", how="left")
-selected_columns_df = selected_columns_df[["Week", "AwayTeamName", "HomeTeamName", "PointSpread", "OverUnder", "FormattedDateTimeEST", "NeutralVenue", "Conference_away", "Conference_home"]]
+selected_columns_df = selected_columns_df[["Week", "AwayTeamName", "HomeTeamName", "PointSpread", "OverUnder", "DateTime", "NeutralVenue", "Conference_away", "Conference_home"]]
 
 
 # Generate the current date
