@@ -1,0 +1,13 @@
+Week,AwayTeamName,AwayTeamID,HomeTeamName,HomeTeamID,PointSpread,OverUnder,DateTimeUTC,NeutralVenue,Conference_away,Conference_home,TeamsConcatenated,ConferenceConcatenated
+1,Central Michigan Chippewas,185,Michigan State Spartans,97,-10.0,31.0,2023-08-29T23:00:00,False,Mid-American - West,Big Ten - East,Central Michigan Chippewas vs Michigan State Spartans,Mid-American - West vs Big Ten - East
+1,East Carolina Pirates,9,Michigan Wolverines,95,-25.1,35.4,2023-08-30T16:00:00,False,American Athletic,Big Ten - East,East Carolina Pirates vs Michigan Wolverines,American Athletic vs Big Ten - East
+1,Nebraska Cornhuskers,99,Minnesota Golden Gophers,104,-4.8,29.6,2023-08-29T00:00:00,False,Big Ten - West,Big Ten - West,Nebraska Cornhuskers vs Minnesota Golden Gophers,Big Ten - West vs Big Ten - West
+1,South Carolina Gamecocks,267,North Carolina Tar Heels,21,-1.7,44.4,2023-08-30T23:30:00,True,SEC - East,Atlantic Coast,South Carolina Gamecocks vs North Carolina Tar Heels,SEC - East vs Atlantic Coast
+1,Northwestern Wildcats,100,Rutgers Scarlet Knights,103,-4.5,27.2,2023-08-31T16:00:00,False,Big Ten - West,Big Ten - East,Northwestern Wildcats vs Rutgers Scarlet Knights,Big Ten - West vs Big Ten - East
+1,Fresno State Bulldogs,213,Purdue Boilermakers,94,-2.4,32.7,2023-08-30T16:00:00,False,Mountain West,Big Ten - West,Fresno State Bulldogs vs Purdue Boilermakers,Mountain West vs Big Ten - West
+1,Florida Gators,271,Utah Utes,248,-3.1,30.3,2023-08-29T00:00:00,False,SEC - East,Pac-12,Florida Gators vs Utah Utes,SEC - East vs Pac-12
+1,Toledo Rockets,183,Illinois Fighting Illini,102,-6.5,31.6,2023-08-30T23:30:00,False,Mid-American - West,Big Ten - West,Toledo Rockets vs Illinois Fighting Illini,Mid-American - West vs Big Ten - West
+1,LSU Tigers,269,Florida State Seminoles,29,1.2,38.9,2023-08-31T23:30:00,True,SEC - West,Atlantic Coast,LSU Tigers vs Florida State Seminoles,SEC - West vs Atlantic Coast
+1,California Golden Bears,251,North Texas Mean Green,141,3.1,37.2,2023-08-30T20:00:00,False,Pac-12,American Athletic,California Golden Bears vs North Texas Mean Green,Pac-12 vs American Athletic
+1,UTSA Roadrunners,147,Houston Cougars,6,0.7,40.9,2023-08-30T23:00:00,False,American Athletic,Big 12,UTSA Roadrunners vs Houston Cougars,American Athletic vs Big 12
+1,South Alabama Jaguars,330,Tulane Green Wave,10,-4.5,35.8,2023-08-31T00:00:00,False,Sun Belt - West,American Athletic,South Alabama Jaguars vs Tulane Green Wave,Sun Belt - West vs American Athletic

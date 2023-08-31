@@ -1,5 +1,7 @@
 from azure.cosmos import CosmosClient, PartitionKey
 
+### DON'T USE ####
+
 # Cosmos DB settings
 endpoint_uri = "https://cosmos-db-szos.documents.azure.com:443/"
 primary_key = "VN09p2xxIfzgNNWb5I6ilQofIeMAvuCj27NbHHFAkNYCXKSpMvCLrssgAi9dt5FJrqSWwdZykSnyACDbdnICNA=="

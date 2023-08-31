@@ -13,6 +13,9 @@ client = CosmosClient(endpoint_uri, primary_key)
 database = client.get_database_client(database_name)
 container = database.get_container_client(container_name)
 
+# Set CFB Schedule Year
+cfb_year = 2023
+
 # Loop through weeks 1 to 13
 for week_number in range(1, 14):
     # print(week_number)
@@ -20,7 +23,7 @@ for week_number in range(1, 14):
     conn = http.client.HTTPSConnection("api.sportsdata.io")
     payload = ''
     headers = {}
-    conn.request("GET", f"/v3/cfb/scores/json/GamesByWeek/2023/{week_number}?key=257077aa8bbe453ab5270f8a471be129", payload, headers)
+    conn.request("GET", f"/v3/cfb/scores/json/GamesByWeek/{cfb_year}/{week_number}?key=257077aa8bbe453ab5270f8a471be129", payload, headers)
     res = conn.getresponse()
     data = res.read()
 

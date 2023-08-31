@@ -1,5 +1,7 @@
 import pandas as pd
 from azure.cosmos import CosmosClient
+import datetime
+import os
 
 # Cosmos DB settings
 ENDPOINT_URI = "https://cosmos-db-szos.documents.azure.com:443/"
@@ -43,7 +45,25 @@ selected_columns_df = merged_df[["Week", "AwayTeamName", "AwayTeamID", "HomeTeam
 selected_columns_df = pd.merge(selected_columns_df, df_team_home, left_on="HomeTeamID", right_on="TeamID_home", how="left")
 selected_columns_df = selected_columns_df[["Week", "AwayTeamName", "AwayTeamID", "HomeTeamName", "HomeTeamID", "PointSpread", "OverUnder", "DateTimeUTC", "NeutralVenue", "Conference_away", "Conference_home"]]
 
-# Save the selected results to a CSV file
-csv_filename = "selected_results.csv"
-selected_columns_df.to_csv(csv_filename, index=False)
-print(f"Selected results saved to '{csv_filename}'")
+# Add a new column for team concatenation
+selected_columns_df['TeamsConcatenated'] = selected_columns_df['AwayTeamName'] + ' vs ' + selected_columns_df['HomeTeamName']
+
+# Add a new column for team concatenation
+selected_columns_df['ConferenceConcatenated'] = selected_columns_df['Conference_away'] + ' vs ' + selected_columns_df['Conference_home']
+
+# Generate the current date
+current_datetime = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+
+# Define the folder name
+folder_name = "schedule"
+
+# Create the folder if it doesn't exist
+if not os.path.exists(folder_name):
+    os.makedirs(folder_name)
+
+# Create the new CSV file path with folder and date appended
+csv_filepath = f"{folder_name}/scheduled_results_{current_datetime}.csv"
+
+# Save the selected results to the new CSV file
+selected_columns_df.to_csv(csv_filepath, index=False)
+print(f"Selected results saved to '{csv_filepath}'")

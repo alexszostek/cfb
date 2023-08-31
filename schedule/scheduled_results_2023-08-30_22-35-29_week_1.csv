@@ -1,0 +1,10 @@
+Week,AwayTeamName,AwayTeamID,HomeTeamName,HomeTeamID,PointSpread,OverUnder,DateTimeUTC,NeutralVenue,Conference_away,Conference_home,TeamsConcatenated,ConferenceConcatenated
+1,Central Michigan Chippewas,185,Michigan State Spartans,97,-10.0,33.7,2023-08-29T23:00:00,False,Mid-American - West,Big Ten - East,Central Michigan Chippewas vs Michigan State Spartans,Mid-American - West vs Big Ten - East
+1,East Carolina Pirates,9,Michigan Wolverines,95,-24.8,35.4,2023-08-30T16:00:00,False,American Athletic,Big Ten - East,East Carolina Pirates vs Michigan Wolverines,American Athletic vs Big Ten - East
+1,Nebraska Cornhuskers,99,Minnesota Golden Gophers,104,-5.2,31.3,2023-08-29T00:00:00,False,Big Ten - West,Big Ten - West,Nebraska Cornhuskers vs Minnesota Golden Gophers,Big Ten - West vs Big Ten - West
+1,Northwestern Wildcats,100,Rutgers Scarlet Knights,103,-4.8,27.9,2023-08-31T16:00:00,False,Big Ten - West,Big Ten - East,Northwestern Wildcats vs Rutgers Scarlet Knights,Big Ten - West vs Big Ten - East
+1,Fresno State Bulldogs,213,Purdue Boilermakers,94,-3.1,34.7,2023-08-30T16:00:00,False,Mountain West,Big Ten - West,Fresno State Bulldogs vs Purdue Boilermakers,Mountain West vs Big Ten - West
+1,Sam Houston Bearkats,295,BYU Cougars,336,-15.5,34.7,2023-08-31T02:15:00,False,Conference USA,Big 12,Sam Houston Bearkats vs BYU Cougars,Conference USA vs Big 12
+1,LSU Tigers,269,Florida State Seminoles,29,1.2,38.5,2023-08-31T23:30:00,True,SEC - West,Atlantic Coast,LSU Tigers vs Florida State Seminoles,SEC - West vs Atlantic Coast
+1,UTSA Roadrunners,147,Houston Cougars,6,0.0,42.0,2023-08-30T23:00:00,False,American Athletic,Big 12,UTSA Roadrunners vs Houston Cougars,American Athletic vs Big 12
+1,South Alabama Jaguars,330,Tulane Green Wave,10,-4.5,38.2,2023-08-31T00:00:00,False,Sun Belt - West,American Athletic,South Alabama Jaguars vs Tulane Green Wave,Sun Belt - West vs American Athletic
