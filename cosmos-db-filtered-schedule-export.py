@@ -2,6 +2,7 @@ import pandas as pd
 from azure.cosmos import CosmosClient
 import datetime
 import os
+import json
 
 # Cosmos DB settings
 ENDPOINT_URI = "https://cosmos-db-szos.documents.azure.com:443/"
@@ -43,13 +44,7 @@ selected_columns_df = merged_df[["Week", "AwayTeamName", "AwayTeamID", "HomeTeam
 
 # Merge and select columns for home teams
 selected_columns_df = pd.merge(selected_columns_df, df_team_home, left_on="HomeTeamID", right_on="TeamID_home", how="left")
-selected_columns_df = selected_columns_df[["Week", "AwayTeamName", "AwayTeamID", "HomeTeamName", "HomeTeamID", "PointSpread", "OverUnder", "DateTimeUTC", "NeutralVenue", "Conference_away", "Conference_home"]]
-
-# Add a new column for team concatenation
-selected_columns_df['TeamsConcatenated'] = selected_columns_df['AwayTeamName'] + ' vs ' + selected_columns_df['HomeTeamName']
-
-# Add a new column for team concatenation
-selected_columns_df['ConferenceConcatenated'] = selected_columns_df['Conference_away'] + ' vs ' + selected_columns_df['Conference_home']
+selected_columns_df = selected_columns_df[["Week", "AwayTeamName", "HomeTeamName", "PointSpread", "OverUnder", "DateTimeUTC", "NeutralVenue", "Conference_away", "Conference_home"]]
 
 # Generate the current date
 current_datetime = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
@@ -61,10 +56,16 @@ folder_name = "schedule"
 if not os.path.exists(folder_name):
     os.makedirs(folder_name)
 
-# Define the list of partial team names you want to filter for
-partial_team_names = ["Michigan Wolver", "Michigan State", "Rutgers", "North Carolina Tar", "Illinois Fight" , "North Texas","LSU", "Purdue", "Houston Coug", "Minnesota Gold", "Florida Ga", "Tulane"]
-week_number = 1  # The week number you want to filter for
+# Define the path to your JSON file
+json_file_path = r"C:\temp\Github\cfb\weekly-matchups.json"
 
+# Read the JSON file containing partial team names and week number
+with open(json_file_path, "r") as json_file:
+    team_data = json.load(json_file)
+
+partial_team_names = team_data["partial_team_names"]
+week_number = team_data["week_number"]
+    
 # Filter based on partial team names and week number
 selected_columns_df = selected_columns_df[(selected_columns_df['AwayTeamName'].str.contains('|'.join(partial_team_names)) |
                                            selected_columns_df['HomeTeamName'].str.contains('|'.join(partial_team_names))) &
