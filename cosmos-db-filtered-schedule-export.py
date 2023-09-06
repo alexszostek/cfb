@@ -3,7 +3,6 @@ from azure.cosmos import CosmosClient
 import datetime
 import os
 import json
-import pytz
 
 # Cosmos DB settings
 ENDPOINT_URI = "https://cosmos-db-szos.documents.azure.com:443/"
@@ -43,16 +42,9 @@ df_team_home.columns = [f"{col}_home" for col in df_team_home.columns]
 merged_df = pd.merge(df_schedule, df_team_away, left_on="AwayTeamID", right_on="TeamID_away", how="left")
 selected_columns_df = merged_df[["Week", "AwayTeamName", "AwayTeamID", "HomeTeamName", "HomeTeamID", "PointSpread", "OverUnder", "DateTime", "NeutralVenue", "Conference_away"]]
 
-# # Convert "DateTimeUTC" to EST timezone
-# selected_columns_df['DateTimeEST'] = pd.to_datetime(selected_columns_df['DateTimeUTC']).dt.tz_localize('UTC').dt.tz_convert('US/Eastern')
-
-# # Format "DateTimeEST" column as "YYYY-MM-DD HH:MM PM/AM"
-# selected_columns_df['FormattedDateTimeEST'] = selected_columns_df['DateTimeEST'].dt.strftime('%Y-%m-%d %I:%M %p')
-
 # Merge and select columns for home teams
 selected_columns_df = pd.merge(selected_columns_df, df_team_home, left_on="HomeTeamID", right_on="TeamID_home", how="left")
 selected_columns_df = selected_columns_df[["Week", "AwayTeamName", "HomeTeamName", "PointSpread", "OverUnder", "DateTime", "NeutralVenue", "Conference_away", "Conference_home"]]
-
 
 # Generate the current date
 current_datetime = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")

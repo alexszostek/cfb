@@ -1,0 +1,11 @@
+Week,AwayTeamName,HomeTeamName,PointSpread,OverUnder,DateTime,NeutralVenue,Conference_away,Conference_home
+2,Richmond Spiders,Michigan State Spartans,,,2023-09-09T15:30:00,False,,Big Ten - East
+2,UNLV Rebels,Michigan Wolverines,-53.0,84.6,2023-09-09T15:30:00,False,Mountain West,Big Ten - East
+2,Illinois Fighting Illini,Kansas Jayhawks,-4.4,83.2,2023-09-08T19:30:00,False,Big Ten - West,Big 12
+2,Texas A&M Aggies,Miami Hurricanes,9.8,75.8,2023-09-09T15:30:00,False,SEC - West,Atlantic Coast
+2,Purdue Boilermakers,Virginia Tech Hokies,-4.4,73.6,2023-09-09T12:00:00,False,Big Ten - West,Atlantic Coast
+2,Ole Miss Rebels,Tulane Green Wave,11.0,95.7,2023-09-09T15:30:00,False,SEC - West,American Athletic
+2,Texas Longhorns,Alabama Crimson Tide,-11.0,80.2,2023-09-09T19:00:00,False,Big 12,SEC - West
+2,Nebraska Cornhuskers,Colorado Buffaloes,-5.2,87.6,2023-09-09T12:00:00,False,Big Ten - West,Pac-12
+2,Utah Utes,Baylor Bears,11.0,69.9,2023-09-09T12:00:00,False,Pac-12,Big 12
+2,Oregon Ducks,Texas Tech Red Raiders,14.1,99.4,2023-09-09T19:00:00,False,Pac-12,Big 12

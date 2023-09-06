@@ -3,6 +3,8 @@ from azure.cosmos import CosmosClient
 import datetime
 import os
 
+### This script export the entire CFB Schedule to a csv
+
 # Cosmos DB settings
 ENDPOINT_URI = "https://cosmos-db-szos.documents.azure.com:443/"
 PRIMARY_KEY = "VN09p2xxIfzgNNWb5I6ilQofIeMAvuCj27NbHHFAkNYCXKSpMvCLrssgAi9dt5FJrqSWwdZykSnyACDbdnICNA=="

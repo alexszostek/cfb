@@ -1,13 +1,13 @@
-Week,AwayTeamName,HomeTeamName,PointSpread,OverUnder,FormattedDateTimeEST,NeutralVenue,Conference_away,Conference_home
-1,Central Michigan Chippewas,Michigan State Spartans,-9.6,31.0,2023-08-29 07:00 PM,False,Mid-American - West,Big Ten - East
-1,East Carolina Pirates,Michigan Wolverines,-25.1,35.4,2023-08-30 12:00 PM,False,American Athletic,Big Ten - East
-1,Nebraska Cornhuskers,Minnesota Golden Gophers,-4.8,29.6,2023-08-28 08:00 PM,False,Big Ten - West,Big Ten - West
-1,South Carolina Gamecocks,North Carolina Tar Heels,-1.7,44.0,2023-08-30 07:30 PM,True,SEC - East,Atlantic Coast
-1,Northwestern Wildcats,Rutgers Scarlet Knights,-4.5,27.2,2023-08-31 12:00 PM,False,Big Ten - West,Big Ten - East
-1,Fresno State Bulldogs,Purdue Boilermakers,-2.4,32.7,2023-08-30 12:00 PM,False,Mountain West,Big Ten - West
-1,Florida Gators,Utah Utes,-3.1,30.3,2023-08-28 08:00 PM,False,SEC - East,Pac-12
-1,Toledo Rockets,Illinois Fighting Illini,-6.5,31.6,2023-08-30 07:30 PM,False,Mid-American - West,Big Ten - West
-1,LSU Tigers,Florida State Seminoles,1.2,38.9,2023-08-31 07:30 PM,True,SEC - West,Atlantic Coast
-1,California Golden Bears,North Texas Mean Green,3.1,37.2,2023-08-30 04:00 PM,False,Pac-12,American Athletic
-1,UTSA Roadrunners,Houston Cougars,0.7,40.9,2023-08-30 07:00 PM,False,American Athletic,Big 12
-1,South Alabama Jaguars,Tulane Green Wave,-4.5,35.8,2023-08-30 08:00 PM,False,Sun Belt - West,American Athletic
+Week,AwayTeamName,HomeTeamName,PointSpread,OverUnder,FormattedDateTimeEST,NeutralVenue,Conference_away,Conference_home,BR,My Pick
+1,Central Michigan Chippewas,Michigan State Spartans,-9.6,31,8/29/2023 19:00,FALSE,Mid-American - West,Big Ten - East,"Michigan State 30, Central Michigan 17",CMU
+1,East Carolina Pirates,Michigan Wolverines,-25.1,35.4,8/30/2023 12:00,FALSE,American Athletic,Big Ten - East,"Michigan 41, East Carolina 10",Michi
+1,Nebraska Cornhuskers,Minnesota Golden Gophers,-4.8,29.6,8/28/2023 20:00,FALSE,Big Ten - West,Big Ten - West,"Nebraska 24, Minnesota 20",Nebraska
+1,South Carolina Gamecocks,North Carolina Tar Heels,-1.7,44,8/30/2023 19:30,TRUE,SEC - East,Atlantic Coast,"North Carolina 27, South Carolina 24",NC
+1,Northwestern Wildcats,Rutgers Scarlet Knights,-4.5,27.2,8/31/2023 12:00,FALSE,Big Ten - West,Big Ten - East,"Rutgers 24, Northwestern 14",Rutgers
+1,Fresno State Bulldogs,Purdue Boilermakers,-2.4,32.7,8/30/2023 12:00,FALSE,Mountain West,Big Ten - West,"Purdue 27, Fresno State 20",Purdue
+1,Florida Gators,Utah Utes,-3.1,30.3,8/28/2023 20:00,FALSE,SEC - East,Pac-12,"Utah 24, Florida 20",Utah
+1,Toledo Rockets,Illinois Fighting Illini,-6.5,31.6,8/30/2023 19:30,FALSE,Mid-American - West,Big Ten - West,"Illinois 27, Toledo 21",Illinois
+1,LSU Tigers,Florida State Seminoles,1.2,38.9,8/31/2023 19:30,TRUE,SEC - West,Atlantic Coast,"LSU 27, Florida State 23",LSU
+1,California Golden Bears,North Texas Mean Green,3.1,37.2,8/30/2023 16:00,FALSE,Pac-12,American Athletic,"Cal 27, North Texas 20",Cal
+1,UTSA Roadrunners,Houston Cougars,0.7,40.9,8/30/2023 19:00,FALSE,American Athletic,Big 12,"Houston 28, UTSA 24",Houston
+1,South Alabama Jaguars,Tulane Green Wave,-4.5,35.8,8/30/2023 20:00,FALSE,Sun Belt - West,American Athletic,"Tulane 24, South Alabama 20",Tulane
