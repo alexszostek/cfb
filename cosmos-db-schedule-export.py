@@ -3,7 +3,7 @@ from azure.cosmos import CosmosClient
 import datetime
 import os
 
-### This script export the entire CFB Schedule to a csv
+### This script export the entire CFB Schedule to a s
 
 # Cosmos DB settings
 ENDPOINT_URI = "https://cosmos-db-szos.documents.azure.com:443/"
@@ -50,11 +50,22 @@ selected_columns_df = selected_columns_df[["Week", "AwayTeamName", "AwayTeamID",
 # Add a new column for team concatenation
 selected_columns_df['TeamsConcatenated'] = selected_columns_df['AwayTeamName'] + ' vs ' + selected_columns_df['HomeTeamName']
 
-# Add a new column for team concatenation
-selected_columns_df['ConferenceConcatenated'] = selected_columns_df['Conference_away'] + ' vs ' + selected_columns_df['Conference_home']
+# Create a function to check if a value is null or empty
+def is_null_or_empty(value):
+    return pd.isna(value) or value == ''
+
+# Apply the function element-wise to both columns and concatenate with ' vs ' separator
+selected_columns_df['ConferenceConcatenated'] = selected_columns_df.apply(lambda row: (
+    'Unknown vs ' + row['Conference_home'] if is_null_or_empty(row['Conference_away'])
+    else row['Conference_away'] + ' vs Unknown' if is_null_or_empty(row['Conference_home'])
+    else row['Conference_away'] + ' vs ' + row['Conference_home']
+), axis=1)
+
 
 # Generate the current date
 current_datetime = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+
+selected_columns_df = selected_columns_df[["Week", "AwayTeamName", "HomeTeamName", "PointSpread", "OverUnder", "DateTimeUTC", "NeutralVenue","TeamsConcatenated", "ConferenceConcatenated"]]
 
 # Define the folder name
 folder_name = "schedule"

@@ -1,0 +1,858 @@
+Week,AwayTeamName,HomeTeamName,PointSpread,OverUnder,DateTimeUTC,NeutralVenue,TeamsConcatenated,ConferenceConcatenated
+1,Towson Tigers,Maryland Terrapins,-26.1,37.8,2023-08-30T19:30:00,False,Towson Tigers vs Maryland Terrapins,Unknown vs Big Ten - East
+1,Central Michigan Chippewas,Michigan State Spartans,-9.6,31.0,2023-08-29T23:00:00,False,Central Michigan Chippewas vs Michigan State Spartans,Mid-American - West vs Big Ten - East
+1,East Carolina Pirates,Michigan Wolverines,-25.1,36.8,2023-08-30T16:00:00,False,East Carolina Pirates vs Michigan Wolverines,American Athletic vs Big Ten - East
+1,Nebraska Cornhuskers,Minnesota Golden Gophers,-5.2,29.6,2023-08-29T00:00:00,False,Nebraska Cornhuskers vs Minnesota Golden Gophers,Big Ten - West vs Big Ten - West
+1,South Dakota Coyotes,Missouri Tigers,-18.6,30.6,2023-08-29T00:00:00,False,South Dakota Coyotes vs Missouri Tigers,Unknown vs SEC - East
+1,Mercer Bears,Ole Miss Rebels,-26.1,42.0,2023-08-30T18:00:00,False,Mercer Bears vs Ole Miss Rebels,Unknown vs SEC - West
+1,South Carolina Gamecocks,North Carolina Tar Heels,-1.7,43.7,2023-08-30T23:30:00,True,South Carolina Gamecocks vs North Carolina Tar Heels,SEC - East vs Atlantic Coast
+1,Northwestern Wildcats,Rutgers Scarlet Knights,-3.8,26.5,2023-08-31T16:00:00,False,Northwestern Wildcats vs Rutgers Scarlet Knights,Big Ten - West vs Big Ten - East
+1,Western Illinois Leathernecks,New Mexico State Aggies,-13.8,36.5,2023-08-31T01:00:00,False,Western Illinois Leathernecks vs New Mexico State Aggies,Unknown vs Conference USA
+1,UMass Minutemen,Auburn Tigers,-24.4,35.4,2023-08-30T19:30:00,False,UMass Minutemen vs Auburn Tigers,FBS Independents vs SEC - West
+1,West Virginia Mountaineers,Penn State Nittany Lions,-14.4,33.7,2023-08-30T23:30:00,False,West Virginia Mountaineers vs Penn State Nittany Lions,Big 12 vs Big Ten - East
+1,Maine Black Bears,Florida International Panthers,-11.4,32.0,2023-08-30T22:30:00,False,Maine Black Bears vs Florida International Panthers,Unknown vs Conference USA
+1,Utah State Aggies,Iowa Hawkeyes,-16.2,29.9,2023-08-30T16:00:00,False,Utah State Aggies vs Iowa Hawkeyes,Mountain West vs Big Ten - West
+1,Bowling Green Falcons,Liberty Flames,-5.5,33.7,2023-08-30T16:00:00,False,Bowling Green Falcons vs Liberty Flames,Mid-American - East vs Conference USA
+1,Florida International Panthers,Louisiana Tech Bulldogs,-8.3,39.6,2023-08-24T01:00:00,False,Florida International Panthers vs Louisiana Tech Bulldogs,Conference USA vs Conference USA
+1,Hawaii Rainbow Warriors,Vanderbilt Commodores,-12.0,38.2,2023-08-24T01:10:00,False,Hawaii Rainbow Warriors vs Vanderbilt Commodores,Mountain West vs SEC - East
+1,Alabama A&M Bulldogs,Vanderbilt Commodores,-24.4,37.5,2023-08-30T23:00:00,False,Alabama A&M Bulldogs vs Vanderbilt Commodores,Unknown vs SEC - East
+1,Army Black Knights,UL Monroe Warhawks,4.5,32.3,2023-08-30T23:00:00,False,Army Black Knights vs UL Monroe Warhawks,FBS Independents vs Sun Belt - West
+1,New Mexico Lobos,Texas A&M Aggies,-26.5,33.7,2023-08-30T23:00:00,False,New Mexico Lobos vs Texas A&M Aggies,Mountain West vs SEC - West
+1,Fresno State Bulldogs,Purdue Boilermakers,-3.1,32.3,2023-08-30T16:00:00,False,Fresno State Bulldogs vs Purdue Boilermakers,Mountain West vs Big Ten - West
+1,Sam Houston Bearkats,BYU Cougars,-12.4,32.0,2023-08-31T02:15:00,False,Sam Houston Bearkats vs BYU Cougars,Conference USA vs Big 12
+1,Florida Gators,Utah Utes,-3.8,30.6,2023-08-29T00:00:00,False,Florida Gators vs Utah Utes,SEC - East vs Pac-12
+1,Louisiana Tech Bulldogs,SMU Mustangs,-14.4,45.4,2023-08-30T16:00:00,False,Louisiana Tech Bulldogs vs SMU Mustangs,Conference USA vs American Athletic
+1,Tennessee Volunteers,Virginia Cavaliers,18.9,38.2,2023-08-30T16:00:00,True,Tennessee Volunteers vs Virginia Cavaliers,SEC - East vs Atlantic Coast
+1,Incarnate Word Cardinals,UTEP Miners,-5.2,39.6,2023-08-31T01:00:00,False,Incarnate Word Cardinals vs UTEP Miners,Unknown vs Conference USA
+1,Buffalo Bulls,Wisconsin Badgers,-20.0,35.8,2023-08-30T19:30:00,False,Buffalo Bulls vs Wisconsin Badgers,Mid-American - East vs Big Ten - West
+1,Middle Tennessee Blue Raiders,Alabama Crimson Tide,-26.8,35.8,2023-08-30T23:30:00,False,Middle Tennessee Blue Raiders vs Alabama Crimson Tide,Conference USA vs SEC - West
+1,SE Louisiana Lions,Mississippi State Bulldogs,-22.7,42.3,2023-08-30T20:00:00,False,SE Louisiana Lions vs Mississippi State Bulldogs,Unknown vs SEC - West
+1,Toledo Rockets,Illinois Fighting Illini,-5.5,31.3,2023-08-30T23:30:00,False,Toledo Rockets vs Illinois Fighting Illini,Mid-American - West vs Big Ten - West
+1,NC State Wolfpack,UConn Huskies,6.9,32.7,2023-08-28T23:30:00,False,NC State Wolfpack vs UConn Huskies,Atlantic Coast vs FBS Independents
+1,LSU Tigers,Florida State Seminoles,0.9,38.9,2023-08-31T23:30:00,True,LSU Tigers vs Florida State Seminoles,SEC - West vs Atlantic Coast
+1,UTEP Miners,Jacksonville State Gamecocks,0.7,37.5,2023-08-23T21:30:00,False,UTEP Miners vs Jacksonville State Gamecocks,Conference USA vs Conference USA
+1,UT Martin Skyhawks,Georgia Bulldogs,-35.4,38.9,2023-08-30T22:00:00,False,UT Martin Skyhawks vs Georgia Bulldogs,Unknown vs SEC - East
+1,Western Carolina Catamounts,Arkansas Razorbacks,-25.8,41.6,2023-08-30T17:00:00,False,Western Carolina Catamounts vs Arkansas Razorbacks,Unknown vs SEC - West
+1,Ohio State Buckeyes,Indiana Hoosiers,21.0,40.6,2023-08-30T19:30:00,False,Ohio State Buckeyes vs Indiana Hoosiers,Big Ten - East vs Big Ten - East
+1,Ball State Cardinals,Kentucky Wildcats,-17.5,33.4,2023-08-30T16:00:00,False,Ball State Cardinals vs Kentucky Wildcats,Mid-American - West vs SEC - East
+1,South Florida Bulls,Western Kentucky Hilltoppers,-8.3,48.5,2023-08-30T19:30:00,False,South Florida Bulls vs Western Kentucky Hilltoppers,American Athletic vs Conference USA
+1,Northern Arizona Lumberjacks,Arizona Wildcats,-19.6,41.6,2023-08-31T02:00:00,False,Northern Arizona Lumberjacks vs Arizona Wildcats,Unknown vs Pac-12
+1,Oregon State Beavers,San Jose State Spartans,6.6,38.9,2023-08-31T19:30:00,False,Oregon State Beavers vs San Jose State Spartans,Pac-12 vs Mountain West
+1,Portland State Vikings,Oregon Ducks,-33.7,45.4,2023-08-30T19:00:00,False,Portland State Vikings vs Oregon Ducks,Unknown vs Pac-12
+1,California Golden Bears,North Texas Mean Green,2.1,36.5,2023-08-30T20:00:00,False,California Golden Bears vs North Texas Mean Green,Pac-12 vs American Athletic
+1,Coastal Carolina Chanticleers,UCLA Bruins,-10.7,45.8,2023-08-31T02:30:00,False,Coastal Carolina Chanticleers vs UCLA Bruins,Sun Belt - East vs Pac-12
+1,Colorado Buffaloes,TCU Horned Frogs,-14.4,43.3,2023-08-30T16:00:00,False,Colorado Buffaloes vs TCU Horned Frogs,Pac-12 vs Big 12
+1,Boise State Broncos,Washington Huskies,-9.6,40.2,2023-08-30T19:30:00,False,Boise State Broncos vs Washington Huskies,Mountain West vs Pac-12
+1,San Jose State Spartans,USC Trojans,-21.3,45.8,2023-08-24T00:00:00,False,San Jose State Spartans vs USC Trojans,Mountain West vs Pac-12
+1,Nevada Wolf Pack,USC Trojans,-26.1,43.0,2023-08-30T22:30:00,False,Nevada Wolf Pack vs USC Trojans,Mountain West vs Pac-12
+1,Washington State Cougars,Colorado State Rams,4.5,37.2,2023-08-30T23:00:00,False,Washington State Cougars vs Colorado State Rams,Pac-12 vs Mountain West
+1,Stanford Cardinal,Hawaii Rainbow Warriors,0.9,37.5,2023-08-30T03:00:00,False,Stanford Cardinal vs Hawaii Rainbow Warriors,Pac-12 vs Mountain West
+1,Southern Utah Thunderbirds,Arizona State Sun Devils,-24.1,42.0,2023-08-29T02:00:00,False,Southern Utah Thunderbirds vs Arizona State Sun Devils,Unknown vs Pac-12
+1,UMass Minutemen,New Mexico State Aggies,-4.8,31.0,2023-08-23T23:00:00,False,UMass Minutemen vs New Mexico State Aggies,FBS Independents vs Conference USA
+1,Navy Midshipmen,Notre Dame Fighting Irish,-14.4,34.1,2023-08-23T18:30:00,True,Navy Midshipmen vs Notre Dame Fighting Irish,American Athletic vs FBS Independents
+1,Tennessee State Tigers,Notre Dame Fighting Irish,-32.0,37.5,2023-08-30T19:30:00,False,Tennessee State Tigers vs Notre Dame Fighting Irish,Unknown vs FBS Independents
+1,Northern Illinois Huskies,Boston College Eagles,-6.2,34.7,2023-08-30T16:00:00,False,Northern Illinois Huskies vs Boston College Eagles,Mid-American - West vs Atlantic Coast
+1,Clemson Tigers,Duke Blue Devils,5.7,37.5,2023-09-02T00:00:00,False,Clemson Tigers vs Duke Blue Devils,Atlantic Coast vs Atlantic Coast
+1,Elon Phoenix,Wake Forest Demon Deacons,-22.7,37.2,2023-08-28T23:00:00,False,Elon Phoenix vs Wake Forest Demon Deacons,Unknown vs Atlantic Coast
+1,Colgate Raiders,Syracuse Orange,-27.2,34.4,2023-08-30T20:00:00,False,Colgate Raiders vs Syracuse Orange,Unknown vs Atlantic Coast
+1,Wofford Terriers,Pittsburgh Panthers,-25.1,33.7,2023-08-30T19:30:00,False,Wofford Terriers vs Pittsburgh Panthers,Unknown vs Atlantic Coast
+1,Miami (OH) RedHawks,Miami Hurricanes,-11.4,31.0,2023-08-29T23:00:00,False,Miami (OH) RedHawks vs Miami Hurricanes,Mid-American - East vs Atlantic Coast
+1,Old Dominion Monarchs,Virginia Tech Hokies,-11.4,33.0,2023-08-31T00:00:00,False,Old Dominion Monarchs vs Virginia Tech Hokies,Sun Belt - East vs Atlantic Coast
+1,Louisville Cardinals,Georgia Tech Yellow Jackets,3.3,34.1,2023-08-29T23:30:00,True,Louisville Cardinals vs Georgia Tech Yellow Jackets,Atlantic Coast vs Atlantic Coast
+1,Central Arkansas Bears,Oklahoma State Cowboys,-18.6,40.9,2023-08-30T23:00:00,False,Central Arkansas Bears vs Oklahoma State Cowboys,Unknown vs Big 12
+1,Arkansas State Red Wolves,Oklahoma Sooners,-25.1,39.6,2023-08-30T16:00:00,False,Arkansas State Red Wolves vs Oklahoma Sooners,Sun Belt - West vs Big 12
+1,Kent State Golden Flashes,UCF Knights,-24.1,37.2,2023-08-28T23:00:00,False,Kent State Golden Flashes vs UCF Knights,Mid-American - East vs Big 12
+1,Eastern Kentucky Colonels,Cincinnati Bearcats,-15.5,39.9,2023-08-30T19:30:00,False,Eastern Kentucky Colonels vs Cincinnati Bearcats,Unknown vs Big 12
+1,Missouri State Bears,Kansas Jayhawks,-22.4,42.0,2023-08-30T00:00:00,False,Missouri State Bears vs Kansas Jayhawks,Unknown vs Big 12
+1,Southeast Missouri State Redhawks,Kansas State Wildcats,-19.6,38.5,2023-08-30T23:00:00,False,Southeast Missouri State Redhawks vs Kansas State Wildcats,Unknown vs Big 12
+1,Texas State Bobcats,Baylor Bears,-18.9,40.6,2023-08-30T23:00:00,False,Texas State Bobcats vs Baylor Bears,Sun Belt - West vs Big 12
+1,UTSA Roadrunners,Houston Cougars,0.9,40.9,2023-08-30T23:00:00,False,UTSA Roadrunners vs Houston Cougars,American Athletic vs Big 12
+1,Rice Owls,Texas Longhorns,-24.1,40.6,2023-08-30T19:30:00,False,Rice Owls vs Texas Longhorns,American Athletic vs Big 12
+1,Texas Tech Red Raiders,Wyoming Cowboys,6.6,35.1,2023-08-31T00:50:00,False,Texas Tech Red Raiders vs Wyoming Cowboys,Big 12 vs Mountain West
+1,Northern Iowa Panthers,Iowa State Cyclones,-4.8,27.9,2023-08-30T18:00:00,False,Northern Iowa Panthers vs Iowa State Cyclones,Unknown vs Big 12
+1,Arkansas-Pine Bluff Golden Lions,Tulsa Golden Hurricane,-28.2,36.1,2023-08-29T00:00:00,False,Arkansas-Pine Bluff Golden Lions vs Tulsa Golden Hurricane,Unknown vs American Athletic
+1,Akron Zips,Temple Owls,-6.5,37.8,2023-08-30T18:00:00,False,Akron Zips vs Temple Owls,Mid-American - East vs American Athletic
+1,Monmouth Hawks,Florida Atlantic Owls,-16.9,39.2,2023-08-30T22:00:00,False,Monmouth Hawks vs Florida Atlantic Owls,Unknown vs American Athletic
+1,Bethune-Cookman Wildcats,Memphis Tigers,-33.0,40.9,2023-08-30T23:00:00,False,Bethune-Cookman Wildcats vs Memphis Tigers,Unknown vs American Athletic
+1,South Carolina State Bulldogs,Charlotte 49ers,-17.5,30.6,2023-08-30T22:00:00,False,South Carolina State Bulldogs vs Charlotte 49ers,Unknown vs American Athletic
+1,South Alabama Jaguars,Tulane Green Wave,-4.1,35.1,2023-08-31T00:00:00,False,South Alabama Jaguars vs Tulane Green Wave,Sun Belt - West vs American Athletic
+1,North Carolina A&T Aggies,UAB Blazers,-16.5,32.0,2023-08-29T00:00:00,False,North Carolina A&T Aggies vs UAB Blazers,Unknown vs American Athletic
+1,Gardner-Webb Bulldogs,Appalachian State Mountaineers,-15.1,35.4,2023-08-30T19:30:00,False,Gardner-Webb Bulldogs vs Appalachian State Mountaineers,Unknown vs Sun Belt - East
+1,Rhode Island Rams,Georgia State Panthers,-13.1,42.7,2023-08-28T23:00:00,False,Rhode Island Rams vs Georgia State Panthers,Unknown vs Sun Belt - East
+1,Bucknell Bison,James Madison Dukes,-32.3,36.8,2023-08-30T22:00:00,False,Bucknell Bison vs James Madison Dukes,Unknown vs Sun Belt - East
+1,Alcorn State Braves,Southern Miss Golden Eagles,-16.5,32.3,2023-08-30T23:00:00,False,Alcorn State Braves vs Southern Miss Golden Eagles,Unknown vs Sun Belt - West
+1,Stephen F. Austin Lumberjacks,Troy Trojans,-17.2,33.4,2023-08-30T23:00:00,False,Stephen F. Austin Lumberjacks vs Troy Trojans,Unknown vs Sun Belt - West
+1,Albany Great Danes,Marshall Thundering Herd,-15.5,32.3,2023-08-30T22:00:00,False,Albany Great Danes vs Marshall Thundering Herd,Unknown vs Sun Belt - East
+1,The Citadel Bulldogs,Georgia Southern Eagles,-23.4,37.2,2023-08-30T22:00:00,False,The Citadel Bulldogs vs Georgia Southern Eagles,Unknown vs Sun Belt - East
+1,Northwestern State Demons,Louisiana Ragin Cajuns,-24.1,37.5,2023-08-31T00:30:00,False,Northwestern State Demons vs Louisiana Ragin Cajuns,Unknown vs Sun Belt - West
+1,Long Island University Sharks,Ohio Bobcats,-24.8,40.6,2023-08-30T16:00:00,False,Long Island University Sharks vs Ohio Bobcats,Unknown vs Mid-American - East
+1,Ohio Bobcats,San Diego State Aztecs,-1.7,34.1,2023-08-23T23:00:00,False,Ohio Bobcats vs San Diego State Aztecs,Mid-American - East vs Mountain West
+1,Howard Bison,Eastern Michigan Eagles,-14.1,38.2,2023-08-29T22:30:00,False,Howard Bison vs Eastern Michigan Eagles,Unknown vs Mid-American - West
+1,St. Francis (PA) Red Flash,Western Michigan Broncos,-9.3,39.9,2023-08-28T23:00:00,False,St. Francis (PA) Red Flash vs Western Michigan Broncos,Unknown vs Mid-American - West
+1,Robert Morris Colonials,Air Force Falcons,-31.6,37.8,2023-08-30T17:00:00,False,Robert Morris Colonials vs Air Force Falcons,Unknown vs Mountain West
+1,Idaho State Bengals,San Diego State Aztecs,-23.7,34.1,2023-08-31T02:30:00,False,Idaho State Bengals vs San Diego State Aztecs,Unknown vs Mountain West
+1,Bryant Bulldogs,UNLV Rebels,-11.7,45.4,2023-08-30T20:00:00,False,Bryant Bulldogs vs UNLV Rebels,Unknown vs Mountain West
+1,East Tennessee State Buccaneers,Jacksonville State Gamecocks,-13.1,37.5,2023-08-30T18:00:00,False,East Tennessee State Buccaneers vs Jacksonville State Gamecocks,Unknown vs Conference USA
+2,Charlotte 49ers,Maryland Terrapins,-36.1,75.8,2023-09-12T23:30:00,False,Charlotte 49ers vs Maryland Terrapins,American Athletic vs Big Ten - East
+2,Richmond Spiders,Michigan State Spartans,,,2023-09-12T19:30:00,False,Richmond Spiders vs Michigan State Spartans,Unknown vs Big Ten - East
+2,UNLV Rebels,Michigan Wolverines,-53.0,84.6,2023-09-12T19:30:00,False,UNLV Rebels vs Michigan Wolverines,Mountain West vs Big Ten - East
+2,Eastern Michigan Eagles,Minnesota Golden Gophers,-30.9,70.7,2023-09-12T23:30:00,False,Eastern Michigan Eagles vs Minnesota Golden Gophers,Mid-American - West vs Big Ten - West
+2,Middle Tennessee Blue Raiders,Missouri Tigers,-30.2,69.9,2023-09-12T23:00:00,False,Middle Tennessee Blue Raiders vs Missouri Tigers,Conference USA vs SEC - East
+2,Vanderbilt Commodores,Wake Forest Demon Deacons,-15.5,84.6,2023-09-12T15:00:00,False,Vanderbilt Commodores vs Wake Forest Demon Deacons,SEC - East vs Atlantic Coast
+2,Temple Owls,Rutgers Scarlet Knights,,,2023-09-12T23:30:00,False,Temple Owls vs Rutgers Scarlet Knights,American Athletic vs Big Ten - East
+2,Youngstown State Penguins,Ohio State Buckeyes,,,2023-09-12T16:00:00,False,Youngstown State Penguins vs Ohio State Buckeyes,Unknown vs Big Ten - East
+2,Delaware Blue Hens,Penn State Nittany Lions,,,2023-09-12T16:00:00,False,Delaware Blue Hens vs Penn State Nittany Lions,Unknown vs Big Ten - East
+2,North Texas Mean Green,Florida International Panthers,18.4,76.5,2023-09-12T22:30:00,False,North Texas Mean Green vs Florida International Panthers,American Athletic vs Conference USA
+2,UConn Huskies,Georgia State Panthers,-4.4,80.2,2023-09-12T23:00:00,False,UConn Huskies vs Georgia State Panthers,FBS Independents vs Sun Belt - East
+2,Illinois Fighting Illini,Kansas Jayhawks,-4.4,83.2,2023-09-11T23:30:00,False,Illinois Fighting Illini vs Kansas Jayhawks,Big Ten - West vs Big 12
+2,New Mexico State Aggies,Liberty Flames,-15.5,78.8,2023-09-12T22:00:00,False,New Mexico State Aggies vs Liberty Flames,Conference USA vs Conference USA
+2,Northwestern State Demons,Louisiana Tech Bulldogs,,,2023-09-12T23:00:00,False,Northwestern State Demons vs Louisiana Tech Bulldogs,Unknown vs Conference USA
+2,Texas A&M Aggies,Miami Hurricanes,9.8,75.8,2023-09-12T19:30:00,False,Texas A&M Aggies vs Miami Hurricanes,SEC - West vs Atlantic Coast
+2,Auburn Tigers,California Golden Bears,14.1,81.0,2023-09-13T02:30:00,False,Auburn Tigers vs California Golden Bears,SEC - West vs Pac-12
+2,Air Force Falcons,Sam Houston Bearkats,20.6,55.2,2023-09-13T00:00:00,True,Air Force Falcons vs Sam Houston Bearkats,Mountain West vs Conference USA
+2,Furman Paladins,South Carolina Gamecocks,,,2023-09-12T23:30:00,False,Furman Paladins vs South Carolina Gamecocks,Unknown vs SEC - East
+2,Purdue Boilermakers,Virginia Tech Hokies,-4.4,73.6,2023-09-12T16:00:00,False,Purdue Boilermakers vs Virginia Tech Hokies,Big Ten - West vs Atlantic Coast
+2,Austin Peay Governors,Tennessee Volunteers,,,2023-09-12T21:00:00,False,Austin Peay Governors vs Tennessee Volunteers,Unknown vs SEC - East
+2,Wisconsin Badgers,Washington State Cougars,14.1,86.8,2023-09-12T23:30:00,False,Wisconsin Badgers vs Washington State Cougars,Big Ten - West vs Pac-12
+2,Ole Miss Rebels,Tulane Green Wave,11.0,95.7,2023-09-12T19:30:00,False,Ole Miss Rebels vs Tulane Green Wave,SEC - West vs American Athletic
+2,Jacksonville State Gamecocks,Coastal Carolina Chanticleers,-19.9,85.4,2023-09-12T23:00:00,False,Jacksonville State Gamecocks vs Coastal Carolina Chanticleers,Conference USA vs Sun Belt - East
+2,Texas Longhorns,Alabama Crimson Tide,-11.0,80.2,2023-09-12T23:00:00,False,Texas Longhorns vs Alabama Crimson Tide,Big 12 vs SEC - West
+2,Arizona Wildcats,Mississippi State Bulldogs,-13.2,89.1,2023-09-12T23:30:00,False,Arizona Wildcats vs Mississippi State Bulldogs,Pac-12 vs SEC - West
+2,Delaware State Hornets,Army Black Knights,,,2023-09-12T16:00:00,False,Delaware State Hornets vs Army Black Knights,Unknown vs FBS Independents
+2,Nebraska Cornhuskers,Colorado Buffaloes,-5.2,87.6,2023-09-12T16:00:00,False,Nebraska Cornhuskers vs Colorado Buffaloes,Big Ten - West vs Pac-12
+2,McNeese Cowboys,Florida Gators,,,2023-09-12T23:30:00,False,McNeese Cowboys vs Florida Gators,Unknown vs SEC - East
+2,Ball State Cardinals,Georgia Bulldogs,-61.8,77.3,2023-09-12T16:00:00,False,Ball State Cardinals vs Georgia Bulldogs,Mid-American - West vs SEC - East
+2,Iowa Hawkeyes,Iowa State Cyclones,8.7,53.7,2023-09-12T19:30:00,False,Iowa Hawkeyes vs Iowa State Cyclones,Big Ten - West vs Big 12
+2,UTEP Miners,Northwestern Wildcats,3.3,56.7,2023-09-12T19:30:00,False,UTEP Miners vs Northwestern Wildcats,Conference USA vs Big Ten - West
+2,Kent State Golden Flashes,Arkansas Razorbacks,-55.2,83.9,2023-09-12T20:00:00,False,Kent State Golden Flashes vs Arkansas Razorbacks,Mid-American - East vs SEC - West
+2,Indiana State Sycamores,Indiana Hoosiers,,,2023-09-11T23:00:00,False,Indiana State Sycamores vs Indiana Hoosiers,Unknown vs Big Ten - East
+2,Eastern Kentucky Colonels,Kentucky Wildcats,-45.6,81.7,2023-09-12T19:00:00,False,Eastern Kentucky Colonels vs Kentucky Wildcats,Unknown vs SEC - East
+2,Houston Christian Huskies,Western Kentucky Hilltoppers,-58.1,89.1,2023-09-12T23:00:00,False,Houston Christian Huskies vs Western Kentucky Hilltoppers,Unknown vs Conference USA
+2,Grambling Tigers,LSU Tigers,,,2023-09-12T23:30:00,False,Grambling Tigers vs LSU Tigers,Unknown vs SEC - West
+2,UC Davis Aggies,Oregon State Beavers,,,2023-09-13T01:00:00,False,UC Davis Aggies vs Oregon State Beavers,Unknown vs Pac-12
+2,UCLA Bruins,San Diego State Aztecs,21.3,71.4,2023-09-12T23:30:00,False,UCLA Bruins vs San Diego State Aztecs,Pac-12 vs Mountain West
+2,Utah Utes,Baylor Bears,11.0,69.9,2023-09-12T16:00:00,False,Utah Utes vs Baylor Bears,Pac-12 vs Big 12
+2,Tulsa Golden Hurricane,Washington Huskies,-50.0,94.9,2023-09-12T21:00:00,False,Tulsa Golden Hurricane vs Washington Huskies,American Athletic vs Pac-12
+2,Oregon Ducks,Texas Tech Red Raiders,14.1,99.4,2023-09-12T23:00:00,False,Oregon Ducks vs Texas Tech Red Raiders,Pac-12 vs Big 12
+2,Stanford Cardinal,USC Trojans,-43.4,102.3,2023-09-13T02:30:00,False,Stanford Cardinal vs USC Trojans,Pac-12 vs Pac-12
+2,Oklahoma State Cowboys,Arizona State Sun Devils,7.6,77.3,2023-09-13T02:30:00,False,Oklahoma State Cowboys vs Arizona State Sun Devils,Big 12 vs Pac-12
+2,Notre Dame Fighting Irish,NC State Wolfpack,11.0,75.1,2023-09-12T16:00:00,False,Notre Dame Fighting Irish vs NC State Wolfpack,FBS Independents vs Atlantic Coast
+2,Holy Cross Crusaders,Boston College Eagles,,,2023-09-12T16:00:00,False,Holy Cross Crusaders vs Boston College Eagles,Unknown vs Atlantic Coast
+2,Lafayette Leopards,Duke Blue Devils,,,2023-09-12T22:00:00,False,Lafayette Leopards vs Duke Blue Devils,Unknown vs Atlantic Coast
+2,Appalachian State Mountaineers,North Carolina Tar Heels,-26.5,85.4,2023-09-12T21:15:00,False,Appalachian State Mountaineers vs North Carolina Tar Heels,Sun Belt - East vs Atlantic Coast
+2,Western Michigan Broncos,Syracuse Orange,-34.6,82.4,2023-09-12T19:30:00,False,Western Michigan Broncos vs Syracuse Orange,Mid-American - West vs Atlantic Coast
+2,Cincinnati Bearcats,Pittsburgh Panthers,-11.0,69.2,2023-09-12T22:30:00,False,Cincinnati Bearcats vs Pittsburgh Panthers,Big 12 vs Atlantic Coast
+2,Charleston Southern Buccaneers,Clemson Tigers,,,2023-09-12T18:15:00,False,Charleston Southern Buccaneers vs Clemson Tigers,Unknown vs Atlantic Coast
+2,James Madison Dukes,Virginia Cavaliers,13.0,59.6,2023-09-12T16:00:00,False,James Madison Dukes vs Virginia Cavaliers,Sun Belt - East vs Atlantic Coast
+2,Southern Miss Golden Eagles,Florida State Seminoles,-45.6,77.3,2023-09-13T00:30:00,False,Southern Miss Golden Eagles vs Florida State Seminoles,Sun Belt - West vs Atlantic Coast
+2,South Carolina State Bulldogs,Georgia Tech Yellow Jackets,,,2023-09-12T17:00:00,False,South Carolina State Bulldogs vs Georgia Tech Yellow Jackets,Unknown vs Atlantic Coast
+2,Murray State Racers,Louisville Cardinals,-58.9,79.5,2023-09-10T23:30:00,False,Murray State Racers vs Louisville Cardinals,Unknown vs Atlantic Coast
+2,SMU Mustangs,Oklahoma Sooners,-25.0,100.8,2023-09-12T22:00:00,False,SMU Mustangs vs Oklahoma Sooners,American Athletic vs Big 12
+2,Troy Trojans,Kansas State Wildcats,-24.3,75.1,2023-09-12T16:00:00,False,Troy Trojans vs Kansas State Wildcats,Sun Belt - West vs Big 12
+2,Houston Cougars,Rice Owls,14.7,77.3,2023-09-12T23:00:00,False,Houston Cougars vs Rice Owls,Big 12 vs American Athletic
+2,Southern Utah Thunderbirds,BYU Cougars,,,2023-09-12T19:00:00,False,Southern Utah Thunderbirds vs BYU Cougars,Unknown vs Big 12
+2,Nicholls Colonels,TCU Horned Frogs,,,2023-09-13T00:00:00,False,Nicholls Colonels vs TCU Horned Frogs,Unknown vs Big 12
+2,Duquesne Dukes,West Virginia Mountaineers,,,2023-09-12T22:00:00,False,Duquesne Dukes vs West Virginia Mountaineers,Unknown vs Big 12
+2,UCF Knights,Boise State Broncos,7.6,84.6,2023-09-12T23:00:00,False,UCF Knights vs Boise State Broncos,Big 12 vs Mountain West
+2,Miami (OH) RedHawks,UMass Minutemen,10.3,64.8,2023-09-12T19:30:00,False,Miami (OH) RedHawks vs UMass Minutemen,Mid-American - East vs FBS Independents
+2,Marshall Thundering Herd,East Carolina Pirates,6.5,65.5,2023-09-12T20:00:00,False,Marshall Thundering Herd vs East Carolina Pirates,Sun Belt - East vs American Athletic
+2,Memphis Tigers,Arkansas State Red Wolves,31.6,86.1,2023-09-12T23:00:00,False,Memphis Tigers vs Arkansas State Red Wolves,American Athletic vs Sun Belt - West
+2,Ohio Bobcats,Florida Atlantic Owls,-6.6,90.5,2023-09-12T22:00:00,False,Ohio Bobcats vs Florida Atlantic Owls,Mid-American - East vs American Athletic
+2,Wagner Seahawks,Navy Midshipmen,,,2023-09-12T19:30:00,False,Wagner Seahawks vs Navy Midshipmen,Unknown vs American Athletic
+2,Texas State Bobcats,UTSA Roadrunners,-18.4,98.6,2023-09-12T19:30:00,False,Texas State Bobcats vs UTSA Roadrunners,Sun Belt - West vs American Athletic
+2,UAB Blazers,Georgia Southern Eagles,-11.0,87.6,2023-09-12T22:00:00,False,UAB Blazers vs Georgia Southern Eagles,American Athletic vs Sun Belt - East
+2,Florida A&M Rattlers,South Florida Bulls,,,2023-09-12T23:00:00,False,Florida A&M Rattlers vs South Florida Bulls,Unknown vs American Athletic
+2,Lamar Cardinals,UL Monroe Warhawks,,,2023-09-13T00:00:00,False,Lamar Cardinals vs UL Monroe Warhawks,Unknown vs Sun Belt - West
+2,Louisiana Ragin Cajuns,Old Dominion Monarchs,13.0,75.8,2023-09-12T22:00:00,False,Louisiana Ragin Cajuns vs Old Dominion Monarchs,Sun Belt - West vs Sun Belt - East
+2,SE Louisiana Lions,South Alabama Jaguars,,,2023-09-12T21:00:00,False,SE Louisiana Lions vs South Alabama Jaguars,Unknown vs Sun Belt - West
+2,Eastern Illinois Panthers,Bowling Green Falcons,,,2023-09-12T18:00:00,False,Eastern Illinois Panthers vs Bowling Green Falcons,Unknown vs Mid-American - East
+2,Morgan State Bears,Akron Zips,,,2023-09-12T22:00:00,False,Morgan State Bears vs Akron Zips,Unknown vs Mid-American - East
+2,Fordham Rams,Buffalo Bulls,,,2023-09-12T22:00:00,False,Fordham Rams vs Buffalo Bulls,Unknown vs Mid-American - East
+2,New Hampshire Wildcats,Central Michigan Chippewas,,,2023-09-12T17:30:00,False,New Hampshire Wildcats vs Central Michigan Chippewas,Unknown vs Mid-American - West
+2,Southern Illinois Salukis,Northern Illinois Huskies,,,2023-09-12T19:30:00,False,Southern Illinois Salukis vs Northern Illinois Huskies,Unknown vs Mid-American - West
+2,Texas Southern Tigers,Toledo Rockets,,,2023-09-12T19:30:00,False,Texas Southern Tigers vs Toledo Rockets,Unknown vs Mid-American - West
+2,Tennessee Tech Golden Eagles,New Mexico Lobos,,,2023-09-13T00:00:00,False,Tennessee Tech Golden Eagles vs New Mexico Lobos,Unknown vs Mountain West
+2,Cal Poly Mustangs,San Jose State Spartans,,,2023-09-12T20:00:00,False,Cal Poly Mustangs vs San Jose State Spartans,Unknown vs Mountain West
+2,Idaho Vandals,Nevada Wolf Pack,,,2023-09-12T23:00:00,False,Idaho Vandals vs Nevada Wolf Pack,Unknown vs Mountain West
+2,Portland State Vikings,Wyoming Cowboys,,,2023-09-12T20:00:00,False,Portland State Vikings vs Wyoming Cowboys,Unknown vs Mountain West
+2,Eastern Washington Eagles,Fresno State Bulldogs,,,2023-09-13T01:00:00,False,Eastern Washington Eagles vs Fresno State Bulldogs,Unknown vs Mountain West
+2,Idaho State Bengals,Utah State Aggies,,,2023-09-13T00:00:00,False,Idaho State Bengals vs Utah State Aggies,Unknown vs Mountain West
+2,Albany Great Danes,Hawaii Rainbow Warriors,,,2023-09-13T03:59:00,False,Albany Great Danes vs Hawaii Rainbow Warriors,Unknown vs Mountain West
+3,UTEP Miners,Arizona Wildcats,,,2023-09-15T03:00:00,False,UTEP Miners vs Arizona Wildcats,Conference USA vs Pac-12
+3,Virginia Cavaliers,Maryland Terrapins,,,2023-09-13T23:00:00,False,Virginia Cavaliers vs Maryland Terrapins,Atlantic Coast vs Big Ten - East
+3,Washington Huskies,Michigan State Spartans,,,2023-09-14T21:00:00,False,Washington Huskies vs Michigan State Spartans,Pac-12 vs Big Ten - East
+3,Bowling Green Falcons,Michigan Wolverines,,,2023-09-14T23:30:00,False,Bowling Green Falcons vs Michigan Wolverines,Mid-American - East vs Big Ten - East
+3,Kansas State Wildcats,Missouri Tigers,,,2023-09-14T16:00:00,False,Kansas State Wildcats vs Missouri Tigers,Big 12 vs SEC - East
+3,Georgia Tech Yellow Jackets,Ole Miss Rebels,,,2023-09-14T23:30:00,False,Georgia Tech Yellow Jackets vs Ole Miss Rebels,Atlantic Coast vs SEC - West
+3,Northwestern Wildcats,Duke Blue Devils,,,2023-09-14T19:30:00,False,Northwestern Wildcats vs Duke Blue Devils,Big Ten - West vs Atlantic Coast
+3,Minnesota Golden Gophers,North Carolina Tar Heels,,,2023-09-14T19:30:00,False,Minnesota Golden Gophers vs North Carolina Tar Heels,Big Ten - West vs Atlantic Coast
+3,Northern Illinois Huskies,Nebraska Cornhuskers,,,2023-09-14T23:00:00,False,Northern Illinois Huskies vs Nebraska Cornhuskers,Mid-American - West vs Big Ten - West
+3,Virginia Tech Hokies,Rutgers Scarlet Knights,,,2023-09-14T19:30:00,False,Virginia Tech Hokies vs Rutgers Scarlet Knights,Atlantic Coast vs Big Ten - East
+3,New Mexico State Aggies,New Mexico Lobos,,,2023-09-15T00:00:00,False,New Mexico State Aggies vs New Mexico Lobos,Conference USA vs Mountain West
+3,Western Kentucky Hilltoppers,Ohio State Buckeyes,,,2023-09-14T20:00:00,False,Western Kentucky Hilltoppers vs Ohio State Buckeyes,Conference USA vs Big Ten - East
+3,Samford Bulldogs,Auburn Tigers,,,2023-09-14T23:00:00,False,Samford Bulldogs vs Auburn Tigers,Unknown vs SEC - West
+3,Liberty Flames,Buffalo Bulls,,,2023-09-14T16:00:00,False,Liberty Flames vs Buffalo Bulls,Conference USA vs Mid-American - East
+3,Western Michigan Broncos,Iowa Hawkeyes,,,2023-09-14T19:30:00,False,Western Michigan Broncos vs Iowa Hawkeyes,Mid-American - West vs Big Ten - West
+3,North Texas Mean Green,Louisiana Tech Bulldogs,,,2023-09-14T23:00:00,False,North Texas Mean Green vs Louisiana Tech Bulldogs,American Athletic vs Conference USA
+3,Murray State Racers,Middle Tennessee Blue Raiders,,,2023-09-14T23:00:00,False,Murray State Racers vs Middle Tennessee Blue Raiders,Unknown vs Conference USA
+3,Vanderbilt Commodores,UNLV Rebels,,,2023-09-14T23:00:00,False,Vanderbilt Commodores vs UNLV Rebels,SEC - East vs Mountain West
+3,UL Monroe Warhawks,Texas A&M Aggies,,,2023-09-14T20:00:00,False,UL Monroe Warhawks vs Texas A&M Aggies,Sun Belt - West vs SEC - West
+3,Syracuse Orange,Purdue Boilermakers,,,2023-09-14T23:30:00,False,Syracuse Orange vs Purdue Boilermakers,Atlantic Coast vs Big Ten - West
+3,Army Black Knights,UTSA Roadrunners,,,2023-09-13T23:00:00,False,Army Black Knights vs UTSA Roadrunners,FBS Independents vs American Athletic
+3,Georgia Southern Eagles,Wisconsin Badgers,,,2023-09-14T16:00:00,False,Georgia Southern Eagles vs Wisconsin Badgers,Sun Belt - East vs Big Ten - West
+3,LSU Tigers,Mississippi State Bulldogs,,,2023-09-14T16:00:00,False,LSU Tigers vs Mississippi State Bulldogs,SEC - West vs SEC - West
+3,Penn State Nittany Lions,Illinois Fighting Illini,,,2023-09-14T16:00:00,False,Penn State Nittany Lions vs Illinois Fighting Illini,Big Ten - East vs Big Ten - West
+3,Florida International Panthers,UConn Huskies,,,2023-09-14T19:30:00,False,Florida International Panthers vs UConn Huskies,Conference USA vs FBS Independents
+3,Tennessee Volunteers,Florida Gators,,,2023-09-14T23:00:00,False,Tennessee Volunteers vs Florida Gators,SEC - East vs SEC - East
+3,Alabama Crimson Tide,South Florida Bulls,,,2023-09-14T19:30:00,False,Alabama Crimson Tide vs South Florida Bulls,SEC - West vs American Athletic
+3,South Carolina Gamecocks,Georgia Bulldogs,,,2023-09-14T19:30:00,False,South Carolina Gamecocks vs Georgia Bulldogs,SEC - East vs SEC - East
+3,BYU Cougars,Arkansas Razorbacks,,,2023-09-14T23:30:00,False,BYU Cougars vs Arkansas Razorbacks,Big 12 vs SEC - West
+3,Akron Zips,Kentucky Wildcats,,,2023-09-14T23:30:00,False,Akron Zips vs Kentucky Wildcats,Mid-American - East vs SEC - East
+3,Indiana Hoosiers,Louisville Cardinals,,,2023-09-14T16:00:00,True,Indiana Hoosiers vs Louisville Cardinals,Big Ten - East vs Atlantic Coast
+3,San Diego State Aztecs,Oregon State Beavers,,,2023-09-14T19:30:00,False,San Diego State Aztecs vs Oregon State Beavers,Mountain West vs Pac-12
+3,Sacramento State Hornets,Stanford Cardinal,,,2023-09-15T00:00:00,False,Sacramento State Hornets vs Stanford Cardinal,Unknown vs Pac-12
+3,Hawaii Rainbow Warriors,Oregon Ducks,,,2023-09-15T00:00:00,False,Hawaii Rainbow Warriors vs Oregon Ducks,Mountain West vs Pac-12
+3,Idaho Vandals,California Golden Bears,,,2023-09-14T20:00:00,False,Idaho Vandals vs California Golden Bears,Unknown vs Pac-12
+3,Weber State Wildcats,Utah Utes,,,2023-09-14T18:00:00,False,Weber State Wildcats vs Utah Utes,Unknown vs Pac-12
+3,North Carolina Central Eagles,UCLA Bruins,,,2023-09-14T21:00:00,False,North Carolina Central Eagles vs UCLA Bruins,Unknown vs Pac-12
+3,Northern Colorado Bears,Washington State Cougars,,,2023-09-14T21:00:00,False,Northern Colorado Bears vs Washington State Cougars,Unknown vs Pac-12
+3,Colorado State Rams,Colorado Buffaloes,,,2023-09-15T02:00:00,False,Colorado State Rams vs Colorado Buffaloes,Mountain West vs Pac-12
+3,Fresno State Bulldogs,Arizona State Sun Devils,,,2023-09-15T02:30:00,False,Fresno State Bulldogs vs Arizona State Sun Devils,Mountain West vs Pac-12
+3,Central Michigan Chippewas,Notre Dame Fighting Irish,,,2023-09-14T18:30:00,False,Central Michigan Chippewas vs Notre Dame Fighting Irish,Mid-American - West vs FBS Independents
+3,Florida State Seminoles,Boston College Eagles,,,2023-09-14T16:00:00,False,Florida State Seminoles vs Boston College Eagles,Atlantic Coast vs Atlantic Coast
+3,VMI Keydets,NC State Wolfpack,,,2023-09-14T18:00:00,False,VMI Keydets vs NC State Wolfpack,Unknown vs Atlantic Coast
+3,Florida Atlantic Owls,Clemson Tigers,,,2023-09-15T00:00:00,False,Florida Atlantic Owls vs Clemson Tigers,American Athletic vs Atlantic Coast
+3,Bethune-Cookman Wildcats,Miami Hurricanes,,,2023-09-12T23:30:00,False,Bethune-Cookman Wildcats vs Miami Hurricanes,Unknown vs Atlantic Coast
+3,Pittsburgh Panthers,West Virginia Mountaineers,,,2023-09-14T23:30:00,False,Pittsburgh Panthers vs West Virginia Mountaineers,Atlantic Coast vs Big 12
+3,Wake Forest Demon Deacons,Old Dominion Monarchs,,,2023-09-14T16:00:00,False,Wake Forest Demon Deacons vs Old Dominion Monarchs,Atlantic Coast vs Sun Belt - East
+3,Iowa State Cyclones,Ohio Bobcats,,,2023-09-14T16:00:00,False,Iowa State Cyclones vs Ohio Bobcats,Big 12 vs Mid-American - East
+3,South Alabama Jaguars,Oklahoma State Cowboys,,,2023-09-14T23:00:00,False,South Alabama Jaguars vs Oklahoma State Cowboys,Sun Belt - West vs Big 12
+3,Oklahoma Sooners,Tulsa Golden Hurricane,,,2023-09-14T19:30:00,False,Oklahoma Sooners vs Tulsa Golden Hurricane,Big 12 vs American Athletic
+3,Villanova Wildcats,UCF Knights,,,2023-09-14T22:30:00,False,Villanova Wildcats vs UCF Knights,Unknown vs Big 12
+3,Miami (OH) RedHawks,Cincinnati Bearcats,,,2023-09-14T23:00:00,False,Miami (OH) RedHawks vs Cincinnati Bearcats,Mid-American - East vs Big 12
+3,Long Island University Sharks,Baylor Bears,,,2023-09-14T16:00:00,False,Long Island University Sharks vs Baylor Bears,Unknown vs Big 12
+3,Kansas Jayhawks,Nevada Wolf Pack,,,2023-09-15T02:30:00,False,Kansas Jayhawks vs Nevada Wolf Pack,Big 12 vs Mountain West
+3,TCU Horned Frogs,Houston Cougars,,,2023-09-15T00:00:00,False,TCU Horned Frogs vs Houston Cougars,Big 12 vs Big 12
+3,Wyoming Cowboys,Texas Longhorns,,,2023-09-15T00:00:00,False,Wyoming Cowboys vs Texas Longhorns,Mountain West vs Big 12
+3,Tarleton Texans,Texas Tech Red Raiders,,,2023-09-14T23:00:00,False,Tarleton Texans vs Texas Tech Red Raiders,Unknown vs Big 12
+3,UMass Minutemen,Eastern Michigan Eagles,,,2023-09-14T18:00:00,False,UMass Minutemen vs Eastern Michigan Eagles,FBS Independents vs Mid-American - West
+3,East Carolina Pirates,Appalachian State Mountaineers,,,2023-09-14T19:30:00,False,East Carolina Pirates vs Appalachian State Mountaineers,American Athletic vs Sun Belt - East
+3,Norfolk State Spartans,Temple Owls,,,2023-09-14T18:00:00,False,Norfolk State Spartans vs Temple Owls,Unknown vs American Athletic
+3,Navy Midshipmen,Memphis Tigers,,,2023-09-12T23:30:00,False,Navy Midshipmen vs Memphis Tigers,American Athletic vs American Athletic
+3,Georgia State Panthers,Charlotte 49ers,,,2023-09-14T22:00:00,False,Georgia State Panthers vs Charlotte 49ers,Sun Belt - East vs American Athletic
+3,Prairie View A&M Panthers,SMU Mustangs,,,2023-09-14T23:00:00,False,Prairie View A&M Panthers vs SMU Mustangs,Unknown vs American Athletic
+3,Tulane Green Wave,Southern Miss Golden Eagles,,,2023-09-14T20:00:00,False,Tulane Green Wave vs Southern Miss Golden Eagles,American Athletic vs Sun Belt - West
+3,Louisiana Ragin Cajuns,UAB Blazers,,,2023-09-14T23:00:00,False,Louisiana Ragin Cajuns vs UAB Blazers,Sun Belt - West vs American Athletic
+3,Texas Southern Tigers,Rice Owls,,,2023-09-14T23:00:00,False,Texas Southern Tigers vs Rice Owls,Unknown vs American Athletic
+3,Stony Brook Seawolves,Arkansas State Red Wolves,,,2023-09-14T23:00:00,False,Stony Brook Seawolves vs Arkansas State Red Wolves,Unknown vs Sun Belt - West
+3,James Madison Dukes,Troy Trojans,,,2023-09-14T23:00:00,False,James Madison Dukes vs Troy Trojans,Sun Belt - East vs Sun Belt - West
+3,Duquesne Dukes,Coastal Carolina Chanticleers,,,2023-09-14T23:00:00,False,Duquesne Dukes vs Coastal Carolina Chanticleers,Unknown vs Sun Belt - East
+3,Jackson State Tigers,Texas State Bobcats,,,2023-09-15T00:30:00,False,Jackson State Tigers vs Texas State Bobcats,Unknown vs Sun Belt - West
+3,Indiana State Sycamores,Ball State Cardinals,,,2023-09-14T18:00:00,False,Indiana State Sycamores vs Ball State Cardinals,Unknown vs Mid-American - West
+3,Central Connecticut Blue Devils,Kent State Golden Flashes,,,2023-09-14T16:00:00,False,Central Connecticut Blue Devils vs Kent State Golden Flashes,Unknown vs Mid-American - East
+3,San Jose State Spartans,Toledo Rockets,,,2023-09-14T23:00:00,False,San Jose State Spartans vs Toledo Rockets,Mountain West vs Mid-American - West
+3,Utah State Aggies,Air Force Falcons,,,2023-09-14T00:00:00,False,Utah State Aggies vs Air Force Falcons,Mountain West vs Mountain West
+3,North Dakota Fighting Hawks,Boise State Broncos,,,2023-09-14T16:00:00,False,North Dakota Fighting Hawks vs Boise State Broncos,Unknown vs Mountain West
+4,Maryland Terrapins,Michigan State Spartans,,,2023-09-24T19:30:00,False,Maryland Terrapins vs Michigan State Spartans,Big Ten - East vs Big Ten - East
+4,Rutgers Scarlet Knights,Michigan Wolverines,,,2023-09-24T16:00:00,False,Rutgers Scarlet Knights vs Michigan Wolverines,Big Ten - East vs Big Ten - East
+4,Louisiana Tech Bulldogs,Nebraska Cornhuskers,,,,False,Louisiana Tech Bulldogs vs Nebraska Cornhuskers,Conference USA vs Big Ten - West
+4,Army Black Knights,Syracuse Orange,,,,False,Army Black Knights vs Syracuse Orange,FBS Independents vs Atlantic Coast
+4,Iowa Hawkeyes,Penn State Nittany Lions,,,2023-09-24T23:30:00,False,Iowa Hawkeyes vs Penn State Nittany Lions,Big Ten - West vs Big Ten - East
+4,Missouri Tigers,Memphis Tigers,,,,True,Missouri Tigers vs Memphis Tigers,SEC - East vs American Athletic
+4,Kentucky Wildcats,Vanderbilt Commodores,,,,False,Kentucky Wildcats vs Vanderbilt Commodores,SEC - East vs SEC - East
+4,Colorado State Rams,Middle Tennessee Blue Raiders,,,2023-09-24T23:00:00,False,Colorado State Rams vs Middle Tennessee Blue Raiders,Mountain West vs Conference USA
+4,Auburn Tigers,Texas A&M Aggies,,,,False,Auburn Tigers vs Texas A&M Aggies,SEC - West vs SEC - West
+4,Sam Houston Bearkats,Houston Cougars,,,2023-09-24T23:00:00,False,Sam Houston Bearkats vs Houston Cougars,Conference USA vs Big 12
+4,Wisconsin Badgers,Purdue Boilermakers,,,2023-09-23T23:00:00,False,Wisconsin Badgers vs Purdue Boilermakers,Big Ten - West vs Big Ten - West
+4,Mississippi State Bulldogs,South Carolina Gamecocks,,,,False,Mississippi State Bulldogs vs South Carolina Gamecocks,SEC - West vs SEC - East
+4,UTSA Roadrunners,Tennessee Volunteers,,,,False,UTSA Roadrunners vs Tennessee Volunteers,American Athletic vs SEC - East
+4,UNLV Rebels,UTEP Miners,,,2023-09-25T01:00:00,False,UNLV Rebels vs UTEP Miners,Mountain West vs Conference USA
+4,Western Kentucky Hilltoppers,Troy Trojans,,,2023-09-24T23:00:00,False,Western Kentucky Hilltoppers vs Troy Trojans,Conference USA vs Sun Belt - West
+4,Ole Miss Rebels,Alabama Crimson Tide,,,,False,Ole Miss Rebels vs Alabama Crimson Tide,SEC - West vs SEC - West
+4,Florida Atlantic Owls,Illinois Fighting Illini,,,,False,Florida Atlantic Owls vs Illinois Fighting Illini,American Athletic vs Big Ten - West
+4,Duke Blue Devils,UConn Huskies,,,2023-09-24T19:30:00,False,Duke Blue Devils vs UConn Huskies,Atlantic Coast vs FBS Independents
+4,Eastern Michigan Eagles,Jacksonville State Gamecocks,,,2023-09-24T21:00:00,False,Eastern Michigan Eagles vs Jacksonville State Gamecocks,Mid-American - West vs Conference USA
+4,Charlotte 49ers,Florida Gators,,,2023-09-24T23:00:00,False,Charlotte 49ers vs Florida Gators,American Athletic vs SEC - East
+4,UAB Blazers,Georgia Bulldogs,,,,False,UAB Blazers vs Georgia Bulldogs,American Athletic vs SEC - East
+4,New Mexico State Aggies,Hawaii Rainbow Warriors,,,2023-09-25T03:59:00,False,New Mexico State Aggies vs Hawaii Rainbow Warriors,Conference USA vs Mountain West
+4,Minnesota Golden Gophers,Northwestern Wildcats,,,,False,Minnesota Golden Gophers vs Northwestern Wildcats,Big Ten - West vs Big Ten - West
+4,Akron Zips,Indiana Hoosiers,,,,False,Akron Zips vs Indiana Hoosiers,Mid-American - East vs Big Ten - East
+4,Arkansas Razorbacks,LSU Tigers,,,,False,Arkansas Razorbacks vs LSU Tigers,SEC - West vs SEC - West
+4,Liberty Flames,Florida International Panthers,,,2023-09-24T22:30:00,False,Liberty Flames vs Florida International Panthers,Conference USA vs Conference USA
+4,Ohio State Buckeyes,Notre Dame Fighting Irish,,,2023-09-24T23:30:00,False,Ohio State Buckeyes vs Notre Dame Fighting Irish,Big Ten - East vs FBS Independents
+4,Arizona Wildcats,Stanford Cardinal,,,,False,Arizona Wildcats vs Stanford Cardinal,Pac-12 vs Pac-12
+4,Colorado Buffaloes,Oregon Ducks,,,,False,Colorado Buffaloes vs Oregon Ducks,Pac-12 vs Pac-12
+4,UCLA Bruins,Utah Utes,,,,False,UCLA Bruins vs Utah Utes,Pac-12 vs Pac-12
+4,California Golden Bears,Washington Huskies,,,,False,California Golden Bears vs Washington Huskies,Pac-12 vs Pac-12
+4,Oregon State Beavers,Washington State Cougars,,,,False,Oregon State Beavers vs Washington State Cougars,Pac-12 vs Pac-12
+4,USC Trojans,Arizona State Sun Devils,,,,False,USC Trojans vs Arizona State Sun Devils,Pac-12 vs Pac-12
+4,Georgia Tech Yellow Jackets,Wake Forest Demon Deacons,,,,False,Georgia Tech Yellow Jackets vs Wake Forest Demon Deacons,Atlantic Coast vs Atlantic Coast
+4,Miami Hurricanes,Temple Owls,,,,False,Miami Hurricanes vs Temple Owls,Atlantic Coast vs American Athletic
+4,North Carolina Tar Heels,Pittsburgh Panthers,,,,False,North Carolina Tar Heels vs Pittsburgh Panthers,Atlantic Coast vs Atlantic Coast
+4,Florida State Seminoles,Clemson Tigers,,,,False,Florida State Seminoles vs Clemson Tigers,Atlantic Coast vs Atlantic Coast
+4,NC State Wolfpack,Virginia Cavaliers,,,2023-09-23T23:30:00,False,NC State Wolfpack vs Virginia Cavaliers,Atlantic Coast vs Atlantic Coast
+4,Virginia Tech Hokies,Marshall Thundering Herd,,,,False,Virginia Tech Hokies vs Marshall Thundering Herd,Atlantic Coast vs Sun Belt - East
+4,Boston College Eagles,Louisville Cardinals,,,,False,Boston College Eagles vs Louisville Cardinals,Atlantic Coast vs Atlantic Coast
+4,Oklahoma Sooners,Cincinnati Bearcats,,,,False,Oklahoma Sooners vs Cincinnati Bearcats,Big 12 vs Big 12
+4,BYU Cougars,Kansas Jayhawks,,,,False,BYU Cougars vs Kansas Jayhawks,Big 12 vs Big 12
+4,UCF Knights,Kansas State Wildcats,,,,False,UCF Knights vs Kansas State Wildcats,Big 12 vs Big 12
+4,Texas Longhorns,Baylor Bears,,,,False,Texas Longhorns vs Baylor Bears,Big 12 vs Big 12
+4,SMU Mustangs,TCU Horned Frogs,,,,False,SMU Mustangs vs TCU Horned Frogs,American Athletic vs Big 12
+4,Texas Tech Red Raiders,West Virginia Mountaineers,,,,False,Texas Tech Red Raiders vs West Virginia Mountaineers,Big 12 vs Big 12
+4,Oklahoma State Cowboys,Iowa State Cyclones,,,,False,Oklahoma State Cowboys vs Iowa State Cyclones,Big 12 vs Big 12
+4,New Mexico Lobos,UMass Minutemen,,,2023-09-24T19:30:00,False,New Mexico Lobos vs UMass Minutemen,Mountain West vs FBS Independents
+4,Gardner-Webb Bulldogs,East Carolina Pirates,,,2023-09-24T22:00:00,False,Gardner-Webb Bulldogs vs East Carolina Pirates,Unknown vs American Athletic
+4,Tulsa Golden Hurricane,Northern Illinois Huskies,,,,False,Tulsa Golden Hurricane vs Northern Illinois Huskies,American Athletic vs Mid-American - West
+4,Nicholls Colonels,Tulane Green Wave,,,,False,Nicholls Colonels vs Tulane Green Wave,Unknown vs American Athletic
+4,Rice Owls,South Florida Bulls,,,,False,Rice Owls vs South Florida Bulls,American Athletic vs American Athletic
+4,Southern Miss Golden Eagles,Arkansas State Red Wolves,,,2023-09-24T23:00:00,False,Southern Miss Golden Eagles vs Arkansas State Red Wolves,Sun Belt - West vs Sun Belt - West
+4,Georgia Southern Eagles,Ball State Cardinals,,,,False,Georgia Southern Eagles vs Ball State Cardinals,Sun Belt - East vs Mid-American - West
+4,Appalachian State Mountaineers,Wyoming Cowboys,,,2023-09-24T23:00:00,False,Appalachian State Mountaineers vs Wyoming Cowboys,Sun Belt - East vs Mountain West
+4,Texas A&M Commerce Lions,Old Dominion Monarchs,,,2023-09-24T19:30:00,False,Texas A&M Commerce Lions vs Old Dominion Monarchs,Unknown vs Sun Belt - East
+4,Buffalo Bulls,Louisiana Ragin Cajuns,,,,False,Buffalo Bulls vs Louisiana Ragin Cajuns,Mid-American - East vs Sun Belt - West
+4,Georgia State Panthers,Coastal Carolina Chanticleers,,,2023-09-22T23:30:00,False,Georgia State Panthers vs Coastal Carolina Chanticleers,Sun Belt - East vs Sun Belt - East
+4,Nevada Wolf Pack,Texas State Bobcats,,,2023-09-24T23:00:00,False,Nevada Wolf Pack vs Texas State Bobcats,Mountain West vs Sun Belt - West
+4,James Madison Dukes,Utah State Aggies,,,2023-09-25T00:00:00,False,James Madison Dukes vs Utah State Aggies,Sun Belt - East vs Mountain West
+4,Central Michigan Chippewas,South Alabama Jaguars,,,2023-09-24T21:00:00,False,Central Michigan Chippewas vs South Alabama Jaguars,Mid-American - West vs Sun Belt - West
+4,Ohio Bobcats,Bowling Green Falcons,,,2023-09-24T19:30:00,False,Ohio Bobcats vs Bowling Green Falcons,Mid-American - East vs Mid-American - East
+4,Delaware State Hornets,Miami (OH) RedHawks,,,2023-09-24T19:30:00,False,Delaware State Hornets vs Miami (OH) RedHawks,Unknown vs Mid-American - East
+4,Western Michigan Broncos,Toledo Rockets,,,,False,Western Michigan Broncos vs Toledo Rockets,Mid-American - West vs Mid-American - West
+4,Kent State Golden Flashes,Fresno State Bulldogs,,,2023-09-25T02:30:00,False,Kent State Golden Flashes vs Fresno State Bulldogs,Mid-American - East vs Mountain West
+4,Boise State Broncos,San Diego State Aztecs,,,2023-09-24T02:30:00,False,Boise State Broncos vs San Diego State Aztecs,Mountain West vs Mountain West
+4,Air Force Falcons,San Jose State Spartans,,,2023-09-24T02:30:00,False,Air Force Falcons vs San Jose State Spartans,Mountain West vs Mountain West
+5,Indiana Hoosiers,Maryland Terrapins,,,,False,Indiana Hoosiers vs Maryland Terrapins,Big Ten - East vs Big Ten - East
+5,Louisiana Ragin Cajuns,Minnesota Golden Gophers,,,2023-09-27T16:00:00,False,Louisiana Ragin Cajuns vs Minnesota Golden Gophers,Sun Belt - West vs Big Ten - West
+5,LSU Tigers,Ole Miss Rebels,,,,False,LSU Tigers vs Ole Miss Rebels,SEC - West vs SEC - West
+5,Michigan Wolverines,Nebraska Cornhuskers,,,,False,Michigan Wolverines vs Nebraska Cornhuskers,Big Ten - East vs Big Ten - West
+5,Wagner Seahawks,Rutgers Scarlet Knights,,,,False,Wagner Seahawks vs Rutgers Scarlet Knights,Unknown vs Big Ten - East
+5,Georgia Bulldogs,Auburn Tigers,,,,False,Georgia Bulldogs vs Auburn Tigers,SEC - East vs SEC - West
+5,Michigan State Spartans,Iowa Hawkeyes,,,,False,Michigan State Spartans vs Iowa Hawkeyes,Big Ten - East vs Big Ten - West
+5,Missouri Tigers,Vanderbilt Commodores,,,,False,Missouri Tigers vs Vanderbilt Commodores,SEC - East vs SEC - East
+5,Illinois Fighting Illini,Purdue Boilermakers,,,,False,Illinois Fighting Illini vs Purdue Boilermakers,Big Ten - West vs Big Ten - West
+5,South Carolina Gamecocks,Tennessee Volunteers,,,,False,South Carolina Gamecocks vs Tennessee Volunteers,SEC - East vs SEC - East
+5,Louisiana Tech Bulldogs,UTEP Miners,,,2023-09-27T01:00:00,False,Louisiana Tech Bulldogs vs UTEP Miners,Conference USA vs Conference USA
+5,Alabama Crimson Tide,Mississippi State Bulldogs,,,,False,Alabama Crimson Tide vs Mississippi State Bulldogs,SEC - West vs SEC - West
+5,Utah State Aggies,UConn Huskies,,,2023-09-27T16:00:00,False,Utah State Aggies vs UConn Huskies,Mountain West vs FBS Independents
+5,Penn State Nittany Lions,Northwestern Wildcats,,,,False,Penn State Nittany Lions vs Northwestern Wildcats,Big Ten - East vs Big Ten - West
+5,Texas A&M Aggies,Arkansas Razorbacks,,,,True,Texas A&M Aggies vs Arkansas Razorbacks,SEC - West vs SEC - West
+5,Florida Gators,Kentucky Wildcats,,,,False,Florida Gators vs Kentucky Wildcats,SEC - East vs SEC - East
+5,Middle Tennessee Blue Raiders,Western Kentucky Hilltoppers,,,2023-09-25T23:30:00,False,Middle Tennessee Blue Raiders vs Western Kentucky Hilltoppers,Conference USA vs Conference USA
+5,Washington Huskies,Arizona Wildcats,,,,False,Washington Huskies vs Arizona Wildcats,Pac-12 vs Pac-12
+5,Utah Utes,Oregon State Beavers,,,2023-09-27T01:00:00,False,Utah Utes vs Oregon State Beavers,Pac-12 vs Pac-12
+5,Oregon Ducks,Stanford Cardinal,,,,False,Oregon Ducks vs Stanford Cardinal,Pac-12 vs Pac-12
+5,Arizona State Sun Devils,California Golden Bears,,,,False,Arizona State Sun Devils vs California Golden Bears,Pac-12 vs Pac-12
+5,USC Trojans,Colorado Buffaloes,,,,False,USC Trojans vs Colorado Buffaloes,Pac-12 vs Pac-12
+5,Notre Dame Fighting Irish,Duke Blue Devils,,,,False,Notre Dame Fighting Irish vs Duke Blue Devils,FBS Independents vs Atlantic Coast
+5,Virginia Cavaliers,Boston College Eagles,,,,False,Virginia Cavaliers vs Boston College Eagles,Atlantic Coast vs Atlantic Coast
+5,Louisville Cardinals,NC State Wolfpack,,,2023-09-26T23:00:00,False,Louisville Cardinals vs NC State Wolfpack,Atlantic Coast vs Atlantic Coast
+5,Clemson Tigers,Syracuse Orange,,,,False,Clemson Tigers vs Syracuse Orange,Atlantic Coast vs Atlantic Coast
+5,Pittsburgh Panthers,Virginia Tech Hokies,,,,False,Pittsburgh Panthers vs Virginia Tech Hokies,Atlantic Coast vs Atlantic Coast
+5,Bowling Green Falcons,Georgia Tech Yellow Jackets,,,,False,Bowling Green Falcons vs Georgia Tech Yellow Jackets,Mid-American - East vs Atlantic Coast
+5,Iowa State Cyclones,Oklahoma Sooners,,,,False,Iowa State Cyclones vs Oklahoma Sooners,Big 12 vs Big 12
+5,Baylor Bears,UCF Knights,,,,False,Baylor Bears vs UCF Knights,Big 12 vs Big 12
+5,Kansas Jayhawks,Texas Longhorns,,,,False,Kansas Jayhawks vs Texas Longhorns,Big 12 vs Big 12
+5,Cincinnati Bearcats,BYU Cougars,,,2023-09-27T02:15:00,False,Cincinnati Bearcats vs BYU Cougars,Big 12 vs Big 12
+5,West Virginia Mountaineers,TCU Horned Frogs,,,,False,West Virginia Mountaineers vs TCU Horned Frogs,Big 12 vs Big 12
+5,Houston Cougars,Texas Tech Red Raiders,,,,False,Houston Cougars vs Texas Tech Red Raiders,Big 12 vs Big 12
+5,Arkansas State Red Wolves,UMass Minutemen,,,2023-09-27T19:30:00,False,Arkansas State Red Wolves vs UMass Minutemen,Sun Belt - West vs FBS Independents
+5,Temple Owls,Tulsa Golden Hurricane,,,2023-09-25T23:30:00,False,Temple Owls vs Tulsa Golden Hurricane,American Athletic vs American Athletic
+5,Boise State Broncos,Memphis Tigers,,,,False,Boise State Broncos vs Memphis Tigers,Mountain West vs American Athletic
+5,East Carolina Pirates,Rice Owls,,,,False,East Carolina Pirates vs Rice Owls,American Athletic vs American Athletic
+5,South Florida Bulls,Navy Midshipmen,,,2023-09-27T19:30:00,False,South Florida Bulls vs Navy Midshipmen,American Athletic vs American Athletic
+5,Abilene Christian Wildcats,North Texas Mean Green,,,,False,Abilene Christian Wildcats vs North Texas Mean Green,Unknown vs American Athletic
+5,Charlotte 49ers,SMU Mustangs,,,,False,Charlotte 49ers vs SMU Mustangs,American Athletic vs American Athletic
+5,UAB Blazers,Tulane Green Wave,,,,False,UAB Blazers vs Tulane Green Wave,American Athletic vs American Athletic
+5,Troy Trojans,Georgia State Panthers,,,,False,Troy Trojans vs Georgia State Panthers,Sun Belt - West vs Sun Belt - East
+5,Appalachian State Mountaineers,UL Monroe Warhawks,,,,False,Appalachian State Mountaineers vs UL Monroe Warhawks,Sun Belt - East vs Sun Belt - West
+5,South Alabama Jaguars,James Madison Dukes,,,,False,South Alabama Jaguars vs James Madison Dukes,Sun Belt - West vs Sun Belt - East
+5,Texas State Bobcats,Southern Miss Golden Eagles,,,,False,Texas State Bobcats vs Southern Miss Golden Eagles,Sun Belt - West vs Sun Belt - West
+5,Old Dominion Monarchs,Marshall Thundering Herd,,,,False,Old Dominion Monarchs vs Marshall Thundering Herd,Sun Belt - East vs Sun Belt - East
+5,Coastal Carolina Chanticleers,Georgia Southern Eagles,,,2023-09-27T22:00:00,False,Coastal Carolina Chanticleers vs Georgia Southern Eagles,Sun Belt - East vs Sun Belt - East
+5,Buffalo Bulls,Akron Zips,,,,False,Buffalo Bulls vs Akron Zips,Mid-American - East vs Mid-American - East
+5,Eastern Michigan Eagles,Central Michigan Chippewas,,,,False,Eastern Michigan Eagles vs Central Michigan Chippewas,Mid-American - West vs Mid-American - West
+5,Miami (OH) RedHawks,Kent State Golden Flashes,,,,False,Miami (OH) RedHawks vs Kent State Golden Flashes,Mid-American - East vs Mid-American - East
+5,Northern Illinois Huskies,Toledo Rockets,,,2023-09-27T19:30:00,False,Northern Illinois Huskies vs Toledo Rockets,Mid-American - West vs Mid-American - West
+5,Ball State Cardinals,Western Michigan Broncos,,,,False,Ball State Cardinals vs Western Michigan Broncos,Mid-American - West vs Mid-American - West
+5,San Diego State Aztecs,Air Force Falcons,,,2023-09-28T00:00:00,False,San Diego State Aztecs vs Air Force Falcons,Mountain West vs Mountain West
+5,Hawaii Rainbow Warriors,UNLV Rebels,,,2023-09-27T20:00:00,False,Hawaii Rainbow Warriors vs UNLV Rebels,Mountain West vs Mountain West
+5,New Mexico Lobos,Wyoming Cowboys,,,2023-09-27T20:00:00,False,New Mexico Lobos vs Wyoming Cowboys,Mountain West vs Mountain West
+5,Nevada Wolf Pack,Fresno State Bulldogs,,,,False,Nevada Wolf Pack vs Fresno State Bulldogs,Mountain West vs Mountain West
+5,Utah Tech Trailblazers,Colorado State Rams,,,2023-09-27T23:00:00,False,Utah Tech Trailblazers vs Colorado State Rams,Unknown vs Mountain West
+5,Jacksonville State Gamecocks,Sam Houston Bearkats,,,2023-09-26T00:00:00,False,Jacksonville State Gamecocks vs Sam Houston Bearkats,Conference USA vs Conference USA
+6,Michigan Wolverines,Minnesota Golden Gophers,,,,False,Michigan Wolverines vs Minnesota Golden Gophers,Big Ten - East vs Big Ten - West
+6,LSU Tigers,Missouri Tigers,,,,False,LSU Tigers vs Missouri Tigers,SEC - West vs SEC - East
+6,Arkansas Razorbacks,Ole Miss Rebels,,,,False,Arkansas Razorbacks vs Ole Miss Rebels,SEC - West vs SEC - West
+6,Florida International Panthers,New Mexico State Aggies,,,2023-10-07T01:00:00,False,Florida International Panthers vs New Mexico State Aggies,Conference USA vs Conference USA
+6,Maryland Terrapins,Ohio State Buckeyes,,,,False,Maryland Terrapins vs Ohio State Buckeyes,Big Ten - East vs Big Ten - East
+6,Purdue Boilermakers,Iowa Hawkeyes,,,,False,Purdue Boilermakers vs Iowa Hawkeyes,Big Ten - West vs Big Ten - West
+6,Sam Houston Bearkats,Liberty Flames,,,2023-10-07T23:00:00,False,Sam Houston Bearkats vs Liberty Flames,Conference USA vs Conference USA
+6,Western Kentucky Hilltoppers,Louisiana Tech Bulldogs,,,2023-10-08T00:00:00,False,Western Kentucky Hilltoppers vs Louisiana Tech Bulldogs,Conference USA vs Conference USA
+6,Jacksonville State Gamecocks,Middle Tennessee Blue Raiders,,,2023-10-07T00:00:00,False,Jacksonville State Gamecocks vs Middle Tennessee Blue Raiders,Conference USA vs Conference USA
+6,UConn Huskies,Rice Owls,,,,False,UConn Huskies vs Rice Owls,FBS Independents vs American Athletic
+6,Alabama Crimson Tide,Texas A&M Aggies,,,,False,Alabama Crimson Tide vs Texas A&M Aggies,SEC - West vs SEC - West
+6,Rutgers Scarlet Knights,Wisconsin Badgers,,,,False,Rutgers Scarlet Knights vs Wisconsin Badgers,Big Ten - East vs Big Ten - West
+6,Western Michigan Broncos,Mississippi State Bulldogs,,,,False,Western Michigan Broncos vs Mississippi State Bulldogs,Mid-American - West vs SEC - West
+6,Boston College Eagles,Army Black Knights,,,2023-10-09T16:00:00,False,Boston College Eagles vs Army Black Knights,Atlantic Coast vs FBS Independents
+6,Nebraska Cornhuskers,Illinois Fighting Illini,,,2023-10-09T00:00:00,False,Nebraska Cornhuskers vs Illinois Fighting Illini,Big Ten - West vs Big Ten - West
+6,Vanderbilt Commodores,Florida Gators,,,,False,Vanderbilt Commodores vs Florida Gators,SEC - East vs SEC - East
+6,Kentucky Wildcats,Georgia Bulldogs,,,,False,Kentucky Wildcats vs Georgia Bulldogs,SEC - East vs SEC - East
+6,Howard Bison,Northwestern Wildcats,,,2023-10-09T19:00:00,False,Howard Bison vs Northwestern Wildcats,Unknown vs Big Ten - West
+6,Oregon State Beavers,California Golden Bears,,,,False,Oregon State Beavers vs California Golden Bears,Pac-12 vs Pac-12
+6,Washington State Cougars,UCLA Bruins,,,,False,Washington State Cougars vs UCLA Bruins,Pac-12 vs Pac-12
+6,Arizona Wildcats,USC Trojans,,,,False,Arizona Wildcats vs USC Trojans,Pac-12 vs Pac-12
+6,Colorado Buffaloes,Arizona State Sun Devils,,,,False,Colorado Buffaloes vs Arizona State Sun Devils,Pac-12 vs Pac-12
+6,Notre Dame Fighting Irish,Louisville Cardinals,,,,False,Notre Dame Fighting Irish vs Louisville Cardinals,FBS Independents vs Atlantic Coast
+6,Marshall Thundering Herd,NC State Wolfpack,,,,False,Marshall Thundering Herd vs NC State Wolfpack,Sun Belt - East vs Atlantic Coast
+6,Syracuse Orange,North Carolina Tar Heels,,,,False,Syracuse Orange vs North Carolina Tar Heels,Atlantic Coast vs Atlantic Coast
+6,Wake Forest Demon Deacons,Clemson Tigers,,,,False,Wake Forest Demon Deacons vs Clemson Tigers,Atlantic Coast vs Atlantic Coast
+6,Georgia Tech Yellow Jackets,Miami Hurricanes,,,,False,Georgia Tech Yellow Jackets vs Miami Hurricanes,Atlantic Coast vs Atlantic Coast
+6,William & Mary Tribe,Virginia Cavaliers,,,,False,William & Mary Tribe vs Virginia Cavaliers,Unknown vs Atlantic Coast
+6,Virginia Tech Hokies,Florida State Seminoles,,,,False,Virginia Tech Hokies vs Florida State Seminoles,Atlantic Coast vs Atlantic Coast
+6,Kansas State Wildcats,Oklahoma State Cowboys,,,2023-10-08T23:30:00,False,Kansas State Wildcats vs Oklahoma State Cowboys,Big 12 vs Big 12
+6,Texas Longhorns,Oklahoma Sooners,,,,True,Texas Longhorns vs Oklahoma Sooners,Big 12 vs Big 12
+6,UCF Knights,Kansas Jayhawks,,,,False,UCF Knights vs Kansas Jayhawks,Big 12 vs Big 12
+6,Texas Tech Red Raiders,Baylor Bears,,,,False,Texas Tech Red Raiders vs Baylor Bears,Big 12 vs Big 12
+6,TCU Horned Frogs,Iowa State Cyclones,,,,False,TCU Horned Frogs vs Iowa State Cyclones,Big 12 vs Big 12
+6,Toledo Rockets,UMass Minutemen,,,2023-10-09T17:00:00,False,Toledo Rockets vs UMass Minutemen,Mid-American - West vs FBS Independents
+6,UTSA Roadrunners,Temple Owls,,,,False,UTSA Roadrunners vs Temple Owls,American Athletic vs American Athletic
+6,Tulsa Golden Hurricane,Florida Atlantic Owls,,,,False,Tulsa Golden Hurricane vs Florida Atlantic Owls,American Athletic vs American Athletic
+6,North Texas Mean Green,Navy Midshipmen,,,2023-10-09T19:30:00,False,North Texas Mean Green vs Navy Midshipmen,American Athletic vs American Athletic
+6,South Florida Bulls,UAB Blazers,,,,False,South Florida Bulls vs UAB Blazers,American Athletic vs American Athletic
+6,South Alabama Jaguars,UL Monroe Warhawks,,,,False,South Alabama Jaguars vs UL Monroe Warhawks,Sun Belt - West vs Sun Belt - West
+6,Old Dominion Monarchs,Southern Miss Golden Eagles,,,,False,Old Dominion Monarchs vs Southern Miss Golden Eagles,Sun Belt - East vs Sun Belt - West
+6,Arkansas State Red Wolves,Troy Trojans,,,2023-10-09T20:00:00,False,Arkansas State Red Wolves vs Troy Trojans,Sun Belt - West vs Sun Belt - West
+6,Texas State Bobcats,Louisiana Ragin Cajuns,,,,False,Texas State Bobcats vs Louisiana Ragin Cajuns,Sun Belt - West vs Sun Belt - West
+6,Bowling Green Falcons,Miami (OH) RedHawks,,,2023-10-09T19:30:00,False,Bowling Green Falcons vs Miami (OH) RedHawks,Mid-American - East vs Mid-American - East
+6,Kent State Golden Flashes,Ohio Bobcats,,,2023-10-09T19:30:00,False,Kent State Golden Flashes vs Ohio Bobcats,Mid-American - East vs Mid-American - East
+6,Northern Illinois Huskies,Akron Zips,,,2023-10-09T19:30:00,False,Northern Illinois Huskies vs Akron Zips,Mid-American - West vs Mid-American - East
+6,Central Michigan Chippewas,Buffalo Bulls,,,,False,Central Michigan Chippewas vs Buffalo Bulls,Mid-American - West vs Mid-American - East
+6,Ball State Cardinals,Eastern Michigan Eagles,,,2023-10-09T19:30:00,False,Ball State Cardinals vs Eastern Michigan Eagles,Mid-American - West vs Mid-American - West
+6,Fresno State Bulldogs,Wyoming Cowboys,,,,False,Fresno State Bulldogs vs Wyoming Cowboys,Mountain West vs Mountain West
+6,Colorado State Rams,Utah State Aggies,,,2023-10-10T00:00:00,False,Colorado State Rams vs Utah State Aggies,Mountain West vs Mountain West
+6,San Jose State Spartans,Boise State Broncos,,,2023-10-10T00:00:00,False,San Jose State Spartans vs Boise State Broncos,Mountain West vs Mountain West
+7,Illinois Fighting Illini,Maryland Terrapins,,,,False,Illinois Fighting Illini vs Maryland Terrapins,Big Ten - West vs Big Ten - East
+7,Indiana Hoosiers,Michigan Wolverines,,,,False,Indiana Hoosiers vs Michigan Wolverines,Big Ten - East vs Big Ten - East
+7,Michigan State Spartans,Rutgers Scarlet Knights,,,2023-10-11T16:00:00,False,Michigan State Spartans vs Rutgers Scarlet Knights,Big Ten - East vs Big Ten - East
+7,Sam Houston Bearkats,New Mexico State Aggies,,,2023-10-09T01:00:00,False,Sam Houston Bearkats vs New Mexico State Aggies,Conference USA vs Conference USA
+7,UMass Minutemen,Penn State Nittany Lions,,,2023-10-11T19:30:00,False,UMass Minutemen vs Penn State Nittany Lions,FBS Independents vs Big Ten - East
+7,UTEP Miners,Florida International Panthers,,,2023-10-08T23:30:00,False,UTEP Miners vs Florida International Panthers,Conference USA vs Conference USA
+7,Georgia Bulldogs,Vanderbilt Commodores,,,,False,Georgia Bulldogs vs Vanderbilt Commodores,SEC - East vs SEC - East
+7,Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,,,2023-10-07T23:00:00,False,Louisiana Tech Bulldogs vs Middle Tennessee Blue Raiders,Conference USA vs Conference USA
+7,Ohio State Buckeyes,Purdue Boilermakers,,,,False,Ohio State Buckeyes vs Purdue Boilermakers,Big Ten - East vs Big Ten - West
+7,Florida Gators,South Carolina Gamecocks,,,,False,Florida Gators vs South Carolina Gamecocks,SEC - East vs SEC - East
+7,Texas A&M Aggies,Tennessee Volunteers,,,,False,Texas A&M Aggies vs Tennessee Volunteers,SEC - West vs SEC - East
+7,Iowa Hawkeyes,Wisconsin Badgers,,,,False,Iowa Hawkeyes vs Wisconsin Badgers,Big Ten - West vs Big Ten - West
+7,Arkansas Razorbacks,Alabama Crimson Tide,,,,False,Arkansas Razorbacks vs Alabama Crimson Tide,SEC - West vs SEC - West
+7,Troy Trojans,Army Black Knights,,,2023-10-11T19:30:00,False,Troy Trojans vs Army Black Knights,Sun Belt - West vs FBS Independents
+7,Liberty Flames,Jacksonville State Gamecocks,,,2023-10-07T23:30:00,False,Liberty Flames vs Jacksonville State Gamecocks,Conference USA vs Conference USA
+7,Missouri Tigers,Kentucky Wildcats,,,,False,Missouri Tigers vs Kentucky Wildcats,SEC - East vs SEC - East
+7,Auburn Tigers,LSU Tigers,,,,False,Auburn Tigers vs LSU Tigers,SEC - West vs SEC - West
+7,Arizona Wildcats,Washington State Cougars,,,,False,Arizona Wildcats vs Washington State Cougars,Pac-12 vs Pac-12
+7,UCLA Bruins,Oregon State Beavers,,,,False,UCLA Bruins vs Oregon State Beavers,Pac-12 vs Pac-12
+7,California Golden Bears,Utah Utes,,,,False,California Golden Bears vs Utah Utes,Pac-12 vs Pac-12
+7,Oregon Ducks,Washington Huskies,,,,False,Oregon Ducks vs Washington Huskies,Pac-12 vs Pac-12
+7,Stanford Cardinal,Colorado Buffaloes,,,2023-10-11T02:00:00,False,Stanford Cardinal vs Colorado Buffaloes,Pac-12 vs Pac-12
+7,USC Trojans,Notre Dame Fighting Irish,,,2023-10-11T23:30:00,False,USC Trojans vs Notre Dame Fighting Irish,Pac-12 vs FBS Independents
+7,NC State Wolfpack,Duke Blue Devils,,,,False,NC State Wolfpack vs Duke Blue Devils,Atlantic Coast vs Atlantic Coast
+7,Miami Hurricanes,North Carolina Tar Heels,,,,False,Miami Hurricanes vs North Carolina Tar Heels,Atlantic Coast vs Atlantic Coast
+7,Louisville Cardinals,Pittsburgh Panthers,,,,False,Louisville Cardinals vs Pittsburgh Panthers,Atlantic Coast vs Atlantic Coast
+7,Wake Forest Demon Deacons,Virginia Tech Hokies,,,,False,Wake Forest Demon Deacons vs Virginia Tech Hokies,Atlantic Coast vs Atlantic Coast
+7,Syracuse Orange,Florida State Seminoles,,,,False,Syracuse Orange vs Florida State Seminoles,Atlantic Coast vs Atlantic Coast
+7,Kansas Jayhawks,Oklahoma State Cowboys,,,,False,Kansas Jayhawks vs Oklahoma State Cowboys,Big 12 vs Big 12
+7,Iowa State Cyclones,Cincinnati Bearcats,,,,False,Iowa State Cyclones vs Cincinnati Bearcats,Big 12 vs Big 12
+7,West Virginia Mountaineers,Houston Cougars,,,2023-10-09T23:00:00,False,West Virginia Mountaineers vs Houston Cougars,Big 12 vs Big 12
+7,BYU Cougars,TCU Horned Frogs,,,,False,BYU Cougars vs TCU Horned Frogs,Big 12 vs Big 12
+7,Kansas State Wildcats,Texas Tech Red Raiders,,,,False,Kansas State Wildcats vs Texas Tech Red Raiders,Big 12 vs Big 12
+7,SMU Mustangs,East Carolina Pirates,,,2023-10-09T23:30:00,False,SMU Mustangs vs East Carolina Pirates,American Athletic vs American Athletic
+7,Tulane Green Wave,Memphis Tigers,,,2023-10-10T23:00:00,False,Tulane Green Wave vs Memphis Tigers,American Athletic vs American Athletic
+7,Navy Midshipmen,Charlotte 49ers,,,,False,Navy Midshipmen vs Charlotte 49ers,American Athletic vs American Athletic
+7,Temple Owls,North Texas Mean Green,,,,False,Temple Owls vs North Texas Mean Green,American Athletic vs American Athletic
+7,UAB Blazers,UTSA Roadrunners,,,,False,UAB Blazers vs UTSA Roadrunners,American Athletic vs American Athletic
+7,Florida Atlantic Owls,South Florida Bulls,,,,False,Florida Atlantic Owls vs South Florida Bulls,American Athletic vs American Athletic
+7,Coastal Carolina Chanticleers,Appalachian State Mountaineers,,,2023-10-07T23:30:00,False,Coastal Carolina Chanticleers vs Appalachian State Mountaineers,Sun Belt - East vs Sun Belt - East
+7,Marshall Thundering Herd,Georgia State Panthers,,,,False,Marshall Thundering Herd vs Georgia State Panthers,Sun Belt - East vs Sun Belt - East
+7,Georgia Southern Eagles,James Madison Dukes,,,,False,Georgia Southern Eagles vs James Madison Dukes,Sun Belt - East vs Sun Belt - East
+7,UL Monroe Warhawks,Texas State Bobcats,,,2023-10-11T23:00:00,False,UL Monroe Warhawks vs Texas State Bobcats,Sun Belt - West vs Sun Belt - West
+7,Toledo Rockets,Ball State Cardinals,,,,False,Toledo Rockets vs Ball State Cardinals,Mid-American - West vs Mid-American - West
+7,Bowling Green Falcons,Buffalo Bulls,,,2023-10-11T19:30:00,False,Bowling Green Falcons vs Buffalo Bulls,Mid-American - East vs Mid-American - East
+7,Akron Zips,Central Michigan Chippewas,,,2023-10-11T19:30:00,False,Akron Zips vs Central Michigan Chippewas,Mid-American - East vs Mid-American - West
+7,Kent State Golden Flashes,Eastern Michigan Eagles,,,,False,Kent State Golden Flashes vs Eastern Michigan Eagles,Mid-American - East vs Mid-American - West
+7,Ohio Bobcats,Northern Illinois Huskies,,,2023-10-11T19:30:00,False,Ohio Bobcats vs Northern Illinois Huskies,Mid-American - East vs Mid-American - West
+7,Miami (OH) RedHawks,Western Michigan Broncos,,,2023-10-11T19:30:00,False,Miami (OH) RedHawks vs Western Michigan Broncos,Mid-American - East vs Mid-American - West
+7,San Jose State Spartans,New Mexico Lobos,,,2023-10-11T22:00:00,False,San Jose State Spartans vs New Mexico Lobos,Mountain West vs Mountain West
+7,Wyoming Cowboys,Air Force Falcons,,,2023-10-11T23:00:00,False,Wyoming Cowboys vs Air Force Falcons,Mountain West vs Mountain West
+7,UNLV Rebels,Nevada Wolf Pack,,,2023-10-11T21:00:00,False,UNLV Rebels vs Nevada Wolf Pack,Mountain West vs Mountain West
+7,Fresno State Bulldogs,Utah State Aggies,,,2023-10-11T00:00:00,False,Fresno State Bulldogs vs Utah State Aggies,Mountain West vs Mountain West
+7,Boise State Broncos,Colorado State Rams,,,,False,Boise State Broncos vs Colorado State Rams,Mountain West vs Mountain West
+7,San Diego State Aztecs,Hawaii Rainbow Warriors,,,2023-10-12T03:00:00,False,San Diego State Aztecs vs Hawaii Rainbow Warriors,Mountain West vs Mountain West
+8,Michigan Wolverines,Michigan State Spartans,,,,False,Michigan Wolverines vs Michigan State Spartans,Big Ten - East vs Big Ten - East
+8,South Carolina Gamecocks,Missouri Tigers,,,,False,South Carolina Gamecocks vs Missouri Tigers,SEC - East vs SEC - East
+8,Northwestern Wildcats,Nebraska Cornhuskers,,,,False,Northwestern Wildcats vs Nebraska Cornhuskers,Big Ten - West vs Big Ten - West
+8,Penn State Nittany Lions,Ohio State Buckeyes,,,,False,Penn State Nittany Lions vs Ohio State Buckeyes,Big Ten - East vs Big Ten - East
+8,Ole Miss Rebels,Auburn Tigers,,,,False,Ole Miss Rebels vs Auburn Tigers,SEC - West vs SEC - West
+8,Minnesota Golden Gophers,Iowa Hawkeyes,,,,False,Minnesota Golden Gophers vs Iowa Hawkeyes,Big Ten - West vs Big Ten - West
+8,Middle Tennessee Blue Raiders,Liberty Flames,,,2023-10-17T23:00:00,False,Middle Tennessee Blue Raiders vs Liberty Flames,Conference USA vs Conference USA
+8,Florida International Panthers,Sam Houston Bearkats,,,2023-10-18T23:00:00,False,Florida International Panthers vs Sam Houston Bearkats,Conference USA vs Conference USA
+8,New Mexico State Aggies,UTEP Miners,,,2023-10-19T01:00:00,False,New Mexico State Aggies vs UTEP Miners,Conference USA vs Conference USA
+8,Tennessee Volunteers,Alabama Crimson Tide,,,,False,Tennessee Volunteers vs Alabama Crimson Tide,SEC - East vs SEC - West
+8,Wisconsin Badgers,Illinois Fighting Illini,,,,False,Wisconsin Badgers vs Illinois Fighting Illini,Big Ten - West vs Big Ten - West
+8,South Florida Bulls,UConn Huskies,,,2023-10-21T19:30:00,False,South Florida Bulls vs UConn Huskies,American Athletic vs FBS Independents
+8,Western Kentucky Hilltoppers,Jacksonville State Gamecocks,,,2023-10-17T23:30:00,False,Western Kentucky Hilltoppers vs Jacksonville State Gamecocks,Conference USA vs Conference USA
+8,Mississippi State Bulldogs,Arkansas Razorbacks,,,,False,Mississippi State Bulldogs vs Arkansas Razorbacks,SEC - West vs SEC - West
+8,Rutgers Scarlet Knights,Indiana Hoosiers,,,2023-10-21T16:00:00,False,Rutgers Scarlet Knights vs Indiana Hoosiers,Big Ten - East vs Big Ten - East
+8,Army Black Knights,LSU Tigers,,,,False,Army Black Knights vs LSU Tigers,FBS Independents vs SEC - West
+8,UCLA Bruins,Stanford Cardinal,,,,False,UCLA Bruins vs Stanford Cardinal,Pac-12 vs Pac-12
+8,Washington State Cougars,Oregon Ducks,,,,False,Washington State Cougars vs Oregon Ducks,Pac-12 vs Pac-12
+8,Arizona State Sun Devils,Washington Huskies,,,,False,Arizona State Sun Devils vs Washington Huskies,Pac-12 vs Pac-12
+8,Utah Utes,USC Trojans,,,,False,Utah Utes vs USC Trojans,Pac-12 vs Pac-12
+8,Virginia Cavaliers,North Carolina Tar Heels,,,,False,Virginia Cavaliers vs North Carolina Tar Heels,Atlantic Coast vs Atlantic Coast
+8,Pittsburgh Panthers,Wake Forest Demon Deacons,,,,False,Pittsburgh Panthers vs Wake Forest Demon Deacons,Atlantic Coast vs Atlantic Coast
+8,Clemson Tigers,Miami Hurricanes,,,,False,Clemson Tigers vs Miami Hurricanes,Atlantic Coast vs Atlantic Coast
+8,Duke Blue Devils,Florida State Seminoles,,,,False,Duke Blue Devils vs Florida State Seminoles,Atlantic Coast vs Atlantic Coast
+8,Boston College Eagles,Georgia Tech Yellow Jackets,,,,False,Boston College Eagles vs Georgia Tech Yellow Jackets,Atlantic Coast vs Atlantic Coast
+8,UCF Knights,Oklahoma Sooners,,,,False,UCF Knights vs Oklahoma Sooners,Big 12 vs Big 12
+8,Baylor Bears,Cincinnati Bearcats,,,,False,Baylor Bears vs Cincinnati Bearcats,Big 12 vs Big 12
+8,TCU Horned Frogs,Kansas State Wildcats,,,,False,TCU Horned Frogs vs Kansas State Wildcats,Big 12 vs Big 12
+8,Texas Longhorns,Houston Cougars,,,,False,Texas Longhorns vs Houston Cougars,Big 12 vs Big 12
+8,Texas Tech Red Raiders,BYU Cougars,,,,False,Texas Tech Red Raiders vs BYU Cougars,Big 12 vs Big 12
+8,Oklahoma State Cowboys,West Virginia Mountaineers,,,,False,Oklahoma State Cowboys vs West Virginia Mountaineers,Big 12 vs Big 12
+8,Charlotte 49ers,East Carolina Pirates,,,,False,Charlotte 49ers vs East Carolina Pirates,American Athletic vs American Athletic
+8,Rice Owls,Tulsa Golden Hurricane,,,2023-10-19T23:00:00,False,Rice Owls vs Tulsa Golden Hurricane,American Athletic vs American Athletic
+8,SMU Mustangs,Temple Owls,,,2023-10-20T23:00:00,False,SMU Mustangs vs Temple Owls,American Athletic vs American Athletic
+8,UTSA Roadrunners,Florida Atlantic Owls,,,,False,UTSA Roadrunners vs Florida Atlantic Owls,American Athletic vs American Athletic
+8,Air Force Falcons,Navy Midshipmen,,,2023-10-21T16:00:00,False,Air Force Falcons vs Navy Midshipmen,Mountain West vs American Athletic
+8,North Texas Mean Green,Tulane Green Wave,,,,False,North Texas Mean Green vs Tulane Green Wave,American Athletic vs American Athletic
+8,Memphis Tigers,UAB Blazers,,,,False,Memphis Tigers vs UAB Blazers,American Athletic vs American Athletic
+8,Coastal Carolina Chanticleers,Arkansas State Red Wolves,,,2023-10-21T23:00:00,False,Coastal Carolina Chanticleers vs Arkansas State Red Wolves,Sun Belt - East vs Sun Belt - West
+8,James Madison Dukes,Marshall Thundering Herd,,,2023-10-19T23:00:00,False,James Madison Dukes vs Marshall Thundering Herd,Sun Belt - East vs Sun Belt - East
+8,UL Monroe Warhawks,Georgia Southern Eagles,,,2023-10-21T18:00:00,False,UL Monroe Warhawks vs Georgia Southern Eagles,Sun Belt - West vs Sun Belt - East
+8,Appalachian State Mountaineers,Old Dominion Monarchs,,,,False,Appalachian State Mountaineers vs Old Dominion Monarchs,Sun Belt - East vs Sun Belt - East
+8,Georgia State Panthers,Louisiana Ragin Cajuns,,,,False,Georgia State Panthers vs Louisiana Ragin Cajuns,Sun Belt - East vs Sun Belt - West
+8,Southern Miss Golden Eagles,South Alabama Jaguars,,,2023-10-17T23:30:00,False,Southern Miss Golden Eagles vs South Alabama Jaguars,Sun Belt - West vs Sun Belt - West
+8,Akron Zips,Bowling Green Falcons,,,,False,Akron Zips vs Bowling Green Falcons,Mid-American - East vs Mid-American - East
+8,Toledo Rockets,Miami (OH) RedHawks,,,,False,Toledo Rockets vs Miami (OH) RedHawks,Mid-American - West vs Mid-American - East
+8,Western Michigan Broncos,Ohio Bobcats,,,,False,Western Michigan Broncos vs Ohio Bobcats,Mid-American - West vs Mid-American - East
+8,Central Michigan Chippewas,Ball State Cardinals,,,2023-10-21T19:30:00,False,Central Michigan Chippewas vs Ball State Cardinals,Mid-American - West vs Mid-American - West
+8,Buffalo Bulls,Kent State Golden Flashes,,,2023-10-21T19:30:00,False,Buffalo Bulls vs Kent State Golden Flashes,Mid-American - East vs Mid-American - East
+8,Eastern Michigan Eagles,Northern Illinois Huskies,,,,False,Eastern Michigan Eagles vs Northern Illinois Huskies,Mid-American - West vs Mid-American - West
+8,Hawaii Rainbow Warriors,New Mexico Lobos,,,2023-10-21T22:00:00,False,Hawaii Rainbow Warriors vs New Mexico Lobos,Mountain West vs Mountain West
+8,Nevada Wolf Pack,San Diego State Aztecs,,,,False,Nevada Wolf Pack vs San Diego State Aztecs,Mountain West vs Mountain West
+8,Utah State Aggies,San Jose State Spartans,,,2023-10-21T23:00:00,False,Utah State Aggies vs San Jose State Spartans,Mountain West vs Mountain West
+8,Colorado State Rams,UNLV Rebels,,,2023-10-21T23:00:00,False,Colorado State Rams vs UNLV Rebels,Mountain West vs Mountain West
+9,UConn Huskies,Boston College Eagles,,,,False,UConn Huskies vs Boston College Eagles,FBS Independents vs Atlantic Coast
+9,Michigan State Spartans,Minnesota Golden Gophers,,,,False,Michigan State Spartans vs Minnesota Golden Gophers,Big Ten - East vs Big Ten - West
+9,Vanderbilt Commodores,Ole Miss Rebels,,,,False,Vanderbilt Commodores vs Ole Miss Rebels,SEC - East vs SEC - West
+9,Purdue Boilermakers,Nebraska Cornhuskers,,,,False,Purdue Boilermakers vs Nebraska Cornhuskers,Big Ten - West vs Big Ten - West
+9,Mississippi State Bulldogs,Auburn Tigers,,,,False,Mississippi State Bulldogs vs Auburn Tigers,SEC - West vs SEC - West
+9,Indiana Hoosiers,Penn State Nittany Lions,,,,False,Indiana Hoosiers vs Penn State Nittany Lions,Big Ten - East vs Big Ten - East
+9,Jacksonville State Gamecocks,Florida International Panthers,,,2023-10-21T23:00:00,False,Jacksonville State Gamecocks vs Florida International Panthers,Conference USA vs Conference USA
+9,New Mexico State Aggies,Louisiana Tech Bulldogs,,,2023-10-20T23:00:00,False,New Mexico State Aggies vs Louisiana Tech Bulldogs,Conference USA vs Conference USA
+9,South Carolina Gamecocks,Texas A&M Aggies,,,,False,South Carolina Gamecocks vs Texas A&M Aggies,SEC - East vs SEC - West
+9,UTEP Miners,Sam Houston Bearkats,,,2023-10-22T00:00:00,False,UTEP Miners vs Sam Houston Bearkats,Conference USA vs Conference USA
+9,Ohio State Buckeyes,Wisconsin Badgers,,,,False,Ohio State Buckeyes vs Wisconsin Badgers,Big Ten - East vs Big Ten - West
+9,UMass Minutemen,Army Black Knights,,,2023-10-24T16:00:00,False,UMass Minutemen vs Army Black Knights,FBS Independents vs FBS Independents
+9,Georgia Bulldogs,Florida Gators,,,2023-10-24T19:30:00,True,Georgia Bulldogs vs Florida Gators,SEC - East vs SEC - East
+9,Maryland Terrapins,Northwestern Wildcats,,,,False,Maryland Terrapins vs Northwestern Wildcats,Big Ten - East vs Big Ten - West
+9,Tennessee Volunteers,Kentucky Wildcats,,,,False,Tennessee Volunteers vs Kentucky Wildcats,SEC - East vs SEC - East
+9,Liberty Flames,Western Kentucky Hilltoppers,,,2023-10-20T23:30:00,False,Liberty Flames vs Western Kentucky Hilltoppers,Conference USA vs Conference USA
+9,Oregon State Beavers,Arizona Wildcats,,,,False,Oregon State Beavers vs Arizona Wildcats,Pac-12 vs Pac-12
+9,Washington Huskies,Stanford Cardinal,,,,False,Washington Huskies vs Stanford Cardinal,Pac-12 vs Pac-12
+9,USC Trojans,California Golden Bears,,,,False,USC Trojans vs California Golden Bears,Pac-12 vs Pac-12
+9,Oregon Ducks,Utah Utes,,,,False,Oregon Ducks vs Utah Utes,Pac-12 vs Pac-12
+9,Colorado Buffaloes,UCLA Bruins,,,,False,Colorado Buffaloes vs UCLA Bruins,Pac-12 vs Pac-12
+9,Washington State Cougars,Arizona State Sun Devils,,,,False,Washington State Cougars vs Arizona State Sun Devils,Pac-12 vs Pac-12
+9,Pittsburgh Panthers,Notre Dame Fighting Irish,,,2023-10-24T19:30:00,False,Pittsburgh Panthers vs Notre Dame Fighting Irish,Atlantic Coast vs FBS Independents
+9,Clemson Tigers,NC State Wolfpack,,,,False,Clemson Tigers vs NC State Wolfpack,Atlantic Coast vs Atlantic Coast
+9,Florida State Seminoles,Wake Forest Demon Deacons,,,,False,Florida State Seminoles vs Wake Forest Demon Deacons,Atlantic Coast vs Atlantic Coast
+9,Virginia Cavaliers,Miami Hurricanes,,,,False,Virginia Cavaliers vs Miami Hurricanes,Atlantic Coast vs Atlantic Coast
+9,Syracuse Orange,Virginia Tech Hokies,,,2023-10-22T23:30:00,False,Syracuse Orange vs Virginia Tech Hokies,Atlantic Coast vs Atlantic Coast
+9,North Carolina Tar Heels,Georgia Tech Yellow Jackets,,,,False,North Carolina Tar Heels vs Georgia Tech Yellow Jackets,Atlantic Coast vs Atlantic Coast
+9,Duke Blue Devils,Louisville Cardinals,,,,False,Duke Blue Devils vs Louisville Cardinals,Atlantic Coast vs Atlantic Coast
+9,Cincinnati Bearcats,Oklahoma State Cowboys,,,,False,Cincinnati Bearcats vs Oklahoma State Cowboys,Big 12 vs Big 12
+9,West Virginia Mountaineers,UCF Knights,,,,False,West Virginia Mountaineers vs UCF Knights,Big 12 vs Big 12
+9,Oklahoma Sooners,Kansas Jayhawks,,,,False,Oklahoma Sooners vs Kansas Jayhawks,Big 12 vs Big 12
+9,Houston Cougars,Kansas State Wildcats,,,,False,Houston Cougars vs Kansas State Wildcats,Big 12 vs Big 12
+9,Iowa State Cyclones,Baylor Bears,,,,False,Iowa State Cyclones vs Baylor Bears,Big 12 vs Big 12
+9,BYU Cougars,Texas Longhorns,,,,False,BYU Cougars vs Texas Longhorns,Big 12 vs Big 12
+9,Tulane Green Wave,Rice Owls,,,,False,Tulane Green Wave vs Rice Owls,American Athletic vs American Athletic
+9,Florida Atlantic Owls,Charlotte 49ers,,,2023-10-23T23:30:00,False,Florida Atlantic Owls vs Charlotte 49ers,American Athletic vs American Athletic
+9,Memphis Tigers,North Texas Mean Green,,,,False,Memphis Tigers vs North Texas Mean Green,American Athletic vs American Athletic
+9,Tulsa Golden Hurricane,SMU Mustangs,,,,False,Tulsa Golden Hurricane vs SMU Mustangs,American Athletic vs American Athletic
+9,East Carolina Pirates,UTSA Roadrunners,,,,False,East Carolina Pirates vs UTSA Roadrunners,American Athletic vs American Athletic
+9,Southern Miss Golden Eagles,Appalachian State Mountaineers,,,,False,Southern Miss Golden Eagles vs Appalachian State Mountaineers,Sun Belt - West vs Sun Belt - East
+9,Arkansas State Red Wolves,UL Monroe Warhawks,,,,False,Arkansas State Red Wolves vs UL Monroe Warhawks,Sun Belt - West vs Sun Belt - West
+9,Old Dominion Monarchs,James Madison Dukes,,,,False,Old Dominion Monarchs vs James Madison Dukes,Sun Belt - East vs Sun Belt - East
+9,Marshall Thundering Herd,Coastal Carolina Chanticleers,,,,False,Marshall Thundering Herd vs Coastal Carolina Chanticleers,Sun Belt - East vs Sun Belt - East
+9,Troy Trojans,Texas State Bobcats,,,2023-10-24T19:00:00,False,Troy Trojans vs Texas State Bobcats,Sun Belt - West vs Sun Belt - West
+9,Louisiana Ragin Cajuns,South Alabama Jaguars,,,2023-10-24T21:00:00,False,Louisiana Ragin Cajuns vs South Alabama Jaguars,Sun Belt - West vs Sun Belt - West
+9,Georgia State Panthers,Georgia Southern Eagles,,,2023-10-22T23:30:00,False,Georgia State Panthers vs Georgia Southern Eagles,Sun Belt - East vs Sun Belt - East
+9,Miami (OH) RedHawks,Ohio Bobcats,,,,False,Miami (OH) RedHawks vs Ohio Bobcats,Mid-American - East vs Mid-American - East
+9,Western Michigan Broncos,Eastern Michigan Eagles,,,,False,Western Michigan Broncos vs Eastern Michigan Eagles,Mid-American - West vs Mid-American - West
+9,New Mexico Lobos,Nevada Wolf Pack,,,2023-10-25T02:30:00,False,New Mexico Lobos vs Nevada Wolf Pack,Mountain West vs Mountain West
+9,UNLV Rebels,Fresno State Bulldogs,,,,False,UNLV Rebels vs Fresno State Bulldogs,Mountain West vs Mountain West
+9,Air Force Falcons,Colorado State Rams,,,2023-10-24T23:00:00,False,Air Force Falcons vs Colorado State Rams,Mountain West vs Mountain West
+9,San Jose State Spartans,Hawaii Rainbow Warriors,,,2023-10-25T03:59:00,False,San Jose State Spartans vs Hawaii Rainbow Warriors,Mountain West vs Mountain West
+9,Wyoming Cowboys,Boise State Broncos,,,,False,Wyoming Cowboys vs Boise State Broncos,Mountain West vs Mountain West
+10,Penn State Nittany Lions,Maryland Terrapins,,,,False,Penn State Nittany Lions vs Maryland Terrapins,Big Ten - East vs Big Ten - East
+10,Nebraska Cornhuskers,Michigan State Spartans,,,,False,Nebraska Cornhuskers vs Michigan State Spartans,Big Ten - West vs Big Ten - East
+10,Purdue Boilermakers,Michigan Wolverines,,,,False,Purdue Boilermakers vs Michigan Wolverines,Big Ten - West vs Big Ten - East
+10,Illinois Fighting Illini,Minnesota Golden Gophers,,,,False,Illinois Fighting Illini vs Minnesota Golden Gophers,Big Ten - West vs Big Ten - West
+10,Texas A&M Aggies,Ole Miss Rebels,,,,False,Texas A&M Aggies vs Ole Miss Rebels,SEC - West vs SEC - West
+10,Ohio State Buckeyes,Rutgers Scarlet Knights,,,,False,Ohio State Buckeyes vs Rutgers Scarlet Knights,Big Ten - East vs Big Ten - East
+10,Middle Tennessee Blue Raiders,New Mexico State Aggies,,,2023-11-02T22:00:00,False,Middle Tennessee Blue Raiders vs New Mexico State Aggies,Conference USA vs Conference USA
+10,Army Black Knights,Air Force Falcons,,,2023-11-02T18:30:00,True,Army Black Knights vs Air Force Falcons,FBS Independents vs Mountain West
+10,Louisiana Tech Bulldogs,Liberty Flames,,,2023-11-02T22:00:00,False,Louisiana Tech Bulldogs vs Liberty Flames,Conference USA vs Conference USA
+10,Auburn Tigers,Vanderbilt Commodores,,,,False,Auburn Tigers vs Vanderbilt Commodores,SEC - West vs SEC - East
+10,Jacksonville State Gamecocks,South Carolina Gamecocks,,,,False,Jacksonville State Gamecocks vs South Carolina Gamecocks,Conference USA vs SEC - East
+10,UConn Huskies,Tennessee Volunteers,,,,False,UConn Huskies vs Tennessee Volunteers,FBS Independents vs SEC - East
+10,Western Kentucky Hilltoppers,UTEP Miners,,,2023-11-03T01:00:00,False,Western Kentucky Hilltoppers vs UTEP Miners,Conference USA vs Conference USA
+10,LSU Tigers,Alabama Crimson Tide,,,,False,LSU Tigers vs Alabama Crimson Tide,SEC - West vs SEC - West
+10,Kentucky Wildcats,Mississippi State Bulldogs,,,,False,Kentucky Wildcats vs Mississippi State Bulldogs,SEC - East vs SEC - West
+10,Arkansas Razorbacks,Florida Gators,,,,False,Arkansas Razorbacks vs Florida Gators,SEC - West vs SEC - East
+10,Missouri Tigers,Georgia Bulldogs,,,,False,Missouri Tigers vs Georgia Bulldogs,SEC - East vs SEC - East
+10,Iowa Hawkeyes,Northwestern Wildcats,,,,True,Iowa Hawkeyes vs Northwestern Wildcats,Big Ten - West vs Big Ten - West
+10,Wisconsin Badgers,Indiana Hoosiers,,,,False,Wisconsin Badgers vs Indiana Hoosiers,Big Ten - West vs Big Ten - East
+10,Merrimack College Warriors,UMass Minutemen,,,2023-11-02T19:30:00,False,Merrimack College Warriors vs UMass Minutemen,Unknown vs FBS Independents
+10,UCLA Bruins,Arizona Wildcats,,,,False,UCLA Bruins vs Arizona Wildcats,Pac-12 vs Pac-12
+10,California Golden Bears,Oregon Ducks,,,,False,California Golden Bears vs Oregon Ducks,Pac-12 vs Pac-12
+10,Arizona State Sun Devils,Utah Utes,,,,False,Arizona State Sun Devils vs Utah Utes,Pac-12 vs Pac-12
+10,Stanford Cardinal,Washington State Cougars,,,,False,Stanford Cardinal vs Washington State Cougars,Pac-12 vs Pac-12
+10,Washington Huskies,USC Trojans,,,,False,Washington Huskies vs USC Trojans,Pac-12 vs Pac-12
+10,Oregon State Beavers,Colorado Buffaloes,,,,False,Oregon State Beavers vs Colorado Buffaloes,Pac-12 vs Pac-12
+10,Notre Dame Fighting Irish,Clemson Tigers,,,,False,Notre Dame Fighting Irish vs Clemson Tigers,FBS Independents vs Atlantic Coast
+10,Wake Forest Demon Deacons,Duke Blue Devils,,,2023-10-31T23:30:00,False,Wake Forest Demon Deacons vs Duke Blue Devils,Atlantic Coast vs Atlantic Coast
+10,Miami Hurricanes,NC State Wolfpack,,,,False,Miami Hurricanes vs NC State Wolfpack,Atlantic Coast vs Atlantic Coast
+10,Campbell Fighting Camels,North Carolina Tar Heels,,,,False,Campbell Fighting Camels vs North Carolina Tar Heels,Unknown vs Atlantic Coast
+10,Boston College Eagles,Syracuse Orange,,,2023-11-01T23:30:00,False,Boston College Eagles vs Syracuse Orange,Atlantic Coast vs Atlantic Coast
+10,Florida State Seminoles,Pittsburgh Panthers,,,,False,Florida State Seminoles vs Pittsburgh Panthers,Atlantic Coast vs Atlantic Coast
+10,Georgia Tech Yellow Jackets,Virginia Cavaliers,,,,False,Georgia Tech Yellow Jackets vs Virginia Cavaliers,Atlantic Coast vs Atlantic Coast
+10,Virginia Tech Hokies,Louisville Cardinals,,,,False,Virginia Tech Hokies vs Louisville Cardinals,Atlantic Coast vs Atlantic Coast
+10,Oklahoma Sooners,Oklahoma State Cowboys,,,,False,Oklahoma Sooners vs Oklahoma State Cowboys,Big 12 vs Big 12
+10,UCF Knights,Cincinnati Bearcats,,,,False,UCF Knights vs Cincinnati Bearcats,Big 12 vs Big 12
+10,Houston Cougars,Baylor Bears,,,,False,Houston Cougars vs Baylor Bears,Big 12 vs Big 12
+10,Kansas State Wildcats,Texas Longhorns,,,,False,Kansas State Wildcats vs Texas Longhorns,Big 12 vs Big 12
+10,TCU Horned Frogs,Texas Tech Red Raiders,,,2023-10-31T23:00:00,False,TCU Horned Frogs vs Texas Tech Red Raiders,Big 12 vs Big 12
+10,BYU Cougars,West Virginia Mountaineers,,,,False,BYU Cougars vs West Virginia Mountaineers,Big 12 vs Big 12
+10,Kansas Jayhawks,Iowa State Cyclones,,,,False,Kansas Jayhawks vs Iowa State Cyclones,Big 12 vs Big 12
+10,Charlotte 49ers,Tulsa Golden Hurricane,,,,False,Charlotte 49ers vs Tulsa Golden Hurricane,American Athletic vs American Athletic
+10,Tulane Green Wave,East Carolina Pirates,,,,False,Tulane Green Wave vs East Carolina Pirates,American Athletic vs American Athletic
+10,Navy Midshipmen,Temple Owls,,,,False,Navy Midshipmen vs Temple Owls,American Athletic vs American Athletic
+10,South Florida Bulls,Memphis Tigers,,,,False,South Florida Bulls vs Memphis Tigers,American Athletic vs American Athletic
+10,SMU Mustangs,Rice Owls,,,,False,SMU Mustangs vs Rice Owls,American Athletic vs American Athletic
+10,UTSA Roadrunners,North Texas Mean Green,,,,False,UTSA Roadrunners vs North Texas Mean Green,American Athletic vs American Athletic
+10,Florida Atlantic Owls,UAB Blazers,,,,False,Florida Atlantic Owls vs UAB Blazers,American Athletic vs American Athletic
+10,Marshall Thundering Herd,Appalachian State Mountaineers,,,,False,Marshall Thundering Herd vs Appalachian State Mountaineers,Sun Belt - East vs Sun Belt - East
+10,Louisiana Ragin Cajuns,Arkansas State Red Wolves,,,2023-11-02T19:00:00,False,Louisiana Ragin Cajuns vs Arkansas State Red Wolves,Sun Belt - West vs Sun Belt - West
+10,James Madison Dukes,Georgia State Panthers,,,,False,James Madison Dukes vs Georgia State Panthers,Sun Belt - East vs Sun Belt - East
+10,UL Monroe Warhawks,Southern Miss Golden Eagles,,,,False,UL Monroe Warhawks vs Southern Miss Golden Eagles,Sun Belt - West vs Sun Belt - West
+10,South Alabama Jaguars,Troy Trojans,,,2023-10-31T23:30:00,False,South Alabama Jaguars vs Troy Trojans,Sun Belt - West vs Sun Belt - West
+10,Coastal Carolina Chanticleers,Old Dominion Monarchs,,,,False,Coastal Carolina Chanticleers vs Old Dominion Monarchs,Sun Belt - East vs Sun Belt - East
+10,Georgia Southern Eagles,Texas State Bobcats,,,2023-11-02T23:00:00,False,Georgia Southern Eagles vs Texas State Bobcats,Sun Belt - East vs Sun Belt - West
+10,Ball State Cardinals,Bowling Green Falcons,,,,False,Ball State Cardinals vs Bowling Green Falcons,Mid-American - West vs Mid-American - East
+10,Kent State Golden Flashes,Akron Zips,,,,False,Kent State Golden Flashes vs Akron Zips,Mid-American - East vs Mid-American - East
+10,Northern Illinois Huskies,Central Michigan Chippewas,,,,False,Northern Illinois Huskies vs Central Michigan Chippewas,Mid-American - West vs Mid-American - West
+10,Buffalo Bulls,Toledo Rockets,,,,False,Buffalo Bulls vs Toledo Rockets,Mid-American - East vs Mid-American - West
+10,UNLV Rebels,New Mexico Lobos,,,2023-11-02T22:00:00,False,UNLV Rebels vs New Mexico Lobos,Mountain West vs Mountain West
+10,Utah State Aggies,San Diego State Aztecs,,,,False,Utah State Aggies vs San Diego State Aztecs,Mountain West vs Mountain West
+10,Hawaii Rainbow Warriors,Nevada Wolf Pack,,,2023-11-02T20:00:00,False,Hawaii Rainbow Warriors vs Nevada Wolf Pack,Mountain West vs Mountain West
+10,Colorado State Rams,Wyoming Cowboys,,,2023-11-02T00:00:00,False,Colorado State Rams vs Wyoming Cowboys,Mountain West vs Mountain West
+10,Boise State Broncos,Fresno State Bulldogs,,,2023-11-03T02:00:00,False,Boise State Broncos vs Fresno State Bulldogs,Mountain West vs Mountain West
+10,Kennesaw State Owls,Sam Houston Bearkats,,,2023-11-02T17:00:00,False,Kennesaw State Owls vs Sam Houston Bearkats,Unknown vs Conference USA
+11,Tennessee Volunteers,Missouri Tigers,,,,False,Tennessee Volunteers vs Missouri Tigers,SEC - East vs SEC - East
+11,Maryland Terrapins,Nebraska Cornhuskers,,,,False,Maryland Terrapins vs Nebraska Cornhuskers,Big Ten - East vs Big Ten - West
+11,Michigan State Spartans,Ohio State Buckeyes,,,2023-11-07T00:30:00,False,Michigan State Spartans vs Ohio State Buckeyes,Big Ten - East vs Big Ten - East
+11,Michigan Wolverines,Penn State Nittany Lions,,,2023-11-06T17:00:00,False,Michigan Wolverines vs Penn State Nittany Lions,Big Ten - East vs Big Ten - East
+11,Rutgers Scarlet Knights,Iowa Hawkeyes,,,,False,Rutgers Scarlet Knights vs Iowa Hawkeyes,Big Ten - East vs Big Ten - West
+11,Old Dominion Monarchs,Liberty Flames,,,2023-11-06T18:00:00,False,Old Dominion Monarchs vs Liberty Flames,Sun Belt - East vs Conference USA
+11,Sam Houston Bearkats,Louisiana Tech Bulldogs,,,2023-11-06T20:00:00,False,Sam Houston Bearkats vs Louisiana Tech Bulldogs,Conference USA vs Conference USA
+11,Florida International Panthers,Middle Tennessee Blue Raiders,,,2023-11-06T20:30:00,False,Florida International Panthers vs Middle Tennessee Blue Raiders,Conference USA vs Conference USA
+11,Mississippi State Bulldogs,Texas A&M Aggies,,,,False,Mississippi State Bulldogs vs Texas A&M Aggies,SEC - West vs SEC - West
+11,Minnesota Golden Gophers,Purdue Boilermakers,,,,False,Minnesota Golden Gophers vs Purdue Boilermakers,Big Ten - West vs Big Ten - West
+11,UConn Huskies,James Madison Dukes,,,,False,UConn Huskies vs James Madison Dukes,FBS Independents vs Sun Belt - East
+11,Vanderbilt Commodores,South Carolina Gamecocks,,,,False,Vanderbilt Commodores vs South Carolina Gamecocks,SEC - East vs SEC - East
+11,Northwestern Wildcats,Wisconsin Badgers,,,,False,Northwestern Wildcats vs Wisconsin Badgers,Big Ten - West vs Big Ten - West
+11,Holy Cross Crusaders,Army Black Knights,,,2023-11-06T17:00:00,False,Holy Cross Crusaders vs Army Black Knights,Unknown vs FBS Independents
+11,Indiana Hoosiers,Illinois Fighting Illini,,,,False,Indiana Hoosiers vs Illinois Fighting Illini,Big Ten - East vs Big Ten - West
+11,Ole Miss Rebels,Georgia Bulldogs,,,,False,Ole Miss Rebels vs Georgia Bulldogs,SEC - West vs SEC - East
+11,Auburn Tigers,Arkansas Razorbacks,,,,False,Auburn Tigers vs Arkansas Razorbacks,SEC - West vs SEC - West
+11,Alabama Crimson Tide,Kentucky Wildcats,,,,False,Alabama Crimson Tide vs Kentucky Wildcats,SEC - West vs SEC - East
+11,New Mexico State Aggies,Western Kentucky Hilltoppers,,,2023-11-06T20:30:00,False,New Mexico State Aggies vs Western Kentucky Hilltoppers,Conference USA vs Conference USA
+11,Florida Gators,LSU Tigers,,,,False,Florida Gators vs LSU Tigers,SEC - East vs SEC - West
+11,Stanford Cardinal,Oregon State Beavers,,,,False,Stanford Cardinal vs Oregon State Beavers,Pac-12 vs Pac-12
+11,USC Trojans,Oregon Ducks,,,,False,USC Trojans vs Oregon Ducks,Pac-12 vs Pac-12
+11,Washington State Cougars,California Golden Bears,,,,False,Washington State Cougars vs California Golden Bears,Pac-12 vs Pac-12
+11,Arizona State Sun Devils,UCLA Bruins,,,,False,Arizona State Sun Devils vs UCLA Bruins,Pac-12 vs Pac-12
+11,Utah Utes,Washington Huskies,,,,False,Utah Utes vs Washington Huskies,Pac-12 vs Pac-12
+11,Arizona Wildcats,Colorado Buffaloes,,,,False,Arizona Wildcats vs Colorado Buffaloes,Pac-12 vs Pac-12
+11,Virginia Tech Hokies,Boston College Eagles,,,,False,Virginia Tech Hokies vs Boston College Eagles,Atlantic Coast vs Atlantic Coast
+11,Duke Blue Devils,North Carolina Tar Heels,,,,False,Duke Blue Devils vs North Carolina Tar Heels,Atlantic Coast vs Atlantic Coast
+11,NC State Wolfpack,Wake Forest Demon Deacons,,,,False,NC State Wolfpack vs Wake Forest Demon Deacons,Atlantic Coast vs Atlantic Coast
+11,Pittsburgh Panthers,Syracuse Orange,,,2023-11-06T20:30:00,True,Pittsburgh Panthers vs Syracuse Orange,Atlantic Coast vs Atlantic Coast
+11,Georgia Tech Yellow Jackets,Clemson Tigers,,,,False,Georgia Tech Yellow Jackets vs Clemson Tigers,Atlantic Coast vs Atlantic Coast
+11,Miami Hurricanes,Florida State Seminoles,,,,False,Miami Hurricanes vs Florida State Seminoles,Atlantic Coast vs Atlantic Coast
+11,Virginia Cavaliers,Louisville Cardinals,,,2023-11-05T00:30:00,False,Virginia Cavaliers vs Louisville Cardinals,Atlantic Coast vs Atlantic Coast
+11,West Virginia Mountaineers,Oklahoma Sooners,,,,False,West Virginia Mountaineers vs Oklahoma Sooners,Big 12 vs Big 12
+11,Oklahoma State Cowboys,UCF Knights,,,,False,Oklahoma State Cowboys vs UCF Knights,Big 12 vs Big 12
+11,Texas Tech Red Raiders,Kansas Jayhawks,,,,False,Texas Tech Red Raiders vs Kansas Jayhawks,Big 12 vs Big 12
+11,Baylor Bears,Kansas State Wildcats,,,,False,Baylor Bears vs Kansas State Wildcats,Big 12 vs Big 12
+11,Cincinnati Bearcats,Houston Cougars,,,,False,Cincinnati Bearcats vs Houston Cougars,Big 12 vs Big 12
+11,Iowa State Cyclones,BYU Cougars,,,,False,Iowa State Cyclones vs BYU Cougars,Big 12 vs Big 12
+11,Texas Longhorns,TCU Horned Frogs,,,,False,Texas Longhorns vs TCU Horned Frogs,Big 12 vs Big 12
+11,East Carolina Pirates,Florida Atlantic Owls,,,,False,East Carolina Pirates vs Florida Atlantic Owls,American Athletic vs American Athletic
+11,UAB Blazers,Navy Midshipmen,,,2023-11-06T20:30:00,False,UAB Blazers vs Navy Midshipmen,American Athletic vs American Athletic
+11,Memphis Tigers,Charlotte 49ers,,,,False,Memphis Tigers vs Charlotte 49ers,American Athletic vs American Athletic
+11,North Texas Mean Green,SMU Mustangs,,,2023-11-06T02:00:00,False,North Texas Mean Green vs SMU Mustangs,American Athletic vs American Athletic
+11,Rice Owls,UTSA Roadrunners,,,,False,Rice Owls vs UTSA Roadrunners,American Athletic vs American Athletic
+11,Tulsa Golden Hurricane,Tulane Green Wave,,,,False,Tulsa Golden Hurricane vs Tulane Green Wave,American Athletic vs American Athletic
+11,Temple Owls,South Florida Bulls,,,,False,Temple Owls vs South Florida Bulls,American Athletic vs American Athletic
+11,Appalachian State Mountaineers,Georgia State Panthers,,,,False,Appalachian State Mountaineers vs Georgia State Panthers,Sun Belt - East vs Sun Belt - East
+11,Troy Trojans,UL Monroe Warhawks,,,,False,Troy Trojans vs UL Monroe Warhawks,Sun Belt - West vs Sun Belt - West
+11,Georgia Southern Eagles,Marshall Thundering Herd,,,,False,Georgia Southern Eagles vs Marshall Thundering Herd,Sun Belt - East vs Sun Belt - East
+11,Southern Miss Golden Eagles,Louisiana Ragin Cajuns,,,2023-11-05T00:30:00,False,Southern Miss Golden Eagles vs Louisiana Ragin Cajuns,Sun Belt - West vs Sun Belt - West
+11,Texas State Bobcats,Coastal Carolina Chanticleers,,,,False,Texas State Bobcats vs Coastal Carolina Chanticleers,Sun Belt - West vs Sun Belt - East
+11,Arkansas State Red Wolves,South Alabama Jaguars,,,2023-11-06T22:00:00,False,Arkansas State Red Wolves vs South Alabama Jaguars,Sun Belt - West vs Sun Belt - West
+11,Akron Zips,Miami (OH) RedHawks,,,,False,Akron Zips vs Miami (OH) RedHawks,Mid-American - East vs Mid-American - East
+11,Ohio Bobcats,Buffalo Bulls,,,,False,Ohio Bobcats vs Buffalo Bulls,Mid-American - East vs Mid-American - East
+11,Bowling Green Falcons,Kent State Golden Flashes,,,,False,Bowling Green Falcons vs Kent State Golden Flashes,Mid-American - East vs Mid-American - East
+11,Ball State Cardinals,Northern Illinois Huskies,,,,False,Ball State Cardinals vs Northern Illinois Huskies,Mid-American - West vs Mid-American - West
+11,Eastern Michigan Eagles,Toledo Rockets,,,,False,Eastern Michigan Eagles vs Toledo Rockets,Mid-American - West vs Mid-American - West
+11,Central Michigan Chippewas,Western Michigan Broncos,,,2023-11-03T00:30:00,False,Central Michigan Chippewas vs Western Michigan Broncos,Mid-American - West vs Mid-American - West
+11,Fresno State Bulldogs,San Jose State Spartans,,,2023-11-07T03:30:00,False,Fresno State Bulldogs vs San Jose State Spartans,Mountain West vs Mountain West
+11,Wyoming Cowboys,UNLV Rebels,,,2023-11-06T03:45:00,False,Wyoming Cowboys vs UNLV Rebels,Mountain West vs Mountain West
+11,Nevada Wolf Pack,Utah State Aggies,,,2023-11-06T20:00:00,False,Nevada Wolf Pack vs Utah State Aggies,Mountain West vs Mountain West
+11,San Diego State Aztecs,Colorado State Rams,,,2023-11-07T00:00:00,False,San Diego State Aztecs vs Colorado State Rams,Mountain West vs Mountain West
+11,Air Force Falcons,Hawaii Rainbow Warriors,,,2023-11-07T04:00:00,False,Air Force Falcons vs Hawaii Rainbow Warriors,Mountain West vs Mountain West
+11,New Mexico Lobos,Boise State Broncos,,,,False,New Mexico Lobos vs Boise State Broncos,Mountain West vs Mountain West
+12,Michigan Wolverines,Maryland Terrapins,,,,False,Michigan Wolverines vs Maryland Terrapins,Big Ten - East vs Big Ten - East
+12,Florida Gators,Missouri Tigers,,,,False,Florida Gators vs Missouri Tigers,SEC - East vs SEC - East
+12,UL Monroe Warhawks,Ole Miss Rebels,,,,False,UL Monroe Warhawks vs Ole Miss Rebels,Sun Belt - West vs SEC - West
+12,Minnesota Golden Gophers,Ohio State Buckeyes,,,,False,Minnesota Golden Gophers vs Ohio State Buckeyes,Big Ten - West vs Big Ten - East
+12,New Mexico State Aggies,Auburn Tigers,,,,False,New Mexico State Aggies vs Auburn Tigers,Conference USA vs SEC - West
+12,Rutgers Scarlet Knights,Penn State Nittany Lions,,,,False,Rutgers Scarlet Knights vs Penn State Nittany Lions,Big Ten - East vs Big Ten - East
+12,Illinois Fighting Illini,Iowa Hawkeyes,,,,False,Illinois Fighting Illini vs Iowa Hawkeyes,Big Ten - West vs Big Ten - West
+12,UMass Minutemen,Liberty Flames,,,2023-11-18T18:00:00,False,UMass Minutemen vs Liberty Flames,FBS Independents vs Conference USA
+12,UTEP Miners,Middle Tennessee Blue Raiders,,,2023-11-18T19:00:00,False,UTEP Miners vs Middle Tennessee Blue Raiders,Conference USA vs Conference USA
+12,Abilene Christian Wildcats,Texas A&M Aggies,,,2023-11-18T17:00:00,False,Abilene Christian Wildcats vs Texas A&M Aggies,Unknown vs SEC - West
+12,Kentucky Wildcats,South Carolina Gamecocks,,,,False,Kentucky Wildcats vs South Carolina Gamecocks,SEC - East vs SEC - East
+12,Georgia Bulldogs,Tennessee Volunteers,,,,False,Georgia Bulldogs vs Tennessee Volunteers,SEC - East vs SEC - East
+12,Nebraska Cornhuskers,Wisconsin Badgers,,,,False,Nebraska Cornhuskers vs Wisconsin Badgers,Big Ten - West vs Big Ten - West
+12,Chattanooga Mocs,Alabama Crimson Tide,,,2023-11-18T17:00:00,False,Chattanooga Mocs vs Alabama Crimson Tide,Unknown vs SEC - West
+12,Southern Miss Golden Eagles,Mississippi State Bulldogs,,,2023-11-18T17:00:00,False,Southern Miss Golden Eagles vs Mississippi State Bulldogs,Sun Belt - West vs SEC - West
+12,Coastal Carolina Chanticleers,Army Black Knights,,,2023-11-18T17:00:00,False,Coastal Carolina Chanticleers vs Army Black Knights,Sun Belt - East vs FBS Independents
+12,Sacred Heart Pioneers,UConn Huskies,,,2023-11-18T17:00:00,False,Sacred Heart Pioneers vs UConn Huskies,Unknown vs FBS Independents
+12,Louisiana Tech Bulldogs,Jacksonville State Gamecocks,,,2023-11-18T19:00:00,False,Louisiana Tech Bulldogs vs Jacksonville State Gamecocks,Conference USA vs Conference USA
+12,Purdue Boilermakers,Northwestern Wildcats,,,,False,Purdue Boilermakers vs Northwestern Wildcats,Big Ten - West vs Big Ten - West
+12,Florida International Panthers,Arkansas Razorbacks,,,,False,Florida International Panthers vs Arkansas Razorbacks,Conference USA vs SEC - West
+12,Michigan State Spartans,Indiana Hoosiers,,,,False,Michigan State Spartans vs Indiana Hoosiers,Big Ten - East vs Big Ten - East
+12,Sam Houston Bearkats,Western Kentucky Hilltoppers,,,2023-11-18T20:30:00,False,Sam Houston Bearkats vs Western Kentucky Hilltoppers,Conference USA vs Conference USA
+12,Georgia State Panthers,LSU Tigers,,,,False,Georgia State Panthers vs LSU Tigers,Sun Belt - East vs SEC - West
+12,Utah Utes,Arizona Wildcats,,,,False,Utah Utes vs Arizona Wildcats,Pac-12 vs Pac-12
+12,Washington Huskies,Oregon State Beavers,,,,False,Washington Huskies vs Oregon State Beavers,Pac-12 vs Pac-12
+12,California Golden Bears,Stanford Cardinal,,,,False,California Golden Bears vs Stanford Cardinal,Pac-12 vs Pac-12
+12,Colorado Buffaloes,Washington State Cougars,,,2023-11-18T03:30:00,False,Colorado Buffaloes vs Washington State Cougars,Pac-12 vs Pac-12
+12,UCLA Bruins,USC Trojans,,,,False,UCLA Bruins vs USC Trojans,Pac-12 vs Pac-12
+12,Oregon Ducks,Arizona State Sun Devils,,,,False,Oregon Ducks vs Arizona State Sun Devils,Pac-12 vs Pac-12
+12,Wake Forest Demon Deacons,Notre Dame Fighting Irish,,,2023-11-18T20:30:00,False,Wake Forest Demon Deacons vs Notre Dame Fighting Irish,Atlantic Coast vs FBS Independents
+12,Boston College Eagles,Pittsburgh Panthers,,,2023-11-17T00:00:00,False,Boston College Eagles vs Pittsburgh Panthers,Atlantic Coast vs Atlantic Coast
+12,North Carolina Tar Heels,Clemson Tigers,,,,False,North Carolina Tar Heels vs Clemson Tigers,Atlantic Coast vs Atlantic Coast
+12,Louisville Cardinals,Miami Hurricanes,,,,False,Louisville Cardinals vs Miami Hurricanes,Atlantic Coast vs Atlantic Coast
+12,Duke Blue Devils,Virginia Cavaliers,,,,False,Duke Blue Devils vs Virginia Cavaliers,Atlantic Coast vs Atlantic Coast
+12,NC State Wolfpack,Virginia Tech Hokies,,,,False,NC State Wolfpack vs Virginia Tech Hokies,Atlantic Coast vs Atlantic Coast
+12,North Alabama Lions,Florida State Seminoles,,,,False,North Alabama Lions vs Florida State Seminoles,Unknown vs Atlantic Coast
+12,Syracuse Orange,Georgia Tech Yellow Jackets,,,,False,Syracuse Orange vs Georgia Tech Yellow Jackets,Atlantic Coast vs Atlantic Coast
+12,Kansas State Wildcats,Kansas Jayhawks,,,,False,Kansas State Wildcats vs Kansas Jayhawks,Big 12 vs Big 12
+12,Oklahoma State Cowboys,Houston Cougars,,,,False,Oklahoma State Cowboys vs Houston Cougars,Big 12 vs Big 12
+12,Oklahoma Sooners,BYU Cougars,,,,False,Oklahoma Sooners vs BYU Cougars,Big 12 vs Big 12
+12,Baylor Bears,TCU Horned Frogs,,,,False,Baylor Bears vs TCU Horned Frogs,Big 12 vs Big 12
+12,UCF Knights,Texas Tech Red Raiders,,,,False,UCF Knights vs Texas Tech Red Raiders,Big 12 vs Big 12
+12,Cincinnati Bearcats,West Virginia Mountaineers,,,,False,Cincinnati Bearcats vs West Virginia Mountaineers,Big 12 vs Big 12
+12,Texas Longhorns,Iowa State Cyclones,,,,False,Texas Longhorns vs Iowa State Cyclones,Big 12 vs Big 12
+12,North Texas Mean Green,Tulsa Golden Hurricane,,,,False,North Texas Mean Green vs Tulsa Golden Hurricane,American Athletic vs American Athletic
+12,Tulane Green Wave,Florida Atlantic Owls,,,,False,Tulane Green Wave vs Florida Atlantic Owls,American Athletic vs American Athletic
+12,SMU Mustangs,Memphis Tigers,,,,False,SMU Mustangs vs Memphis Tigers,American Athletic vs American Athletic
+12,East Carolina Pirates,Navy Midshipmen,,,2023-11-18T17:00:00,False,East Carolina Pirates vs Navy Midshipmen,American Athletic vs American Athletic
+12,Rice Owls,Charlotte 49ers,,,,False,Rice Owls vs Charlotte 49ers,American Athletic vs American Athletic
+12,South Florida Bulls,UTSA Roadrunners,,,2023-11-18T02:00:00,False,South Florida Bulls vs UTSA Roadrunners,American Athletic vs American Athletic
+12,Temple Owls,UAB Blazers,,,,False,Temple Owls vs UAB Blazers,American Athletic vs American Athletic
+12,Texas State Bobcats,Arkansas State Red Wolves,,,2023-11-18T20:00:00,False,Texas State Bobcats vs Arkansas State Red Wolves,Sun Belt - West vs Sun Belt - West
+12,Appalachian State Mountaineers,James Madison Dukes,,,,False,Appalachian State Mountaineers vs James Madison Dukes,Sun Belt - East vs Sun Belt - East
+12,Louisiana Ragin Cajuns,Troy Trojans,,,2023-11-18T20:30:00,False,Louisiana Ragin Cajuns vs Troy Trojans,Sun Belt - West vs Sun Belt - West
+12,Old Dominion Monarchs,Georgia Southern Eagles,,,,False,Old Dominion Monarchs vs Georgia Southern Eagles,Sun Belt - East vs Sun Belt - East
+12,Marshall Thundering Herd,South Alabama Jaguars,,,2023-11-18T22:00:00,False,Marshall Thundering Herd vs South Alabama Jaguars,Sun Belt - East vs Sun Belt - West
+12,Toledo Rockets,Bowling Green Falcons,,,2023-11-15T00:00:00,False,Toledo Rockets vs Bowling Green Falcons,Mid-American - West vs Mid-American - East
+12,Buffalo Bulls,Miami (OH) RedHawks,,,2023-11-16T00:00:00,False,Buffalo Bulls vs Miami (OH) RedHawks,Mid-American - East vs Mid-American - East
+12,Central Michigan Chippewas,Ohio Bobcats,,,2023-11-16T00:00:00,False,Central Michigan Chippewas vs Ohio Bobcats,Mid-American - West vs Mid-American - East
+12,Kent State Golden Flashes,Ball State Cardinals,,,,False,Kent State Golden Flashes vs Ball State Cardinals,Mid-American - East vs Mid-American - West
+12,Akron Zips,Eastern Michigan Eagles,,,2023-11-15T00:00:00,False,Akron Zips vs Eastern Michigan Eagles,Mid-American - East vs Mid-American - West
+12,Western Michigan Broncos,Northern Illinois Huskies,,,2023-11-15T00:00:00,False,Western Michigan Broncos vs Northern Illinois Huskies,Mid-American - West vs Mid-American - West
+12,UNLV Rebels,Air Force Falcons,,,2023-11-18T20:30:00,False,UNLV Rebels vs Air Force Falcons,Mountain West vs Mountain West
+12,San Diego State Aztecs,San Jose State Spartans,,,2023-11-19T03:30:00,False,San Diego State Aztecs vs San Jose State Spartans,Mountain West vs Mountain West
+12,Hawaii Rainbow Warriors,Wyoming Cowboys,,,2023-11-18T19:00:00,False,Hawaii Rainbow Warriors vs Wyoming Cowboys,Mountain West vs Mountain West
+12,New Mexico Lobos,Fresno State Bulldogs,,,,False,New Mexico Lobos vs Fresno State Bulldogs,Mountain West vs Mountain West
+12,Boise State Broncos,Utah State Aggies,,,2023-11-19T00:00:00,False,Boise State Broncos vs Utah State Aggies,Mountain West vs Mountain West
+12,Nevada Wolf Pack,Colorado State Rams,,,2023-11-18T20:00:00,False,Nevada Wolf Pack vs Colorado State Rams,Mountain West vs Mountain West
+13,UConn Huskies,UMass Minutemen,,,,False,UConn Huskies vs UMass Minutemen,FBS Independents vs FBS Independents
+13,Penn State Nittany Lions,Michigan State Spartans,,,2023-11-26T00:30:00,False,Penn State Nittany Lions vs Michigan State Spartans,Big Ten - East vs Big Ten - East
+13,Ohio State Buckeyes,Michigan Wolverines,,,2023-11-26T17:00:00,False,Ohio State Buckeyes vs Michigan Wolverines,Big Ten - East vs Big Ten - East
+13,Wisconsin Badgers,Minnesota Golden Gophers,,,,False,Wisconsin Badgers vs Minnesota Golden Gophers,Big Ten - West vs Big Ten - West
+13,Iowa Hawkeyes,Nebraska Cornhuskers,,,2023-11-25T17:00:00,False,Iowa Hawkeyes vs Nebraska Cornhuskers,Big Ten - West vs Big Ten - West
+13,Maryland Terrapins,Rutgers Scarlet Knights,,,,False,Maryland Terrapins vs Rutgers Scarlet Knights,Big Ten - East vs Big Ten - East
+13,Jacksonville State Gamecocks,New Mexico State Aggies,,,2023-11-26T21:00:00,False,Jacksonville State Gamecocks vs New Mexico State Aggies,Conference USA vs Conference USA
+13,Alabama Crimson Tide,Auburn Tigers,,,,False,Alabama Crimson Tide vs Auburn Tigers,SEC - West vs SEC - West
+13,Western Kentucky Hilltoppers,Florida International Panthers,,,2023-11-26T20:00:00,False,Western Kentucky Hilltoppers vs Florida International Panthers,Conference USA vs Conference USA
+13,Indiana Hoosiers,Purdue Boilermakers,,,,False,Indiana Hoosiers vs Purdue Boilermakers,Big Ten - East vs Big Ten - West
+13,Middle Tennessee Blue Raiders,Sam Houston Bearkats,,,2023-11-26T17:00:00,False,Middle Tennessee Blue Raiders vs Sam Houston Bearkats,Conference USA vs Conference USA
+13,Clemson Tigers,South Carolina Gamecocks,,,,False,Clemson Tigers vs South Carolina Gamecocks,Atlantic Coast vs SEC - East
+13,Vanderbilt Commodores,Tennessee Volunteers,,,,False,Vanderbilt Commodores vs Tennessee Volunteers,SEC - East vs SEC - East
+13,Liberty Flames,UTEP Miners,,,2023-11-26T20:30:00,False,Liberty Flames vs UTEP Miners,Conference USA vs Conference USA
+13,Ole Miss Rebels,Mississippi State Bulldogs,,,2023-11-25T00:30:00,False,Ole Miss Rebels vs Mississippi State Bulldogs,SEC - West vs SEC - West
+13,Northwestern Wildcats,Illinois Fighting Illini,,,,False,Northwestern Wildcats vs Illinois Fighting Illini,Big Ten - West vs Big Ten - West
+13,Florida State Seminoles,Florida Gators,,,,False,Florida State Seminoles vs Florida Gators,Atlantic Coast vs SEC - East
+13,Georgia Bulldogs,Georgia Tech Yellow Jackets,,,,False,Georgia Bulldogs vs Georgia Tech Yellow Jackets,SEC - East vs Atlantic Coast
+13,Missouri Tigers,Arkansas Razorbacks,,,2023-11-25T21:00:00,False,Missouri Tigers vs Arkansas Razorbacks,SEC - East vs SEC - West
+13,Kentucky Wildcats,Louisville Cardinals,,,,False,Kentucky Wildcats vs Louisville Cardinals,SEC - East vs Atlantic Coast
+13,Texas A&M Aggies,LSU Tigers,,,,False,Texas A&M Aggies vs LSU Tigers,SEC - West vs SEC - West
+13,Notre Dame Fighting Irish,Stanford Cardinal,,,,False,Notre Dame Fighting Irish vs Stanford Cardinal,FBS Independents vs Pac-12
+13,Oregon State Beavers,Oregon Ducks,,,2023-11-26T01:30:00,False,Oregon State Beavers vs Oregon Ducks,Pac-12 vs Pac-12
+13,Colorado Buffaloes,Utah Utes,,,,False,Colorado Buffaloes vs Utah Utes,Pac-12 vs Pac-12
+13,California Golden Bears,UCLA Bruins,,,,False,California Golden Bears vs UCLA Bruins,Pac-12 vs Pac-12
+13,Washington State Cougars,Washington Huskies,,,,False,Washington State Cougars vs Washington Huskies,Pac-12 vs Pac-12
+13,Arizona Wildcats,Arizona State Sun Devils,,,,False,Arizona Wildcats vs Arizona State Sun Devils,Pac-12 vs Pac-12
+13,Miami Hurricanes,Boston College Eagles,,,2023-11-25T17:00:00,False,Miami Hurricanes vs Boston College Eagles,Atlantic Coast vs Atlantic Coast
+13,Pittsburgh Panthers,Duke Blue Devils,,,,False,Pittsburgh Panthers vs Duke Blue Devils,Atlantic Coast vs Atlantic Coast
+13,North Carolina Tar Heels,NC State Wolfpack,,,,False,North Carolina Tar Heels vs NC State Wolfpack,Atlantic Coast vs Atlantic Coast
+13,Wake Forest Demon Deacons,Syracuse Orange,,,,False,Wake Forest Demon Deacons vs Syracuse Orange,Atlantic Coast vs Atlantic Coast
+13,Virginia Tech Hokies,Virginia Cavaliers,,,,False,Virginia Tech Hokies vs Virginia Cavaliers,Atlantic Coast vs Atlantic Coast
+13,BYU Cougars,Oklahoma State Cowboys,,,,False,BYU Cougars vs Oklahoma State Cowboys,Big 12 vs Big 12
+13,TCU Horned Frogs,Oklahoma Sooners,,,2023-11-25T17:00:00,False,TCU Horned Frogs vs Oklahoma Sooners,Big 12 vs Big 12
+13,Houston Cougars,UCF Knights,,,,False,Houston Cougars vs UCF Knights,Big 12 vs Big 12
+13,Kansas Jayhawks,Cincinnati Bearcats,,,,False,Kansas Jayhawks vs Cincinnati Bearcats,Big 12 vs Big 12
+13,Iowa State Cyclones,Kansas State Wildcats,,,,False,Iowa State Cyclones vs Kansas State Wildcats,Big 12 vs Big 12
+13,West Virginia Mountaineers,Baylor Bears,,,,False,West Virginia Mountaineers vs Baylor Bears,Big 12 vs Big 12
+13,Texas Tech Red Raiders,Texas Longhorns,,,2023-11-26T00:30:00,False,Texas Tech Red Raiders vs Texas Longhorns,Big 12 vs Big 12
+13,Tulsa Golden Hurricane,East Carolina Pirates,,,,False,Tulsa Golden Hurricane vs East Carolina Pirates,American Athletic vs American Athletic
+13,Memphis Tigers,Temple Owls,,,,False,Memphis Tigers vs Temple Owls,American Athletic vs American Athletic
+13,Florida Atlantic Owls,Rice Owls,,,,False,Florida Atlantic Owls vs Rice Owls,American Athletic vs American Athletic
+13,UAB Blazers,North Texas Mean Green,,,,False,UAB Blazers vs North Texas Mean Green,American Athletic vs American Athletic
+13,Navy Midshipmen,SMU Mustangs,,,,False,Navy Midshipmen vs SMU Mustangs,American Athletic vs American Athletic
+13,UTSA Roadrunners,Tulane Green Wave,,,,False,UTSA Roadrunners vs Tulane Green Wave,American Athletic vs American Athletic
+13,Charlotte 49ers,South Florida Bulls,,,,False,Charlotte 49ers vs South Florida Bulls,American Athletic vs American Athletic
+13,Georgia Southern Eagles,Appalachian State Mountaineers,,,,False,Georgia Southern Eagles vs Appalachian State Mountaineers,Sun Belt - East vs Sun Belt - East
+13,Troy Trojans,Southern Miss Golden Eagles,,,,False,Troy Trojans vs Southern Miss Golden Eagles,Sun Belt - West vs Sun Belt - West
+13,Arkansas State Red Wolves,Marshall Thundering Herd,,,,False,Arkansas State Red Wolves vs Marshall Thundering Herd,Sun Belt - West vs Sun Belt - East
+13,Georgia State Panthers,Old Dominion Monarchs,,,,False,Georgia State Panthers vs Old Dominion Monarchs,Sun Belt - East vs Sun Belt - East
+13,UL Monroe Warhawks,Louisiana Ragin Cajuns,,,,False,UL Monroe Warhawks vs Louisiana Ragin Cajuns,Sun Belt - West vs Sun Belt - West
+13,James Madison Dukes,Coastal Carolina Chanticleers,,,,False,James Madison Dukes vs Coastal Carolina Chanticleers,Sun Belt - East vs Sun Belt - East
+13,South Alabama Jaguars,Texas State Bobcats,,,2023-11-26T20:00:00,False,South Alabama Jaguars vs Texas State Bobcats,Sun Belt - West vs Sun Belt - West
+13,Ohio Bobcats,Akron Zips,,,2023-11-25T17:00:00,False,Ohio Bobcats vs Akron Zips,Mid-American - East vs Mid-American - East
+13,Miami (OH) RedHawks,Ball State Cardinals,,,,False,Miami (OH) RedHawks vs Ball State Cardinals,Mid-American - East vs Mid-American - West
+13,Eastern Michigan Eagles,Buffalo Bulls,,,,False,Eastern Michigan Eagles vs Buffalo Bulls,Mid-American - West vs Mid-American - East
+13,Toledo Rockets,Central Michigan Chippewas,,,2023-11-25T17:00:00,False,Toledo Rockets vs Central Michigan Chippewas,Mid-American - West vs Mid-American - West
+13,Northern Illinois Huskies,Kent State Golden Flashes,,,,False,Northern Illinois Huskies vs Kent State Golden Flashes,Mid-American - West vs Mid-American - East
+13,Bowling Green Falcons,Western Michigan Broncos,,,,False,Bowling Green Falcons vs Western Michigan Broncos,Mid-American - East vs Mid-American - West
+13,Utah State Aggies,New Mexico Lobos,,,2023-11-25T20:30:00,False,Utah State Aggies vs New Mexico Lobos,Mountain West vs Mountain West
+13,Fresno State Bulldogs,San Diego State Aztecs,,,,False,Fresno State Bulldogs vs San Diego State Aztecs,Mountain West vs Mountain West
+13,San Jose State Spartans,UNLV Rebels,,,2023-11-26T20:00:00,False,San Jose State Spartans vs UNLV Rebels,Mountain West vs Mountain West
+13,Wyoming Cowboys,Nevada Wolf Pack,,,2023-11-27T02:00:00,False,Wyoming Cowboys vs Nevada Wolf Pack,Mountain West vs Mountain West
+13,Colorado State Rams,Hawaii Rainbow Warriors,,,2023-11-27T04:00:00,False,Colorado State Rams vs Hawaii Rainbow Warriors,Mountain West vs Mountain West
+13,Air Force Falcons,Boise State Broncos,,,2023-11-25T21:00:00,False,Air Force Falcons vs Boise State Broncos,Mountain West vs Mountain West
