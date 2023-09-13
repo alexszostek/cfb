@@ -66,10 +66,20 @@ with open(json_file_path, "r") as json_file:
 partial_team_names = team_data["partial_team_names"]
 week_number = team_data["week_number"]
     
-# Filter based on partial team names and week number
-selected_columns_df = selected_columns_df[(selected_columns_df['AwayTeamName'].str.contains('|'.join(partial_team_names)) |
-                                           selected_columns_df['HomeTeamName'].str.contains('|'.join(partial_team_names))) &
+# Convert partial team names to lowercase for case-insensitive matching
+partial_team_names_lower = [name.lower() for name in partial_team_names]
+
+# Convert team names in the DataFrame to lowercase for case-insensitive matching
+selected_columns_df['AwayTeamName_lower'] = selected_columns_df['AwayTeamName'].str.lower()
+selected_columns_df['HomeTeamName_lower'] = selected_columns_df['HomeTeamName'].str.lower()
+
+# Filter based on partial team names and week number (case-insensitive)
+selected_columns_df = selected_columns_df[(selected_columns_df['AwayTeamName_lower'].str.contains('|'.join(partial_team_names_lower)) |
+                                           selected_columns_df['HomeTeamName_lower'].str.contains('|'.join(partial_team_names_lower))) &
                                           (selected_columns_df['Week'] == week_number)]
+
+# Drop the lowercase columns used for matching if not needed in the final output
+selected_columns_df = selected_columns_df.drop(columns=['AwayTeamName_lower', 'HomeTeamName_lower'])
 
 # ... (other code remains the same)
 print(selected_columns_df)

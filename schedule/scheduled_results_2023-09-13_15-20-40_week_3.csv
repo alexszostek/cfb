@@ -1,0 +1,10 @@
+Week,AwayTeamName,HomeTeamName,PointSpread,OverUnder,DateTime,NeutralVenue,Conference_away,Conference_home
+3,North Texas Mean Green,Louisiana Tech Bulldogs,-3.4,51.4,2023-09-16T19:00:00,False,American Athletic,Conference USA
+3,Akron Zips,Kentucky Wildcats,-19.3,36.7,2023-09-16T19:30:00,False,Mid-American - East,SEC - East
+3,Indiana Hoosiers,Louisville Cardinals,-7.6,39.7,2023-09-16T12:00:00,True,Big Ten - East,Atlantic Coast
+3,Sacramento State Hornets,Stanford Cardinal,,,2023-09-16T20:00:00,False,,Pac-12
+3,Bethune-Cookman Wildcats,Miami Hurricanes,-40.1,48.8,2023-09-14T19:30:00,False,,Atlantic Coast
+3,Iowa State Cyclones,Ohio Bobcats,2.0,32.1,2023-09-16T12:00:00,False,Big 12,Mid-American - East
+3,Navy Midshipmen,Memphis Tigers,-10.6,35.2,2023-09-14T19:30:00,False,American Athletic,American Athletic
+3,Duquesne Dukes,Coastal Carolina Chanticleers,,,2023-09-16T19:00:00,False,,Sun Belt - East
+3,North Dakota Fighting Hawks,Boise State Broncos,,,2023-09-16T12:00:00,False,,Mountain West
