@@ -1,0 +1,19 @@
+Week,AwayTeamName,HomeTeamName,PointSpread,OverUnder,DateTime,NeutralVenue,Conference_away,Conference_home
+5,LSU Tigers,Ole Miss Rebels,0.8,37.4,2023-09-30T18:00:00,False,SEC - West,SEC - West
+5,Michigan Wolverines,Nebraska Cornhuskers,5.2,21.3,2023-09-30T15:30:00,False,Big Ten - East,Big Ten - West
+5,Michigan State Spartans,Iowa Hawkeyes,-6.9,20.2,2023-09-30T19:30:00,False,Big Ten - East,Big Ten - West
+5,Utah State Aggies,UConn Huskies,1.8,28.5,2023-09-30T12:00:00,False,Mountain West,FBS Independents
+5,Texas A&M Aggies,Arkansas Razorbacks,2.0,29.6,2023-09-30T12:00:00,True,SEC - West,SEC - West
+5,Florida Gators,Kentucky Wildcats,-0.8,24.4,2023-09-30T12:00:00,False,SEC - East,SEC - East
+5,Utah Utes,Oregon State Beavers,-1.9,24.7,2023-09-29T21:00:00,False,Pac-12,Pac-12
+5,USC Trojans,Colorado Buffaloes,11.9,41.3,2023-09-30T12:00:00,False,Pac-12,Pac-12
+5,Notre Dame Fighting Irish,Duke Blue Devils,1.7,29.1,2023-09-30T19:30:00,False,FBS Independents,Atlantic Coast
+5,Virginia Cavaliers,Boston College Eagles,-1.9,30.2,2023-09-30T14:00:00,False,Atlantic Coast,Atlantic Coast
+5,Pittsburgh Panthers,Virginia Tech Hokies,0.8,21.9,2023-09-30T20:00:00,False,Atlantic Coast,Atlantic Coast
+5,Kansas Jayhawks,Texas Longhorns,-9.1,34.3,2023-09-30T15:30:00,False,Big 12,Big 12
+5,West Virginia Mountaineers,TCU Horned Frogs,-6.9,28.5,2023-09-30T20:00:00,False,Big 12,Big 12
+5,Arkansas State Red Wolves,UMass Minutemen,-0.8,30.5,2023-09-30T15:30:00,False,Sun Belt - West,FBS Independents
+5,South Florida Bulls,Navy Midshipmen,-1.9,30.2,2023-09-30T15:30:00,False,American Athletic,American Athletic
+5,Buffalo Bulls,Akron Zips,-1.7,30.7,2023-09-30T12:00:00,False,Mid-American - East,Mid-American - East
+5,Ball State Cardinals,Western Michigan Broncos,-0.6,28.0,2023-09-30T15:30:00,False,Mid-American - West,Mid-American - West
+5,Utah Tech Trailblazers,Colorado State Rams,,,2023-09-30T19:00:00,False,,Mountain West

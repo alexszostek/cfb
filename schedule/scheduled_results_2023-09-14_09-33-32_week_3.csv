@@ -1,0 +1,13 @@
+Week,AwayTeamName,HomeTeamName,PointSpread,OverUnder,DateTime,NeutralVenue,Conference_away,Conference_home
+3,Washington Huskies,Michigan State Spartans,12.1,41.6,2023-09-16T17:00:00,False,Pac-12,Big Ten - East
+3,Bowling Green Falcons,Michigan Wolverines,-31.0,40.4,2023-09-16T19:30:00,False,Mid-American - East,Big Ten - East
+3,Kansas State Wildcats,Missouri Tigers,2.0,35.9,2023-09-16T12:00:00,False,Big 12,SEC - East
+3,Minnesota Golden Gophers,North Carolina Tar Heels,-5.3,37.8,2023-09-16T15:30:00,False,Big Ten - West,Atlantic Coast
+3,Virginia Tech Hokies,Rutgers Scarlet Knights,-4.9,28.7,2023-09-16T15:30:00,False,Atlantic Coast,Big Ten - East
+3,New Mexico State Aggies,New Mexico Lobos,-1.1,40.4,2023-09-16T20:00:00,False,Conference USA,Mountain West
+3,Syracuse Orange,Purdue Boilermakers,1.4,43.5,2023-09-16T19:30:00,False,Atlantic Coast,Big Ten - West
+3,Tennessee Volunteers,Florida Gators,3.7,44.2,2023-09-16T19:00:00,False,SEC - East,SEC - East
+3,North Carolina Central Eagles,UCLA Bruins,,,2023-09-16T17:00:00,False,,Pac-12
+3,Colorado State Rams,Colorado Buffaloes,-17.8,45.4,2023-09-16T22:00:00,False,Mountain West,Pac-12
+3,Fresno State Bulldogs,Arizona State Sun Devils,1.7,38.2,2023-09-16T22:30:00,False,Mountain West,Pac-12
+3,TCU Horned Frogs,Houston Cougars,4.3,48.8,2023-09-16T20:00:00,False,Big 12,Big 12

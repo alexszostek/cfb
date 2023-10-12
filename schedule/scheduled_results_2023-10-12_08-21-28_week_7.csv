@@ -1,0 +1,13 @@
+Week,AwayTeamName,HomeTeamName,PointSpread,OverUnder,DateTime,NeutralVenue,Conference_away,Conference_home
+7,Indiana Hoosiers,Michigan Wolverines,-20.8,28.3,2023-10-14T12:00:00,False,Big Ten - East,Big Ten - East
+7,Michigan State Spartans,Rutgers Scarlet Knights,-2.8,24.2,2023-10-14T12:00:00,False,Big Ten - East,Big Ten - East
+7,Texas A&M Aggies,Tennessee Volunteers,-1.9,34.2,2023-10-14T15:30:00,False,SEC - West,SEC - East
+7,Iowa Hawkeyes,Wisconsin Badgers,-6.2,21.4,2023-10-14T16:00:00,False,Big Ten - West,Big Ten - West
+7,UCLA Bruins,Oregon State Beavers,-2.2,33.5,2023-10-14T20:00:00,False,Pac-12,Pac-12
+7,Oregon Ducks,Washington Huskies,-1.9,41.9,2023-10-14T15:30:00,False,Pac-12,Pac-12
+7,USC Trojans,Notre Dame Fighting Irish,-1.6,37.6,2023-10-14T19:30:00,False,Pac-12,FBS Independents
+7,Miami Hurricanes,North Carolina Tar Heels,-2.2,35.7,2023-10-14T19:30:00,False,Atlantic Coast,Atlantic Coast
+7,Kansas Jayhawks,Oklahoma State Cowboys,1.2,34.2,2023-10-14T15:30:00,False,Big 12,Big 12
+7,West Virginia Mountaineers,Houston Cougars,1.2,30.7,2023-10-12T19:00:00,False,Big 12,Big 12
+7,Tulane Green Wave,Memphis Tigers,1.7,33.8,2023-10-13T19:00:00,False,American Athletic,American Athletic
+7,Georgia Southern Eagles,James Madison Dukes,-3.7,36.3,2023-10-14T12:00:00,False,Sun Belt - East,Sun Belt - East

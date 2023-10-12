@@ -81,12 +81,16 @@ selected_columns_df = selected_columns_df[(selected_columns_df['AwayTeamName_low
 # Drop the lowercase columns used for matching if not needed in the final output
 selected_columns_df = selected_columns_df.drop(columns=['AwayTeamName_lower', 'HomeTeamName_lower'])
 
-# ... (other code remains the same)
-print(selected_columns_df)
-
 # Create the new CSV file path with folder and date appended
 csv_filepath = f"{folder_name}/scheduled_results_{current_datetime}_week_{week_number}.csv"
 
 # Save the selected results to the new CSV file
 selected_columns_df.to_csv(csv_filepath, index=False)
 print(f"Selected results saved to '{csv_filepath}'")
+
+
+# Add a "row number" column starting from 1
+selected_columns_df['Row Number'] = range(1, len(selected_columns_df) + 1)
+
+# Print the DataFrame with row numbers
+print(selected_columns_df)

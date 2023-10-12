@@ -1,0 +1,13 @@
+Week,AwayTeamName,HomeTeamName,PointSpread,OverUnder,DateTime,NeutralVenue,Conference_away,Conference_home
+6,Michigan Wolverines,Minnesota Golden Gophers,26.7,61.5,2023-10-07T19:30:00,False,Big Ten - East,Big Ten - West
+6,LSU Tigers,Missouri Tigers,8.0,86.2,2023-10-07T12:00:00,False,SEC - West,SEC - East
+6,Purdue Boilermakers,Iowa Hawkeyes,-4.0,50.8,2023-10-07T15:30:00,False,Big Ten - West,Big Ten - West
+6,Western Kentucky Hilltoppers,Louisiana Tech Bulldogs,10.7,78.2,2023-10-05T20:00:00,False,Conference USA,Conference USA
+6,Alabama Crimson Tide,Texas A&M Aggies,2.7,62.2,2023-10-07T15:30:00,False,SEC - West,SEC - West
+6,Nebraska Cornhuskers,Illinois Fighting Illini,-4.7,57.5,2023-10-06T20:00:00,False,Big Ten - West,Big Ten - West
+6,Kentucky Wildcats,Georgia Bulldogs,-19.4,63.5,2023-10-07T19:00:00,False,SEC - East,SEC - East
+6,Washington State Cougars,UCLA Bruins,-4.7,80.2,2023-10-07T15:00:00,False,Pac-12,Pac-12
+6,Notre Dame Fighting Irish,Louisville Cardinals,9.8,72.2,2023-10-07T19:30:00,False,FBS Independents,Atlantic Coast
+6,Texas Longhorns,Oklahoma Sooners,11.6,80.9,2023-10-07T12:00:00,True,Big 12,Big 12
+6,UCF Knights,Kansas Jayhawks,3.6,86.9,2023-10-07T16:00:00,False,Big 12,Big 12
+6,Fresno State Bulldogs,Wyoming Cowboys,9.8,58.8,2023-10-07T20:00:00,False,Mountain West,Mountain West

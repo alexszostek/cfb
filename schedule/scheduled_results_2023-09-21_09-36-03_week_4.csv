@@ -1,0 +1,13 @@
+Week,AwayTeamName,HomeTeamName,PointSpread,OverUnder,DateTime,NeutralVenue,Conference_away,Conference_home
+4,Maryland Terrapins,Michigan State Spartans,12.1,66.7,2023-09-23T15:30:00,False,Big Ten - East,Big Ten - East
+4,Rutgers Scarlet Knights,Michigan Wolverines,-30.5,56.5,2023-09-23T12:00:00,False,Big Ten - East,Big Ten - East
+4,Iowa Hawkeyes,Penn State Nittany Lions,-18.4,51.4,2023-09-23T19:30:00,False,Big Ten - West,Big Ten - East
+4,Auburn Tigers,Texas A&M Aggies,-9.5,65.4,2023-09-23T12:00:00,False,SEC - West,SEC - West
+4,Wisconsin Badgers,Purdue Boilermakers,9.7,67.9,2023-09-22T19:00:00,False,Big Ten - West,Big Ten - West
+4,Ole Miss Rebels,Alabama Crimson Tide,-8.9,70.5,2023-09-23T15:30:00,False,SEC - West,SEC - West
+4,Ohio State Buckeyes,Notre Dame Fighting Irish,5.6,70.5,2023-09-23T19:30:00,False,Big Ten - East,FBS Independents
+4,Colorado Buffaloes,Oregon Ducks,-26.7,89.5,2023-09-23T15:30:00,False,Pac-12,Pac-12
+4,UCLA Bruins,Utah Utes,-5.7,66.7,2023-09-23T15:30:00,False,Pac-12,Pac-12
+4,Oregon State Beavers,Washington State Cougars,4.8,73.7,2023-09-23T19:00:00,False,Pac-12,Pac-12
+4,Florida State Seminoles,Clemson Tigers,4.0,69.8,2023-09-23T12:00:00,False,Atlantic Coast,Atlantic Coast
+4,Southern Miss Golden Eagles,Arkansas State Red Wolves,11.3,61.6,2023-09-23T19:00:00,False,Sun Belt - West,Sun Belt - West

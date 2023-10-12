@@ -22,9 +22,15 @@ def query_cosmos_to_dataframe(container, query):
     data = list(result_iterable)
     return pd.DataFrame(data)
 
+
+#   "AwayTeamScore": 3,
+#   "HomeTeamScore": 26,
+
+
 # Query for schedule results
 schedule_container = database.get_container_client(SCHEDULE_CONTAINER_NAME)
-schedule_query = "SELECT c.Week, c.AwayTeamName, c.AwayTeamID, c.HomeTeamName, c.HomeTeamID, c.PointSpread, c.OverUnder, c.DateTimeUTC, c.NeutralVenue FROM c"
+schedule_query = "SELECT c.Week, c.AwayTeamName, c.AwayTeamID, c.AwayTeamScore, c.HomeTeamName, c.HomeTeamID, c.HomeTeamScore, \
+    c.PointSpread, c.OverUnder, c.DateTimeUTC, c.NeutralVenue FROM c"
 df_schedule = query_cosmos_to_dataframe(schedule_container, schedule_query)
 
 # Query for teams results
@@ -41,11 +47,13 @@ df_team_home.columns = [f"{col}_home" for col in df_team_home.columns]
 
 # Merge and select columns for away teams
 merged_df = pd.merge(df_schedule, df_team_away, left_on="AwayTeamID", right_on="TeamID_away", how="left")
-selected_columns_df = merged_df[["Week", "AwayTeamName", "AwayTeamID", "HomeTeamName", "HomeTeamID", "PointSpread", "OverUnder", "DateTimeUTC", "NeutralVenue", "Conference_away"]]
+selected_columns_df = merged_df[["Week", "AwayTeamName", "AwayTeamID", "AwayTeamScore","HomeTeamName", "HomeTeamID", "HomeTeamScore", "PointSpread", "OverUnder", "DateTimeUTC", \
+                                 "NeutralVenue", "Conference_away"]]
 
 # Merge and select columns for home teams
 selected_columns_df = pd.merge(selected_columns_df, df_team_home, left_on="HomeTeamID", right_on="TeamID_home", how="left")
-selected_columns_df = selected_columns_df[["Week", "AwayTeamName", "AwayTeamID", "HomeTeamName", "HomeTeamID", "PointSpread", "OverUnder", "DateTimeUTC", "NeutralVenue", "Conference_away", "Conference_home"]]
+selected_columns_df = selected_columns_df[["Week", "AwayTeamName", "AwayTeamID", "AwayTeamScore","HomeTeamName", "HomeTeamID", "HomeTeamScore","PointSpread", "OverUnder", "DateTimeUTC", \
+    "NeutralVenue", "Conference_away", "Conference_home"]]
 
 # Add a new column for team concatenation
 selected_columns_df['TeamsConcatenated'] = selected_columns_df['AwayTeamName'] + ' vs ' + selected_columns_df['HomeTeamName']
@@ -65,7 +73,8 @@ selected_columns_df['ConferenceConcatenated'] = selected_columns_df.apply(lambda
 # Generate the current date
 current_datetime = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
-selected_columns_df = selected_columns_df[["Week", "AwayTeamName", "HomeTeamName", "PointSpread", "OverUnder", "DateTimeUTC", "NeutralVenue","TeamsConcatenated", "ConferenceConcatenated"]]
+selected_columns_df = selected_columns_df[["Week", "AwayTeamName", "AwayTeamScore","HomeTeamName", "HomeTeamScore","PointSpread", "OverUnder", "DateTimeUTC", \
+    "NeutralVenue","TeamsConcatenated", "ConferenceConcatenated"]]
 
 # Define the folder name
 folder_name = "schedule"

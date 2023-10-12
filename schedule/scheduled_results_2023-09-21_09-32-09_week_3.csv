@@ -1,0 +1,13 @@
+Week,AwayTeamName,HomeTeamName,PointSpread,OverUnder,DateTime,NeutralVenue,Conference_away,Conference_home
+3,Washington Huskies,Michigan State Spartans,11.7,42.7,2023-09-16T17:00:00,False,Pac-12,Big Ten - East
+3,Bowling Green Falcons,Michigan Wolverines,-30.6,40.4,2023-09-16T19:30:00,False,Mid-American - East,Big Ten - East
+3,Western Kentucky Hilltoppers,Ohio State Buckeyes,-22.3,49.1,2023-09-16T16:00:00,False,Conference USA,Big Ten - East
+3,Samford Bulldogs,Auburn Tigers,-28.7,46.1,2023-09-16T19:00:00,False,,SEC - West
+3,Western Michigan Broncos,Iowa Hawkeyes,-21.5,32.5,2023-09-16T15:30:00,False,Mid-American - West,Big Ten - West
+3,Georgia Southern Eagles,Wisconsin Badgers,-15.9,49.5,2023-09-16T12:00:00,False,Sun Belt - East,Big Ten - West
+3,Alabama Crimson Tide,South Florida Bulls,25.7,46.1,2023-09-16T15:30:00,False,SEC - West,American Athletic
+3,San Diego State Aztecs,Oregon State Beavers,-18.9,36.7,2023-09-16T15:30:00,False,Mountain West,Pac-12
+3,Weber State Wildcats,Utah Utes,-20.4,33.6,2023-09-16T14:00:00,False,,Pac-12
+3,Colorado State Rams,Colorado Buffaloes,-16.3,47.2,2023-09-16T22:00:00,False,Mountain West,Pac-12
+3,Florida Atlantic Owls,Clemson Tigers,-18.5,38.9,2023-09-16T20:00:00,False,American Athletic,Atlantic Coast
+3,Stony Brook Seawolves,Arkansas State Red Wolves,-17.0,35.9,2023-09-16T19:00:00,False,,Sun Belt - West
