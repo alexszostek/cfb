@@ -3,7 +3,8 @@ __pycache__/
 *.pyc
 *.pyo
 *.xlsx
-*.json
+# *.json
+*.csv
 
 # Ignore virtual environment folders
 venv/
